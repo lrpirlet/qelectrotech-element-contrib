@@ -1,0 +1,28 @@
+<definition width="60" height="50" hotspot_y="25" orientation="dyyy" type="element" version="0.70" link_type="simple" hotspot_x="25">
+    <uuid uuid="{79e7afec-7616-4006-92fc-1abad3626ea5}"/>
+    <names>
+        <name lang="pt">Sensor de Presença</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text text="N" size="4" y="15" x="-5"/>
+        <text text="CARGA" size="4" y="15" x="16"/>
+        <input tagg="label" text="_" size="9" y="-8" x="24"/>
+        <arc width="42" height="40" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-20" antialias="true" start="90" angle="90" x="-21"/>
+        <arc width="42" height="40" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-20" antialias="true" start="0" angle="90" x="-21"/>
+        <line length2="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="0" length1="1.5" antialias="false" x2="20" end1="none" x1="-20" y1="0"/>
+        <line length2="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="5" length1="1.5" antialias="false" x2="-20" end1="none" x1="-20" y1="0"/>
+        <line length2="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="5" length1="1.5" antialias="false" x2="20" end1="none" x1="-20" y1="5"/>
+        <line length2="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="0" length1="1.5" antialias="false" x2="20" end1="none" x1="20" y1="5"/>
+        <line length2="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="20" length1="1.5" antialias="false" x2="0" end1="none" x1="0" y1="5"/>
+        <line length2="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="20" length1="1.5" antialias="false" x2="-15" end1="none" x1="-15" y1="5"/>
+        <line length2="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="20" length1="1.5" antialias="false" x2="15" end1="none" x1="15" y1="5"/>
+        <text text="F" size="4" y="15" x="-20"/>
+        <arc width="24" height="12" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-22" antialias="true" start="180" angle="90" x="-12"/>
+        <arc width="24" height="12" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-22" antialias="true" start="270" angle="90" x="-12"/>
+        <terminal y="20" orientation="e" x="20"/>
+        <terminal y="20" orientation="s" x="0"/>
+        <terminal y="20" orientation="w" x="-20"/>
+    </description>
+</definition>

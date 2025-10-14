@@ -1,0 +1,65 @@
+<definition height="70" version="0.90" width="50" link_type="master" hotspot_x="30" type="element" hotspot_y="37">
+    <uuid uuid="{fb394af7-bbac-4859-b7b4-6cbcc7b5c945}"/>
+    <names>
+        <name lang="pt">DISJUNTOR BIFÁSICO</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">protection</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="comment" show="1">6A</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">DISJUNTOR MDW-C6-2 TIPO C BIPOLAR 6A 5KA</elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1">Q</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">10076399</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1">Q10076399</elementInformation>
+        <elementInformation name="manufacturer" show="1">WEG</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-10" y2="-10" x1="-15" x2="5" style="line-style:dashed;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-19.5" y2="-15.5" x1="12" x2="8" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-19.5" y2="-15.5" x1="-8" x2="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-19.5" y2="-15.5" x1="8" x2="12" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-19.5" y2="-15.5" x1="-12" x2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="13" y="19" text="4"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="-7" y="19" text="2"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="13" y="-21" text="3"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="-7" y="-21" text="1"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-18" y2="-30" x1="10" x2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-18" y2="-30" x1="-10" x2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon y1="-15" y2="4" closed="false" y3="25" x1="-17" x2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="-10" antialias="false"/>
+        <polygon y1="-15" y2="4" closed="false" y3="25" x1="3" x2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="10" antialias="false"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y1="2" y2="0" y3="-3" y4="-5" y5="-2" y6="-7" antialias="false" x1="-28" y7="4" x2="-25" y8="7" x3="-27" x4="-24" x5="-22" closed="false" x6="-14" x7="-10" x8="-10"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_width="-1" text_from="CompositeText" uuid="{08fc1ab8-6af6-461f-9285-84d06042a535}" rotation="0" Valignment="AlignTop" x="-59" keep_visual_rotation="true" y="0" Halignment="AlignLeft" z="14" frame="false">
+            <text>6A</text>
+            <composite_text>%{comment}</composite_text>
+        </dynamic_text>
+        <dynamic_text font="Calibri,6,-1,5,50,0,0,0,0,0,Regular" text_width="0" text_from="UserText" uuid="{9f0a1c4d-ee73-4cae-a82e-861e5a5063c3}" rotation="0" Valignment="AlignTop" x="-59" keep_visual_rotation="false" y="30" Halignment="AlignLeft" z="15" frame="false">
+            <text>5KA</text>
+        </dynamic_text>
+        <dynamic_text font="Calibri,6,-1,5,50,0,0,0,0,0,Regular" text_width="0" text_from="UserText" uuid="{9f0a1c4d-ee73-4cae-a82e-861e5a5063c3}" rotation="0" Valignment="AlignTop" x="-42" keep_visual_rotation="false" y="20" Halignment="AlignLeft" z="15" frame="false">
+            <text>C</text>
+        </dynamic_text>
+        <dynamic_text font="Calibri,6,-1,5,50,0,0,0,0,0,Regular" text_width="0" text_from="UserText" uuid="{9f0a1c4d-ee73-4cae-a82e-861e5a5063c3}" rotation="0" Valignment="AlignTop" x="-59" keep_visual_rotation="false" y="20" Halignment="AlignLeft" z="15" frame="false">
+            <text>TIPO</text>
+        </dynamic_text>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y1="2" y2="0" y3="-3" y4="-5" y5="-2" y6="-7" antialias="false" x1="-8" y7="4" x2="-5" y8="7" x3="-7" x4="-4" x5="-2" closed="false" x6="6" x7="10" x8="10"/>
+        <polygon y1="5" y2="1" y3="5" x1="-26" x2="-24" style="line-style:normal;line-weight:thin;filling:black;color:black" x3="-22" antialias="false"/>
+        <polygon y1="5" y2="1" y3="5" x1="-6" x2="-4" style="line-style:normal;line-weight:thin;filling:black;color:black" x3="-2" antialias="false"/>
+        <polygon y1="3" y2="3" closed="false" y3="-3" x1="-24" x2="-23" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="-13" antialias="false"/>
+        <polygon y1="3" y2="3" closed="false" y3="-3" x1="-4" x2="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="7" antialias="false"/>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_width="-1" text_from="ElementInfo" uuid="{147d7f25-7ecd-4a9f-87da-762579be5eae}" rotation="0" Valignment="AlignTop" x="-58" keep_visual_rotation="true" y="-17.5" Halignment="AlignLeft" z="30" frame="false">
+            <text>Q</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal orientation="n" name="" uuid="{dbeabbbf-5004-4f3a-b759-681bd5d54abf}" x="-10" y="-30" type="Generic"/>
+        <terminal orientation="n" name="" uuid="{3642bc72-4f49-402a-a229-ee384dbd0b54}" x="10" y="-30" type="Generic"/>
+        <terminal orientation="s" name="" uuid="{38c8cfe8-f22b-4269-b5e0-2bdc81b12991}" x="-10" y="25" type="Generic"/>
+        <terminal orientation="s" name="" uuid="{0b16f088-0e7d-4b55-b3d3-0feca9421c14}" x="10" y="25" type="Generic"/>
+    </description>
+</definition>

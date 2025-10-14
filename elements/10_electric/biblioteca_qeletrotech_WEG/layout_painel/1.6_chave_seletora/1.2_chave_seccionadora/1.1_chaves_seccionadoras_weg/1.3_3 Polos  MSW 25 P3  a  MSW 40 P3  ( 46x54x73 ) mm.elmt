@@ -1,0 +1,35 @@
+<definition height="60" hotspot_x="6" hotspot_y="3" type="element" width="60" version="0.90" link_type="terminal">
+    <uuid uuid="{098fce33-ddf0-42de-9778-e10f939b5a0a}"/>
+    <names>
+        <name lang="pt">Seccionadora MSW40-P3H1 40A TOPO</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">generic</kindInformation>
+        <kindInformation name="function">generic</kindInformation>
+    </kindInformations>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect height="54" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:black;color:black" x="0" y="0" width="46" antialias="true"/>
+        <rect height="52" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLYellowGold;color:black" x="1" y="1" width="44" antialias="true"/>
+        <ellipse height="41" style="line-style:normal;line-weight:normal;filling:HTMLRedRed;color:yellow" x="3" width="40" y="7" antialias="false"/>
+        <line end1="none" style="line-style:normal;line-weight:thin;filling:none;color:cyan" end2="none" length1="1.5" length2="1.5" y1="0" y2="1" x1="23" x2="23" antialias="false"/>
+        <line end1="none" style="line-style:normal;line-weight:thin;filling:none;color:cyan" end2="none" length1="1.5" length2="1.5" y1="53" y2="54" x1="23" x2="23" antialias="false"/>
+        <line end1="none" style="line-style:normal;line-weight:thin;filling:none;color:cyan" end2="none" length1="1.5" length2="1.5" y1="27" y2="27" x1="1" x2="0" antialias="false"/>
+        <arc height="22" style="line-style:normal;line-weight:eleve;filling:none;color:green" x="11" start="161.5" y="16" width="22" angle="40.1875" antialias="true"/>
+        <arc height="16" style="line-style:normal;line-weight:eleve;filling:none;color:red" x="7" start="91.25" y="19" width="10" angle="179.5" antialias="true"/>
+        <circle style="line-style:normal;line-weight:thin;filling:red;color:black" x="12" y="16" diameter="22" antialias="false"/>
+        <rect height="8" rx="1" ry="4" style="line-style:normal;line-weight:thin;filling:red;color:black" x="12" y="23" width="36" antialias="false"/>
+        <circle style="line-style:normal;line-weight:thin;filling:gray;color:black" x="21" y="25" diameter="4" antialias="false"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" length2="1.5" y1="27" y2="27" x1="22" x2="24" antialias="false"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" length2="1.5" y1="26" y2="28" x1="23" x2="23" antialias="false"/>
+        <rect height="8" rx="1" ry="4" style="line-style:normal;line-weight:thin;filling:red;color:black" x="41" y="23" width="6" antialias="false"/>
+        <line end1="none" style="line-style:normal;line-weight:thin;filling:none;color:cyan" end2="none" length1="1.5" length2="1.5" y1="27" y2="27" x1="47" x2="48" antialias="false"/>
+        <rect height="8" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:red;color:red" x="40" y="23" width="4" antialias="false"/>
+        <line end1="none" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" length1="1.5" length2="1.5" y1="23" y2="23" x1="36" x2="46" antialias="false"/>
+        <line end1="none" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" length1="1.5" length2="1.5" y1="31" y2="31" x1="36" x2="46" antialias="false"/>
+        <arc height="41" style="line-style:normal;line-weight:normal;filling:none;color:gray" x="3" start="170.5" y="7" width="40" angle="15.8125" antialias="true"/>
+        <arc height="41" style="line-style:normal;line-weight:normal;filling:none;color:gray" x="3" start="263.75" y="7" width="40" angle="14.0625" antialias="true"/>
+        <arc height="41" style="line-style:normal;line-weight:normal;filling:none;color:gray" x="3" start="82.1875" y="7" width="40" angle="13.8125" antialias="true"/>
+    </description>
+</definition>

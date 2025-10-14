@@ -1,0 +1,44 @@
+<definition version="0.80" type="element" height="40" link_type="master" hotspot_x="20" hotspot_y="21" width="40">
+    <uuid uuid="{1c680da1-926b-47c4-98bf-275bc2042b6f}"/>
+    <names>
+        <name lang="pt">BOBINA RELE ESTADO SOLIDO</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type" show="1">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="comment" show="1">_A</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text frame="false" font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" rotation="0" text_from="UserText" Halignment="AlignLeft" x="2" uuid="{26ffde1a-68cd-4e95-bb6f-9f6968be2b8d}" y="1" z="1" text_width="-1">
+            <text>-4</text>
+        </dynamic_text>
+        <line y2="1.04281" x1="-12.5556" x2="12.1348" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="1.04281"/>
+        <line y2="-6.5" x1="0" x2="0" end1="none" antialias="true" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="-17"/>
+        <dynamic_text frame="false" font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" rotation="0" text_from="UserText" Halignment="AlignLeft" x="1" uuid="{eca4558b-fab9-4213-b677-eef8069e8cdd}" y="-23" z="4" text_width="-1">
+            <text>+3</text>
+        </dynamic_text>
+        <polygon y2="1.04281" y3="1.04281" x1="-6.38301" y4="-6.30154" x2="-10.792" antialias="true" x3="-1.974" x4="-6.38301" closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-6.30154"/>
+        <dynamic_text frame="false" font="Sans Serif,8,-1,5,50,0,0,0,0,0" Valignment="AlignTop" rotation="0" text_from="ElementInfo" Halignment="AlignLeft" x="-42" uuid="{3591c112-2671-4d5f-a2fb-9e6e9af742e2}" y="-13" z="6" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y2="1.5" x1="0" x2="0" end1="none" antialias="true" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="13"/>
+        <line y2="-6.30154" x1="-12.5556" x2="12.1348" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="-6.30154"/>
+        <polygon y2="-6.30154" y3="1.04281" x1="1.55321" y4="-6.30154" x2="10.3712" antialias="true" x3="5.96221" x4="1.55321" closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-6.30154"/>
+        <rect height="14" antialias="false" rx="0" ry="0" x="-15" y="-9.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="30"/>
+        <terminal orientation="s" name="" x="0" uuid="{f82e7823-c128-4fe7-913b-6fe7a8f712ea}" y="13"/>
+        <terminal orientation="n" name="" x="0" uuid="{af0ee3d7-986e-438e-8e95-c2cc577bae85}" y="-17"/>
+    </description>
+</definition>

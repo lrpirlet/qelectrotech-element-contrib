@@ -1,0 +1,40 @@
+<definition height="70" link_type="simple" type="element" hotspot_x="8" hotspot_y="34" version="0.80" width="30">
+    <uuid uuid="{8bc6e6ed-61aa-4b73-9396-336a3eabe8b9}"/>
+    <names>
+        <name lang="pt">Chave Seletora</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description">Chave Seletora 1nf</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y1="1" y2="1" length1="1.5" length2="1.5" antialias="false" x1="10.25" end1="none" x2="7.25" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line y1="7" y2="7" length1="1.5" length2="1.5" antialias="false" x1="-2.15" end1="none" x2="0" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="1" y2="1" length1="1.5" length2="1.5" antialias="false" x1="15" end1="none" x2="12.25" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line y1="-5" y2="-5" length1="1.5" length2="1.5" antialias="true" x1="15" end1="none" x2="20" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="1" y2="1" length1="1.5" length2="1.5" antialias="false" x1="5.25" end1="none" x2="2.25" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <text text="2" x="13.25" y="25" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
+        <polygon y1="30" y2="15" y3="-5" antialias="false" x1="10" y4="-5" x2="10" y5="-30" closed="false" x3="18" x4="10" x5="10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text text="1" x="13.25" y="-19" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
+        <line y1="10" y2="-7" length1="1.5" length2="1.5" antialias="false" x1="12" end1="none" x2="19" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="1" y2="1" length1="1.5" length2="1.5" antialias="false" x1="0.25" end1="none" x2="-2.75" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line y1="-4" y2="7" length1="1.5" length2="1.5" antialias="false" x1="-2.9" end1="none" x2="-2.9" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="-4" y2="-4" length1="1.5" length2="1.5" antialias="false" x1="-5.75" end1="none" x2="-2.9" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text x="-26.75" y="-8" z="38" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" rotation="0" text_from="ElementInfo" Valignment="AlignTop" uuid="{789e6c6f-9e57-4d4c-9b1c-155aca2381ed}" Halignment="AlignLeft" frame="false" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal orientation="s" x="10" y="30" name="" uuid="{8ab9d64e-986f-4a43-8368-b9f3cc95017b}"/>
+        <terminal orientation="n" x="10" y="-30" name="" uuid="{4132cb2c-c46f-431d-8b66-cebf0b18de0d}"/>
+    </description>
+</definition>

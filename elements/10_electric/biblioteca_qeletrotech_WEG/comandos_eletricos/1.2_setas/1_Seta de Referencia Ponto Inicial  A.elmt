@@ -1,0 +1,13 @@
+<definition width="30" version="0.51" height="20" orientation="dyyy" link_type="previous_report" hotspot_x="17" type="element" hotspot_y="10">
+    <uuid uuid="{21d37a95-291b-40ea-ac78-8c90758b0e82}"/>
+    <names>
+        <name lang="pt">SETA DIREITA</name>
+    </names>
+    <informations></informations>
+    <description>
+        <polygon y1="-4" y2="4" y3="0" x1="-10" y4="-4" x2="-10" x3="0" x4="-10" closed="false" antialias="true" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <line y1="0" y2="0" x1="0" x2="3" antialias="false" end1="none" length1="1.5" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <input size="9" rotate="true" x="-53" text="/" y="0" tagg="none"/>
+        <terminal orientation="e" x="4" y="0"/>
+    </description>
+</definition>

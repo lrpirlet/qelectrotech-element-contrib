@@ -1,0 +1,41 @@
+<definition hotspot_y="14" type="element" width="60" height="30" version="0.90" link_type="simple" hotspot_x="4">
+    <uuid uuid="{6e755aee-7eac-468a-890d-69f3b1da763c}"/>
+    <names>
+        <name lang="pt">Transformador de Corrente TC</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label">TC_</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <arc style="line-style:normal;line-weight:thin;filling:none;color:black" start="90" width="6.3" height="4.01303" angle="180" x="-2.5" y="2.0026" antialias="true"/>
+        <arc style="line-style:normal;line-weight:thin;filling:none;color:black" start="90" width="6.3" height="4.01303" angle="180" x="-2.5" y="-2.01043" antialias="true"/>
+        <circle style="line-style:normal;line-weight:thin;filling:black;color:black" diameter="2" x="45" y="9" antialias="false"/>
+        <polygon y3="10" x1="4" x2="4" x3="49" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="6" closed="false" y2="10" antialias="false"/>
+        <line x1="46" x2="50" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end1="none" length2="1.5" end2="none" y1="-10" y2="-10" antialias="false"/>
+        <line x1="46" x2="50" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end1="none" length2="1.5" end2="none" y1="10" y2="10" antialias="false"/>
+        <polygon y3="-10" x1="4" x2="4" x3="49" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-6" closed="false" y2="-10" antialias="false"/>
+        <circle style="line-style:normal;line-weight:thin;filling:black;color:black" diameter="2" x="45" y="-11" antialias="false"/>
+        <dynamic_text rotation="0" uuid="{b45555b1-e3dd-4586-a2f0-093eabe5887f}" text_width="0" keep_visual_rotation="false" text_from="CompositeText" Valignment="AlignTop" Halignment="AlignLeft" x="45" font="Calibri,7,-1,5,50,0,0,0,0,0,Regular" y="-7" frame="false" z="9">
+            <text>TC_</text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <arc style="line-style:normal;line-weight:thin;filling:none;color:black" start="90" width="6.3" height="4.01303" angle="180" x="-2.5" y="-6.02346" antialias="true"/>
+        <line x1="0" x2="4" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" end1="none" length2="1.5" end2="none" y1="-6" y2="-6" antialias="false"/>
+        <line x1="0" x2="4" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" end1="none" length2="1.5" end2="none" y1="6" y2="6" antialias="false"/>
+        <line x1="0.538796" x2="4" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" end1="none" length2="1.5" end2="none" y1="-2" y2="-2" antialias="false"/>
+        <line x1="0.538796" x2="4" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" end1="none" length2="1.5" end2="none" y1="2" y2="2" antialias="false"/>
+        <terminal uuid="{7a203556-0fe9-485c-8fd1-b0bc5ddf7956}" orientation="e" type="Generic" x="50" y="-10" name=""/>
+        <terminal uuid="{195a3cc5-e344-49e8-8b9d-a68488492572}" orientation="e" type="Generic" x="50" y="10" name=""/>
+    </description>
+</definition>

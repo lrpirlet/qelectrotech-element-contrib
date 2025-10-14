@@ -1,0 +1,49 @@
+<definition version="0.90" type="element" width="110" link_type="simple" height="160" hotspot_x="2" hotspot_y="5">
+    <uuid uuid="{5d0c3a51-9d95-49be-b743-46db92c853bf}"/>
+    <names>
+        <name lang="pt">MOTOR TRIFÁSICO 1</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description">Motor Trifásico 6 Terminais   _CV</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label">M</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="comment">_CV</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text x="12.2425" y="20.8557" text="W2" rotation="0" color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <text x="50.2908" y="61.5009" text="V1" rotation="0" color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <text x="80.603" y="61.5009" text="W1" rotation="0" color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <text x="19.9786" y="61.5009" text="U1" rotation="0" color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <text x="50.2908" y="80.7078" text="2" rotation="0" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text x="43.2908" y="20.8557" text="U2" rotation="0" color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <text x="73.603" y="20.8557" text="V2" rotation="0" color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <ellipse x="73.867" y="64.2447" style="line-style:normal;line-weight:thin;filling:black;color:black" width="6.73605" height="5.48767" antialias="false"/>
+        <ellipse x="43.5547" y="31.3187" style="line-style:normal;line-weight:thin;filling:black;color:black" width="6.73605" height="5.48767" antialias="false"/>
+        <text x="72.4989" y="103.89" text="L3" rotation="0" color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <ellipse x="73.867" y="31.3187" style="line-style:normal;line-weight:thin;filling:black;color:black" width="6.73605" height="5.48767" antialias="false"/>
+        <text x="42.1867" y="103.89" text="L2" rotation="0" color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <text x="80.603" y="80.7078" text="3" rotation="0" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text x="81.603" y="31.3187" text="5" rotation="0" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text x="19.9786" y="80.7078" text="1" rotation="0" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text x="51.2908" y="31.3187" text="4" rotation="0" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <ellipse x="43.5547" y="64.2447" style="line-style:normal;line-weight:thin;filling:black;color:black" width="6.73605" height="5.48767" antialias="false"/>
+        <text x="20.9786" y="31.3187" text="6" rotation="0" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <ellipse x="13.2425" y="64.2447" style="line-style:normal;line-weight:thin;filling:black;color:black" width="6.73605" height="5.48767" antialias="false"/>
+        <ellipse x="13.2425" y="31.3187" style="line-style:normal;line-weight:thin;filling:black;color:black" width="6.73605" height="5.48767" antialias="false"/>
+        <line y1="34.0625" length1="1.5" y2="91.6831" length2="1.5" x1="16.6105" x2="16.6105" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" antialias="false"/>
+        <line y1="34.0625" length1="1.5" y2="91.6831" length2="1.5" x1="46.9228" x2="46.9228" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" antialias="false"/>
+        <line y1="34.0625" length1="1.5" y2="91.6831" length2="1.5" x1="77.235" x2="77.235" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" antialias="false"/>
+        <text x="11.8605" y="103" text="L1" rotation="0" color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <text x="38.8605" y="124" text="380V" rotation="0" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <polygon y1="130" closed="false" y2="135" y3="130" x1="43" y4="135" x2="48" y5="140" x3="53" y6="140" x4="48" x5="48" x6="48" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="0" y="0" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="105" height="150" antialias="false"/>
+    </description>
+</definition>

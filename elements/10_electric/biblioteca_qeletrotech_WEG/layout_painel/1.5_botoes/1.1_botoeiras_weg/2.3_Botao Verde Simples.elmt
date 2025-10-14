@@ -1,0 +1,33 @@
+<definition width="40" version="0.90" link_type="simple" type="element" height="40" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{896bb069-09ce-4ad0-8a32-b24ef16b8208}"/>
+    <names>
+        <name lang="pt">Botão verde NA</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations>&#xd;
+     Author: DXF converter&#xd;
+     License:see http://qelectrotech.org/wiki/doc/elements_license&#xd;
+     Converter version:V3.0 DB&#xd;
+&#xd;
+</informations>
+    <description>
+        <circle style="line-style:normal;line-weight:thin;filling:black;color:black" x="-14" antialias="false" y="-14" diameter="28"/>
+        <circle style="line-style:normal;line-weight:thin;filling:HTMLGreenSeaGreen;color:HTMLGreenSeaGreen" x="-13" antialias="false" y="-13" diameter="26"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:cyan" length1="1.5" length2="1.5" y1="-14" y2="-13" x1="0" x2="0" antialias="false" end1="none" end2="none"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:cyan" length1="1.5" length2="1.5" y1="0" y2="0" x1="-14" x2="-13" antialias="false" end1="none" end2="none"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:cyan" length1="1.5" length2="1.5" y1="14" y2="13" x1="0" x2="0" antialias="false" end1="none" end2="none"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:cyan" length1="1.5" length2="1.5" y1="0" y2="0" x1="14" x2="13" antialias="false" end1="none" end2="none"/>
+    </description>
+</definition>

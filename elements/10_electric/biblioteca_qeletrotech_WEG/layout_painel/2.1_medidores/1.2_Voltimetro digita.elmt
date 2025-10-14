@@ -1,0 +1,41 @@
+<definition version="0.90" height="40" width="40" link_type="simple" hotspot_x="20" type="element" hotspot_y="20">
+    <uuid uuid="{bc820dbd-e2d9-4736-95d2-3eb6958b7501}"/>
+    <names>
+        <name lang="pt">Voltimetro Digital</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+    </elementInformations>
+    <informations>&#xd;
+     Author: DXF converter&#xd;
+     License:see http://qelectrotech.org/wiki/doc/elements_license&#xd;
+     Converter version:V3.0 DB&#xd;
+&#xd;
+</informations>
+    <description>
+        <rect x="-14" y="-14" style="line-style:normal;line-weight:thin;filling:black;color:HTMLGrayBlack" height="28" width="28" antialias="false" rx="14" ry="14"/>
+        <rect x="-13" y="-13" style="line-style:normal;line-weight:thin;filling:HTMLGreenMediumSeaGreen;color:HTMLGrayBlack" height="26" width="26" antialias="false" rx="14" ry="14"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:cyan" y1="-14" y2="-13" antialias="false" x1="0" x2="0" end1="none" end2="none" length1="1.5" length2="1.5"/>
+        <circle x="-12" y="-12" style="line-style:normal;line-weight:thin;filling:HTMLGrayDarkSlateGray;color:HTMLGrayDarkSlateGray" antialias="false" diameter="24"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:cyan" y1="0" y2="0" antialias="false" x1="-14" x2="-13" end1="none" end2="none" length1="1.5" length2="1.5"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:cyan" y1="14" y2="13" antialias="false" x1="0" x2="0" end1="none" end2="none" length1="1.5" length2="1.5"/>
+        <dynamic_text x="-10" y="-34" z="7" rotation="0" text_width="0" frame="false" font="Calibri,9,-1,5,50,0,0,0,0,0,Regular" text_from="ElementInfo" Valignment="AlignTop" uuid="{19da2c05-9277-41f1-8dcd-44d52cd2962f}" Halignment="AlignLeft">
+            <text></text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:cyan" y1="0" y2="0" antialias="false" x1="14" x2="13" end1="none" end2="none" length1="1.5" length2="1.5"/>
+        <rect x="-9" y="-3" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightSlateGray;color:black" height="6" width="18" antialias="false" rx="0" ry="0"/>
+        <text x="6.18939" y="2" color="#93f7df" rotation="0" text="V" font="DS-Digital,3,-1,5,50,0,0,0,0,0,Normal"/>
+        <text x="-6.84733" y="2.56609" color="#93f7df" rotation="0" text="000" font="DS-Digital,6,-1,5,50,0,0,0,0,0,Normal"/>
+    </description>
+</definition>

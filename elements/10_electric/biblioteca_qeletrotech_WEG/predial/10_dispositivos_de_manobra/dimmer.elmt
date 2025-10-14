@@ -1,0 +1,22 @@
+<definition orientation="dyyy" hotspot_x="25" hotspot_y="44" type="element" width="50" height="90" version="0.70" link_type="simple">
+    <uuid uuid="{c27455c4-8815-4848-8654-15f4c6836dbe}"/>
+    <names>
+        <name lang="pt">Dimmer - Variador de Luminosidade</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line length2="1.5" end1="none" x1="0" x2="0" y1="-34" antialias="false" end2="none" y2="-26" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect x="-20" width="40" height="60" antialias="false" style="line-style:dashed;line-weight:normal;filling:none;color:black" y="-30"/>
+        <circle diameter="2" x="-1" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="19"/>
+        <input x="20" rotate="true" text="_" size="9" tagg="label" y="35"/>
+        <rect x="-5" width="10" height="25" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-25"/>
+        <circle diameter="2" x="-1" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="4"/>
+        <line length2="1.5" end1="none" x1="0" x2="0" y1="0" antialias="false" end2="none" y2="4" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length2="1.5" end1="none" x1="1.05" x2="6" y1="5" antialias="false" end2="none" y2="19" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length2="1.5" end1="none" x1="-8" x2="10" y1="-24" antialias="false" end2="simple" y2="0" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length2="1.5" end1="none" x1="0" x2="0" y1="21" antialias="false" end2="none" y2="33" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal orientation="n" x="0" y="-38"/>
+        <terminal orientation="s" x="0" y="38"/>
+    </description>
+</definition>

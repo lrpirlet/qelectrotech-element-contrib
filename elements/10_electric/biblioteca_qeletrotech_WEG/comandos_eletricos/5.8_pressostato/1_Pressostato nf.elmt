@@ -1,0 +1,37 @@
+<definition height="70" link_type="simple" type="element" hotspot_x="26" hotspot_y="34" version="0.80" width="40">
+    <uuid uuid="{0e10c711-4e91-4362-84eb-6f2eca185fe0}"/>
+    <names>
+        <name lang="pt">Pressostato</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description">Pressostato</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text text="2" x="3" y="16" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
+        <line y1="0" y2="0" length1="1.5" length2="1.5" antialias="false" x1="-5.75" end1="none" x2="3.25" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <text text="P" x="-15.75" y="4.5" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
+        <rect height="15" antialias="false" x="-20.75" y="-7.5" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" width="15"/>
+        <text text="1" x="3" y="-14.05" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
+        <line y1="8" y2="29" length1="1.5" length2="1.5" antialias="true" x1="0" end1="none" x2="0" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="8" y2="-9" length1="1.5" length2="1.5" antialias="true" x1="0" end1="none" x2="7" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon y1="-30.05" y2="-7.05" y3="-7.05" antialias="false" x1="0" x2="0" closed="false" x3="8" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text x="-42" y="-11" z="10" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" rotation="0" text_from="ElementInfo" Valignment="AlignTop" uuid="{fec36e90-9775-4d6d-b45d-5f9804ba73c2}" Halignment="AlignLeft" frame="false" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y1="-7" y2="-7" length1="1.5" length2="1.5" antialias="true" x1="0" end1="none" x2="8" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal orientation="s" x="0" y="30" name="" uuid="{06deda61-6573-4310-8382-acd385d21260}"/>
+        <terminal orientation="n" x="0" y="-30" name="" uuid="{0b50c7df-a352-4f1b-a12a-17422c7ef2a7}"/>
+    </description>
+</definition>

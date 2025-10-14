@@ -1,0 +1,30 @@
+<definition height="50" width="30" link_type="terminal" hotspot_x="26" hotspot_y="25" type="element" version="0.90">
+    <uuid uuid="{ce8ffc63-c559-4036-8ac0-21e59d732d80}"/>
+    <names>
+        <name lang="pt">Seta Cota Vermelha 2</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">generic</kindInformation>
+        <kindInformation name="function">generic</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <polygon style="line-style:normal;line-weight:thin;filling:red;color:red" y1="4" antialias="true" y2="5" y3="0" x1="-20" y4="-5" x2="-20" x3="0" x4="-20"/>
+        <line style="line-style:normal;line-weight:thin;filling:red;color:red" y1="-20" antialias="false" y2="20" x1="0" length1="1.5" x2="0" length2="1.5" end1="none" end2="none"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:red" y1="0" antialias="false" y2="0" x1="-20" length1="1.5" x2="-16" length2="1.5" end1="none" end2="none"/>
+        <terminal x="-20" uuid="{aab8578d-3060-4772-89a9-3316d238035c}" y="0" orientation="w" type="Generic" name=""/>
+    </description>
+</definition>

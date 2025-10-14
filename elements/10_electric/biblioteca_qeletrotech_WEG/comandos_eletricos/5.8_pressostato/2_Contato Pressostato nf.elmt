@@ -1,0 +1,39 @@
+<definition type="element" width="40" height="70" link_type="simple" hotspot_x="19" hotspot_y="34" version="0.90">
+    <uuid uuid="{f4a72f4d-7a07-42ff-94e6-60e58d37eb67}"/>
+    <names>
+        <name lang="pt">Pressostato</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Pressostato</elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text rotation="0" x="13" text="2" y="16" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <text rotation="0" x="13" text="1" y="-14.05" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <line x2="10" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" y1="8" length2="1.5" y2="29" antialias="true" x1="10"/>
+        <line x2="17" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" y1="8" length2="1.5" y2="-9" antialias="true" x1="10"/>
+        <line x2="10" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="0" length2="1.5" y2="0" antialias="false" x1="8"/>
+        <polygon x2="10" closed="false" x3="18" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-30.05" y2="-7.05" antialias="false" y3="-7.05" x1="10"/>
+        <line x2="18" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" y1="-7" length2="1.5" y2="-7" antialias="true" x1="10"/>
+        <line x2="13" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="0" length2="1.5" y2="0" antialias="false" x1="12"/>
+        <line x2="-15" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="0" length2="1.5" y2="0" antialias="false" x1="-17"/>
+        <line x2="-14" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="0" length2="1.5" y2="0" antialias="false" x1="-16"/>
+        <line x2="-10" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="0" length2="1.5" y2="0" antialias="false" x1="-12"/>
+        <line x2="-6" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="0" length2="1.5" y2="0" antialias="false" x1="-8"/>
+        <line x2="-2" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="0" length2="1.5" y2="0" antialias="false" x1="-4"/>
+        <line x2="2" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="0" length2="1.5" y2="0" antialias="false" x1="0"/>
+        <line x2="6" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="0" length2="1.5" y2="0" antialias="false" x1="4"/>
+        <terminal x="10" y="30" type="Generic" name="" uuid="{940153b1-4292-4696-ba1c-c8b5abef4e8a}" orientation="s"/>
+        <terminal x="10" y="-30" type="Generic" name="" uuid="{0891df13-6570-4c14-b95d-a3e469022bda}" orientation="n"/>
+    </description>
+</definition>

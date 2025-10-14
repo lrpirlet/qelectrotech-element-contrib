@@ -1,0 +1,37 @@
+<definition height="50" version="0.90" link_type="simple" hotspot_x="6" hotspot_y="3" type="element" width="20">
+    <uuid uuid="{52dc4457-9548-4cfd-886d-235ad58dbb7c}"/>
+    <names>
+        <name lang="pt">Borne Azul BTWP 6mm</name>
+    </names>
+    <elementInformations/>
+    <informations>&#xd;
+     Author: DXF converter&#xd;
+     License:see http://qelectrotech.org/wiki/doc/elements_license&#xd;
+     Converter version:V3.0 DB&#xd;
+&#xd;
+</informations>
+    <description>
+        <rect rx="0" height="44" ry="0" antialias="false" x="0" y="0" style="line-style:normal;line-weight:thin;filling:HTMLBlueDodgerBlue;color:black" width="8"/>
+        <ellipse height="3.06985" antialias="false" x="2.44256" y="13.4112" style="line-style:normal;line-weight:thin;filling:gray;color:black" width="3.19897"/>
+        <ellipse height="3.65982" antialias="false" x="2.12996" y="13.1213" style="line-style:normal;line-weight:thin;filling:none;color:black" width="3.81376"/>
+        <line x2="5.28725" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="16.1511" y2="13.9812" x1="3.02609"/>
+        <line x2="5.05801" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="15.9311" y2="13.7612" x1="2.79685"/>
+        <ellipse height="3.06985" antialias="false" x="2.44256" y="27.7102" style="line-style:normal;line-weight:thin;filling:gray;color:black" width="3.19897"/>
+        <ellipse height="3.65982" antialias="false" x="2.12996" y="27.4102" style="line-style:normal;line-weight:thin;filling:none;color:black" width="3.81376"/>
+        <line x2="5.28725" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="28.0401" y2="30.2" x1="3.02609"/>
+        <line x2="5.05801" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="28.2601" y2="30.43" x1="2.79685"/>
+        <line x2="0" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="41" y2="41" x1="8"/>
+        <line x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="22" y2="22" x1="0"/>
+        <line x2="0" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="40" y2="40" x1="8"/>
+        <line x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="42" y2="42" x1="0"/>
+        <line x2="0" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="2" y2="2" x1="8"/>
+        <line x2="0" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="4" y2="4" x1="8"/>
+        <line x2="0" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="3" y2="3" x1="8"/>
+        <line x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="43" y2="43" x1="0"/>
+        <line x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="19" y2="19" x1="0"/>
+        <line x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="25" y2="25" x1="0"/>
+        <line x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="1" y2="1" x1="0"/>
+        <line x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="5" y2="5" x1="0"/>
+        <line x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="39" y2="39" x1="0"/>
+    </description>
+</definition>

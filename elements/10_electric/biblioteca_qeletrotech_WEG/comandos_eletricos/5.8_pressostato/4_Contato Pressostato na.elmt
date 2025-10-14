@@ -1,0 +1,37 @@
+<definition type="element" width="50" height="70" link_type="simple" hotspot_x="27" hotspot_y="34" version="0.90">
+    <uuid uuid="{f564cc10-f6c7-4912-a191-84d1aeea95cc}"/>
+    <names>
+        <name lang="pt">PRESSOSTATO NA</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Pressostato</elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line x2="-17" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="0" length2="1.5" y2="0" antialias="false" x1="-19"/>
+        <line x2="-21" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="0" length2="1.5" y2="0" antialias="false" x1="-23"/>
+        <text rotation="0" x="13" text="4" y="16" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <line x2="10" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" y1="-30" length2="1.5" y2="-6.5" antialias="true" x1="10"/>
+        <text rotation="0" x="13" text="3" y="-14.05" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <polygon x2="10" closed="false" x3="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-7" y2="8" antialias="false" y3="30" x1="3"/>
+        <line x2="3" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="0" length2="1.5" y2="0" antialias="false" x1="1"/>
+        <line x2="6" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="0" length2="1.5" y2="0" antialias="false" x1="5"/>
+        <line x2="-13" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="0" length2="1.5" y2="0" antialias="false" x1="-15"/>
+        <line x2="-9" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="0" length2="1.5" y2="0" antialias="false" x1="-11"/>
+        <line x2="-5" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="0" length2="1.5" y2="0" antialias="false" x1="-7"/>
+        <line x2="-1" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="0" length2="1.5" y2="0" antialias="false" x1="-3"/>
+        <terminal x="10" y="30" type="Generic" name="" uuid="{4b2aa074-578b-4c1e-84a9-f282f7f59a9c}" orientation="s"/>
+        <terminal x="10" y="30" type="Generic" name="" uuid="{9ffd003e-aa92-4a71-9bdf-68ef1ae79faa}" orientation="s"/>
+        <terminal x="10" y="-30" type="Generic" name="" uuid="{26d4cf83-c029-4b5f-b7bb-d73c47ad837c}" orientation="n"/>
+    </description>
+</definition>

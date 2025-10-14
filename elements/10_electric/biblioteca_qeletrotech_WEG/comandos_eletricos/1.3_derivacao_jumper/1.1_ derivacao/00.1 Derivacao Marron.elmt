@@ -1,0 +1,30 @@
+<definition version="0.90" link_type="terminal" height="20" hotspot_x="7" hotspot_y="7" type="element" width="20">
+    <uuid uuid="{1785b2d0-3d24-4d85-939a-654497950aa1}"/>
+    <names>
+        <name lang="pt">Derivação</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">generic</kindInformation>
+        <kindInformation name="function">generic</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y1="0" y2="5" length1="1.5" length2="1.5" x1="0" x2="0" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBrownSaddleBrown" end1="none" end2="none"/>
+        <line y1="0" y2="0" length1="1.5" length2="1.5" x1="5" x2="0" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBrownSaddleBrown" end1="none" end2="none"/>
+        <terminal name="" uuid="{f6bc698b-c46d-41f9-8b4d-7f9f25eaba42}" orientation="e" x="5" y="0" type="Generic"/>
+        <terminal name="" uuid="{cf1a100d-6a28-426b-bd1a-ec51b38adff7}" orientation="s" x="0" y="5" type="Generic"/>
+    </description>
+</definition>

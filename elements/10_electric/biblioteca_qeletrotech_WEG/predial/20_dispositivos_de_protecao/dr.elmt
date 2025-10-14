@@ -1,0 +1,28 @@
+<definition hotspot_y="29" type="element" hotspot_x="10" link_type="simple" width="30" version="0.70" height="60" orientation="dyyy">
+    <uuid uuid="{a3a64303-05cd-4f12-b70a-db32e41f604e}"/>
+    <names>
+        <name lang="pt">IDR</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line x1="0.75" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none" length1="1.5" x2="0.75" end1="none" length2="1.5" y1="-20" y2="-10"/>
+        <line x1="0.75" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none" length1="1.5" x2="0.75" end1="none" length2="1.5" y1="10" y2="20"/>
+        <line x1="-4.25" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" end2="none" length1="1.5" x2="0.75" end1="none" length2="1.5" y1="-10" y2="10"/>
+        <line x1="10.75" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none" length1="1.5" x2="10.75" end1="none" length2="1.5" y1="-20" y2="-10"/>
+        <line x1="10.75" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none" length1="1.5" x2="10.75" end1="none" length2="1.5" y1="10" y2="20"/>
+        <line x1="5.75" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" end2="none" length1="1.5" x2="10.75" end1="none" length2="1.5" y1="-10" y2="10"/>
+        <input text="_" x="15.75" y="-3" size="9" tagg="label"/>
+        <ellipse style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" x="-4.25" y="13" width="20" height="4"/>
+        <line x1="-7.25" style="line-style:dashed;line-weight:thin;filling:none;color:black" antialias="false" end2="none" length1="1.5" x2="7.75" end1="none" length2="1.5" y1="0" y2="0"/>
+        <line x1="-5.25" style="line-style:dashed;line-weight:thin;filling:none;color:black" antialias="false" end2="none" length1="1.5" x2="-7.25" end1="none" length2="1.5" y1="15" y2="15"/>
+        <line x1="-7.25" style="line-style:dashed;line-weight:thin;filling:none;color:black" antialias="false" end2="none" length1="1.5" x2="-7.25" end1="none" length2="1.5" y1="0" y2="15"/>
+        <dynamic_text text_from="UserText" frame="false" font_size="5" x="19.75" y="6" uuid="{0fc3bc73-634d-4f24-b87c-0e3c1a0e5571}" rotation="0" z="12">
+            <text>___mA</text>
+        </dynamic_text>
+        <terminal x="10.75" y="21" orientation="s"/>
+        <terminal x="0.75" y="-21" orientation="n"/>
+        <terminal x="10.75" y="-21" orientation="n"/>
+        <terminal x="0.75" y="21" orientation="s"/>
+    </description>
+</definition>

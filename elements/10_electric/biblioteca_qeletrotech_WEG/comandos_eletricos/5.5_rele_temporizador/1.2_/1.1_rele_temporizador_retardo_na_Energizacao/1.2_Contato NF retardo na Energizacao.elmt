@@ -1,0 +1,32 @@
+<definition height="50" version="0.90" width="30" link_type="slave" hotspot_x="19" type="element" hotspot_y="24">
+    <uuid uuid="{6844eb8b-bf8c-4291-9b72-7a3f440f58c8}"/>
+    <names>
+        <name lang="pt">CONTATO TEMPORIZADOR   NF</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">NC</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" text_width="-1" text_from="UserText" uuid="{60388ffc-05ab-4efa-aca8-2ca70addade7}" rotation="0" Valignment="AlignTop" x="-1" keep_visual_rotation="true" y="8" Halignment="AlignLeft" z="1" frame="false">
+            <text>16</text>
+        </dynamic_text>
+        <arc height="10" style="line-style:normal;line-weight:thin;filling:none;color:black" start="86.3125" width="10" x="-17" angle="188.375" y="-5" antialias="true"/>
+        <dynamic_text font="Sans Serif,8,-1,5,50,0,0,0,0,0" text_width="-1" text_from="ElementInfo" uuid="{a9aa2a50-8605-485e-87fd-7150aa8b09d6}" rotation="0" Valignment="AlignTop" x="-42" keep_visual_rotation="true" y="-11" Halignment="AlignLeft" z="2" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" text_width="-1" text_from="UserText" uuid="{54f717e9-11b5-40c5-8088-e7e779f6067e}" rotation="0" Valignment="AlignTop" x="-1" keep_visual_rotation="true" y="-25" Halignment="AlignLeft" z="3" frame="false">
+            <text>15</text>
+        </dynamic_text>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-20" y2="-7" x1="0" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-7" y2="-7" x1="0" x2="8" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-1" y2="-1" x1="-17" x2="4" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="1" y2="1" x1="-17" x2="3" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <polygon y1="-9" y2="8" closed="false" y3="20" x1="7" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="0" antialias="false"/>
+        <terminal orientation="s" name="" uuid="{d2d63cbc-c6e2-49a6-b342-d4fb6fd727f0}" x="0" y="20" type="Generic"/>
+        <terminal orientation="n" name="" uuid="{fcaef448-070a-45da-a356-04946e871175}" x="0" y="-20" type="Generic"/>
+    </description>
+</definition>

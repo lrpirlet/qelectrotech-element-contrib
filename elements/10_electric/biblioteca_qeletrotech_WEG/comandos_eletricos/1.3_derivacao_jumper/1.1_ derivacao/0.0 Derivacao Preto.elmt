@@ -1,0 +1,27 @@
+<definition version="0.90" type="element" link_type="terminal" height="20" hotspot_x="4" hotspot_y="7" width="10">
+    <uuid uuid="{a9a321c5-c86d-4699-8090-c9d262ae6e71}"/>
+    <names>
+        <name lang="pt">Derivação</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">generic</kindInformation>
+        <kindInformation name="function">generic</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <terminal x="0" y="0" type="Generic" name="" uuid="{94520087-6739-4077-8c91-83fc65af62db}" orientation="n"/>
+    </description>
+</definition>

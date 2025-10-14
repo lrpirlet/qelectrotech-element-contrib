@@ -1,0 +1,28 @@
+<definition link_type="slave" type="element" hotspot_x="12" hotspot_y="24" width="20" height="50" version="0.80">
+    <uuid uuid="{b5c2b7c1-825f-4548-8e8e-4bbb2cfa070f}"/>
+    <names>
+        <name lang="pt">CONTATO ABERTO NA</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type" show="1">simple</kindInformation>
+        <kindInformation name="state" show="1">NO</kindInformation>
+        <kindInformation name="number" show="1">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <line y1="-20" end1="none" antialias="true" y2="-6" end2="none" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" length1="1.5" length2="1.5"/>
+        <polygon closed="false" y1="-6" antialias="false" y2="9" y3="20" x1="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" x3="0"/>
+        <dynamic_text x="-29" y="-12" rotation="0" z="6" Valignment="AlignTop" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" text_from="ElementInfo" uuid="{9f7c906e-0056-4fa9-a189-12afcd4b9852}" text_width="-1" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="-1" y="-23" rotation="0" z="7" Valignment="AlignTop" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normal" Halignment="AlignLeft" text_from="UserText" uuid="{cb194e5c-dd91-4a91-baa3-5cbbff75531b}" text_width="0" frame="false">
+            <text>13</text>
+        </dynamic_text>
+        <dynamic_text x="-1" y="5" rotation="0" z="7" Valignment="AlignTop" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normal" Halignment="AlignLeft" text_from="UserText" uuid="{cb194e5c-dd91-4a91-baa3-5cbbff75531b}" text_width="0" frame="false">
+            <text>14</text>
+        </dynamic_text>
+        <terminal x="0" y="-20" name="" uuid="{707c298a-fc51-49d6-bae2-0ef56683bffd}" orientation="n"/>
+        <terminal x="0" y="20" name="" uuid="{3715eb08-4719-4eeb-9328-6c582ce55807}" orientation="s"/>
+    </description>
+</definition>

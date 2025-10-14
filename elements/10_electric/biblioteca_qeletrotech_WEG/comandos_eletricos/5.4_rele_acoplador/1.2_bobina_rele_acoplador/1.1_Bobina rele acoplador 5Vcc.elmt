@@ -1,0 +1,41 @@
+<definition width="40" height="50" link_type="master" hotspot_x="19" hotspot_y="27" version="0.80" type="element">
+    <uuid uuid="{6dcd5910-5286-4b09-8695-61a6f3a059f5}"/>
+    <names>
+        <name lang="pt">Borne Relé Interface 5vca/vcc 6A 1NAF</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type" show="1">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="comment" show="1">5Vcc</elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Relé  Interface  5vcc  6A 1NAF</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text y="12" color="#000000" text="A2" rotation="0" x="6" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <rect y="-9.5" width="30" height="14" rx="0" antialias="false" ry="0" x="-15" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y2="-9" x1="-14" x2="14" length1="1.5" length2="1.5" antialias="true" end1="none" end2="none" y1="4" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text y="-14" Valignment="AlignTop" z="5" Halignment="AlignLeft" uuid="{dcea7def-d258-45cb-a8df-dce06e3fd2f9}" frame="false" text_width="-1" text_from="ElementInfo" rotation="0" x="-47" font="Sans Serif,8,-1,5,50,0,0,0,0,0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y2="5" x1="0" x2="0" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="13" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y2="-10" x1="0" x2="0" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-18" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text y="-12" color="#000000" text="A1" rotation="0" x="7" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <dynamic_text y="-1" Valignment="AlignTop" z="8" Halignment="AlignLeft" uuid="{c52087f9-aafb-4240-830e-4a886991f3ad}" frame="false" text_width="-1" text_from="ElementInfo" rotation="0" x="-48" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal">
+            <text>5Vcc</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal y="-18" name="" uuid="{743c3459-46c6-42ef-a53e-42dc24716245}" orientation="n" x="0"/>
+        <terminal y="13" name="" uuid="{0739f207-31d9-402b-a311-844c42d89d82}" orientation="s" x="0"/>
+    </description>
+</definition>

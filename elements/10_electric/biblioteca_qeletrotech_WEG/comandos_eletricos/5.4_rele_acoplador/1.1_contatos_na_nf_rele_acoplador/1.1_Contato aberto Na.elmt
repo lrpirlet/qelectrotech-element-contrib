@@ -1,0 +1,28 @@
+<definition type="element" width="20" version="0.90" link_type="slave" height="50" hotspot_x="12" hotspot_y="24">
+    <uuid uuid="{ec3c1b8d-d80b-40e6-8281-dcf74860bf2a}"/>
+    <names>
+        <name lang="pt">CONTATO ABERTO NA</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">NO</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" y1="-20" end2="none" y2="-6" x1="0" x2="0" antialias="true" length1="1.5"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-6" y2="9" y3="20" x1="-7" x2="0" x3="0" antialias="false" closed="false"/>
+        <dynamic_text x="-29" y="-12" keep_visual_rotation="true" z="6" rotation="0" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" frame="false" uuid="{9f7c906e-0056-4fa9-a189-12afcd4b9852}" Valignment="AlignTop" Halignment="AlignLeft" text_from="ElementInfo" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="-1" y="5" keep_visual_rotation="false" z="7" rotation="0" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normal" frame="false" uuid="{89025112-0752-47c7-946e-3b059bd68b27}" Valignment="AlignTop" Halignment="AlignLeft" text_from="UserText" text_width="0">
+            <text>14</text>
+        </dynamic_text>
+        <dynamic_text x="-1" y="-23" keep_visual_rotation="false" z="7" rotation="0" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normal" frame="false" uuid="{89025112-0752-47c7-946e-3b059bd68b27}" Valignment="AlignTop" Halignment="AlignLeft" text_from="UserText" text_width="0">
+            <text>11</text>
+        </dynamic_text>
+        <terminal x="0" type="Generic" y="20" orientation="s" name="" uuid="{5daafdd1-2745-418b-a3ea-33af5f8807bb}"/>
+        <terminal x="0" type="Generic" y="-20" orientation="n" name="" uuid="{ec64e704-5a2f-451d-aa78-c43aece81d69}"/>
+    </description>
+</definition>

@@ -1,0 +1,57 @@
+<definition width="120" link_type="master" type="element" hotspot_x="31" hotspot_y="38" version="0.80" height="80">
+    <uuid uuid="{bee1b35b-ba72-4b59-be25-e6fdd2e6dc2a}"/>
+    <names>
+        <name lang="pt">RÉLE TÉRMICO</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="state" show="1">SW</kindInformation>
+        <kindInformation name="type" show="1">protection</kindInformation>
+        <kindInformation name="number" show="1">3</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text rotation="0" color="#000000" x="-25" y="25" text="Ajuste" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" color="#000000" x="33.95" y="-26" text="1&#xa;L1" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:black" x="-25" width="44" y="28" rx="0" ry="0" antialias="false" height="11"/>
+        <polygon y1="-34" y2="-7" y3="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="70" y4="3" closed="false" x2="70" y5="3" x3="64" y6="30" x4="64" x5="70" x6="70" antialias="false"/>
+        <polygon y1="-34" y2="-7" y3="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="50" y4="3" closed="false" x2="50" y5="3" x3="44" y6="30" x4="44" x5="50" x6="50" antialias="false"/>
+        <text rotation="0" color="#000000" x="33.95" y="19" text="2&#xa;T1" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" color="#000000" x="53.95" y="-26" text="3&#xa;L2" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" color="#000000" x="73.95" y="-26" text="5&#xa;L3" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" color="#000000" x="53.95" y="19" text="4&#xa;T2" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" color="#000000" x="73.95" y="19" text="6&#xa;T3" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" x="15.95" width="64" y="-11.375" rx="0" ry="0" antialias="false" height="19.5"/>
+        <polygon y1="-34" y2="-7" y3="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="30" y4="3" closed="false" x2="30" y5="3" x3="24" y6="30" x4="24" x5="30" x6="30" antialias="false"/>
+        <dynamic_text rotation="0" text_from="ElementInfo" uuid="{d18ac93f-227d-49ec-bd6b-210204bbbab6}" Valignment="AlignTop" x="-34" y="-49" Halignment="AlignLeft" z="17" frame="false" text_width="-1" font="Sans Serif,8,-1,5,50,0,0,0,0,0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text rotation="0" text_from="ElementInfo" uuid="{678e85fe-3d07-4255-9b43-c428102d6c82}" Valignment="AlignTop" x="-26" y="23" Halignment="AlignLeft" z="37" frame="false" text_width="-1" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal">
+            <text>_A</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <dynamic_text rotation="0" text_from="UserText" uuid="{535ffc14-d1a2-46a6-aee2-6de64fe59402}" Valignment="AlignTop" x="-27" y="-5" Halignment="AlignLeft" z="43" frame="false" text_width="-1" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal">
+            <text>_A</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal orientation="s" name="" uuid="{6d414618-5e0f-4b9f-9246-68de76b54d83}" x="30" y="30"/>
+        <terminal orientation="n" name="" uuid="{50c96151-5936-46b3-866a-30fe11ee0310}" x="30" y="-34"/>
+        <terminal orientation="s" name="" uuid="{2f30e430-5bd5-42b3-844e-037be67aaf2f}" x="70" y="30"/>
+        <terminal orientation="s" name="" uuid="{2ed4f92f-0521-45eb-b69a-25b7018f8830}" x="50" y="30"/>
+        <terminal orientation="n" name="" uuid="{795138c7-b5d1-4881-9317-fb8d4eb0bfbf}" x="70" y="-34"/>
+        <terminal orientation="n" name="" uuid="{b3157614-cbca-4622-8158-2940fc44eb29}" x="50" y="-34"/>
+    </description>
+</definition>

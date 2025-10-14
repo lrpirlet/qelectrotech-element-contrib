@@ -1,0 +1,48 @@
+<definition version="0.90" link_type="simple" hotspot_x="4" hotspot_y="3" width="180" height="40" type="element">
+    <uuid uuid="{8ceb8917-41e6-4aaa-9d93-634c3d3f97f2}"/>
+    <names>
+        <name lang="pt">Placa CM</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect x="0" y="0" antialias="false" style="line-style:normal;line-weight:thin;filling:black;color:black" width="171" rx="3" ry="0" height="33"/>
+        <rect x="1" y="1" antialias="false" style="line-style:normal;line-weight:thin;filling:HTMLWhiteWhiteSmoke;color:black" width="169" rx="2" ry="0" height="31"/>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="88" y="27" rotation="0" color="#696969" text="ANO DE FABRICAÇÃO"/>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="88" y="19" rotation="0" color="#696969" text="NÚMERO DE SÉRIE"/>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="88" y="10" rotation="0" color="#696969" text="GRAU DE PROTEÇÃO"/>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="5" y="27" rotation="0" color="#696969" text="FREQUÊNCIA NOMINAL"/>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="5" y="9" rotation="0" color="#696969" text="TENSÃO NOMINAL"/>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="5" y="18" rotation="0" color="#696969" text="POTÊNCIA"/>
+        <rect x="53" y="23" antialias="false" style="line-style:normal;line-weight:thin;filling:white;color:black" width="31" rx="1" ry="1" height="5"/>
+        <rect x="133" y="6" antialias="false" style="line-style:normal;line-weight:thin;filling:white;color:black" width="34" rx="1" ry="1" height="5"/>
+        <rect x="133" y="15" antialias="false" style="line-style:normal;line-weight:thin;filling:white;color:black" width="34" rx="1" ry="1" height="5"/>
+        <rect x="133" y="23" antialias="false" style="line-style:normal;line-weight:thin;filling:white;color:black" width="34" rx="1" ry="1" height="5"/>
+        <rect x="53" y="5" antialias="false" style="line-style:normal;line-weight:thin;filling:white;color:black" width="31" rx="1" ry="1" height="5"/>
+        <rect x="53" y="14" antialias="false" style="line-style:normal;line-weight:thin;filling:white;color:black" width="31" rx="1" ry="1" height="5"/>
+        <dynamic_text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" keep_visual_rotation="true" Valignment="AlignTop" x="53" uuid="{10d518a3-b15d-423c-89e9-bd3508781262}" y="10" rotation="0" Halignment="AlignLeft" z="32" text_width="0" text_from="UserText" frame="false">
+            <text>_KW</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <dynamic_text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" keep_visual_rotation="true" Valignment="AlignTop" x="133" uuid="{056a7e27-1b41-4cf9-9c8e-0b186c76ac24}" y="2" rotation="0" Halignment="AlignLeft" z="33" text_width="0" text_from="UserText" frame="false">
+            <text>IP-</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <dynamic_text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" keep_visual_rotation="true" Valignment="AlignTop" x="52" uuid="{056a7e27-1b41-4cf9-9c8e-0b186c76ac24}" y="19" rotation="0" Halignment="AlignLeft" z="33" text_width="0" text_from="UserText" frame="false">
+            <text>50/60HZ</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <dynamic_text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" keep_visual_rotation="true" Valignment="AlignTop" x="133" uuid="{d5e5c35b-f3d1-4e5b-8692-6aa04d9b7884}" y="11" rotation="0" Halignment="AlignLeft" z="34" text_width="0" text_from="UserText" frame="false">
+            <text>...</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <dynamic_text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" keep_visual_rotation="true" Valignment="AlignTop" x="133" uuid="{646d8fc7-f284-45f8-ad36-aba06ee38f31}" y="19" rotation="0" Halignment="AlignLeft" z="35" text_width="0" text_from="UserText" frame="false">
+            <text>...</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <dynamic_text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" keep_visual_rotation="true" Valignment="AlignTop" x="53" uuid="{042095e6-d31c-4a01-a82a-256285f134ba}" y="1" rotation="0" Halignment="AlignLeft" z="39" text_width="0" text_from="UserText" frame="false">
+            <text>_V</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+    </description>
+</definition>

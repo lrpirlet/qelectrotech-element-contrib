@@ -1,0 +1,18 @@
+<definition width="40" height="70" hotspot_y="34" orientation="dyyy" type="element" version="0.70" link_type="simple" hotspot_x="20">
+    <uuid uuid="{7bf91d93-1cc0-4199-8422-513a7099d854}"/>
+    <names>
+        <name lang="pt">Lâmpada Incandescente</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="30" y="-15" antialias="true" x="-15"/>
+        <line length2="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="10" length1="1.5" antialias="false" x2="-10" end1="none" x1="10" y1="-10"/>
+        <line length2="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="10" length1="1.5" antialias="false" x2="10" end1="none" x1="-10" y1="-10"/>
+        <line length2="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-15" length1="1.5" antialias="false" x2="0" end1="none" x1="0" y1="-25"/>
+        <line length2="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="25" length1="1.5" antialias="false" x2="0" end1="none" x1="0" y1="15"/>
+        <input tagg="label" text="_" size="9" y="5" x="15"/>
+        <terminal y="30" orientation="s" x="0"/>
+        <terminal y="-30" orientation="n" x="0"/>
+    </description>
+</definition>

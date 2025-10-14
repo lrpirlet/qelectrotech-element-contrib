@@ -1,0 +1,24 @@
+<definition height="30" width="30" link_type="terminal" hotspot_x="15" hotspot_y="15" type="element" version="0.90">
+    <uuid uuid="{d1825181-8f4e-4594-a258-17af25d0b36a}"/>
+    <names>
+        <name lang="pt">Sinaleira </name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">generic</kindInformation>
+        <kindInformation name="function">generic</kindInformation>
+    </kindInformations>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect x="-11" y="-11" style="line-style:normal;line-weight:thin;filling:HTMLGrayBlack;color:black" height="22" width="22" antialias="false" rx="11" ry="11"/>
+        <rect x="-10" y="-10" style="line-style:normal;line-weight:thin;filling:HTMLGraySlateGray;color:black" height="20" width="20" antialias="false" rx="11" ry="11"/>
+        <circle x="2" y="-3" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false" diameter="6"/>
+        <circle x="-8" y="-3" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false" diameter="6"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0" antialias="false" y2="0" x1="-6" length1="1.5" x2="-4" length2="1.5" end1="none" end2="none"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-1" antialias="false" y2="1" x1="-5" length1="1.5" x2="-5" length2="1.5" end1="none" end2="none"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0" antialias="false" y2="0" x1="4" length1="1.5" x2="6" length2="1.5" end1="none" end2="none"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-1" antialias="false" y2="1" x1="5" length1="1.5" x2="5" length2="1.5" end1="none" end2="none"/>
+        <text x="-6" y="6" color="#ffffff" rotation="0" text="X 1" font="Agency FB,2,-1,5,50,0,0,0,0,0,Normal"/>
+        <text x="4" y="6" color="#ffffff" rotation="0" text="X 2" font="Agency FB,2,-1,5,50,0,0,0,0,0,Normal"/>
+    </description>
+</definition>

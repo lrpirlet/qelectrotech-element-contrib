@@ -1,0 +1,17 @@
+<definition type="element" link_type="simple" height="30" hotspot_x="15" hotspot_y="15" width="30" version="0.80">
+    <uuid uuid="{d66ca136-4426-4b2a-bc4e-00635a89f670}"/>
+    <names>
+        <name lang="pt">Furação</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle diameter="22" x="-11" antialias="false" y="-11" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line y1="0" y2="0" x1="-3" end1="none" x2="3" end2="none" antialias="false" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:cyan" length2="1.5"/>
+        <line y1="3" y2="-3" x1="0" end1="none" x2="0" end2="none" antialias="false" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:cyan" length2="1.5"/>
+        <line y1="0" y2="0" x1="-12" end1="none" x2="-9" end2="none" antialias="false" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:cyan" length2="1.5"/>
+        <line y1="-12" y2="-9" x1="0" end1="none" x2="0" end2="none" antialias="false" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:cyan" length2="1.5"/>
+        <line y1="0" y2="0" x1="12" end1="none" x2="9" end2="none" antialias="false" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:cyan" length2="1.5"/>
+        <line y1="12" y2="9" x1="0" end1="none" x2="0" end2="none" antialias="false" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:cyan" length2="1.5"/>
+    </description>
+</definition>

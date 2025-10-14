@@ -1,0 +1,28 @@
+<definition link_type="simple" hotspot_x="5" width="1320" hotspot_y="5" version="0.90" type="element" height="70">
+    <uuid uuid="{58aadd4d-d956-476e-b448-ba396b8a3d7d}"/>
+    <names>
+        <name lang="pt">Descritivo superior</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" y1="0" y2="60" x1="0" x2="0" end1="none" end2="none"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" y1="0" y2="0" x1="0" x2="1310" end1="none" end2="none"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" y1="60" y2="60" x1="0" x2="1310" end1="none" end2="none"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" y1="0" y2="60" x1="1310" x2="1310" end1="none" end2="none"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" y1="20" y2="20" x1="1310" x2="0" end1="none" end2="none"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" y1="40" y2="40" x1="0" x2="1310" end1="none" end2="none"/>
+    </description>
+</definition>

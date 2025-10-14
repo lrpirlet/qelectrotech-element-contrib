@@ -1,0 +1,103 @@
+<definition link_type="terminal" version="0.80" hotspot_x="3" hotspot_y="6" type="element" width="30" height="110">
+    <uuid uuid="{c177c1c2-5f07-4825-8bdf-391bf32e1e9e}"/>
+    <names>
+        <name lang="pt">RELÉ CP-D</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+        <elementInformation show="1" name="description">RELÉ DE SEGURANÇA</elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="label">CP-D</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect rx="1" ry="0" antialias="false" x="0" y="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightSlateGray;color:black" width="23" height="97"/>
+        <polygon x12="15" y13="80" x13="7" y1="80" y2="80" y3="80" y4="17" y5="17" y6="16" y7="16" x1="7" y8="17" x2="7" x3="0" y9="17" x4="0" x5="7" x6="9" x7="14" x8="16" style="line-style:normal;line-weight:thin;filling:HTMLYellowGold;color:black" x9="23" y10="80" antialias="false" x10="23" y11="80" x11="15" y12="80"/>
+        <rect rx="2" ry="0" antialias="false" x="1" y="81" style="line-style:normal;line-weight:thin;filling:HTMLGreenSeaGreen;color:black" width="21" height="4"/>
+        <ellipse antialias="false" x="17.7935" y="72.819" style="line-style:normal;line-weight:thin;filling:HTMLGreenSeaGreen;color:black" width="2.41044" height="2.37814"/>
+        <circle antialias="false" x="18" y="73" diameter="2" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <ellipse antialias="false" x="17.7935" y="22.819" style="line-style:normal;line-weight:thin;filling:HTMLGreenSeaGreen;color:black" width="2.41044" height="2.37814"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="74" end1="none" y2="74" end2="none" x1="18" length1="1.5" x2="20" length2="1.5"/>
+        <circle antialias="false" x="18" y="23" diameter="2" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="24" end1="none" y2="24" end2="none" x1="18" length1="1.5" x2="20" length2="1.5"/>
+        <rect rx="2" ry="0" antialias="false" x="1" y="12" style="line-style:normal;line-weight:thin;filling:HTMLGreenSeaGreen;color:black" width="21" height="4"/>
+        <ellipse antialias="false" x="12.7935" y="72.819" style="line-style:normal;line-weight:thin;filling:HTMLGreenSeaGreen;color:black" width="2.41044" height="2.37814"/>
+        <circle antialias="false" x="13" y="73" diameter="2" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="74" end1="none" y2="74" end2="none" x1="13" length1="1.5" x2="15" length2="1.5"/>
+        <circle antialias="false" x="13" y="82" diameter="2" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <ellipse antialias="false" x="7.7935" y="72.819" style="line-style:normal;line-weight:thin;filling:HTMLGreenSeaGreen;color:black" width="2.41044" height="2.37814"/>
+        <circle antialias="false" x="8" y="73" diameter="2" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <circle antialias="false" x="8" y="82" diameter="2" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <circle antialias="false" x="3" y="82" diameter="2" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="74" end1="none" y2="74" end2="none" x1="8" length1="1.5" x2="10" length2="1.5"/>
+        <circle antialias="false" x="18" y="82" diameter="2" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="36" end1="none" y2="36" end2="none" x1="0" length1="1.5" x2="23" length2="1.5"/>
+        <ellipse antialias="false" x="12.7935" y="22.819" style="line-style:normal;line-weight:thin;filling:HTMLGreenSeaGreen;color:black" width="2.41044" height="2.37814"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="29" end1="none" y2="29" end2="none" x1="0" length1="1.5" x2="23" length2="1.5"/>
+        <circle antialias="false" x="13" y="23" diameter="2" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <ellipse antialias="false" x="2.79349" y="72.819" style="line-style:normal;line-weight:thin;filling:HTMLGreenSeaGreen;color:black" width="2.41044" height="2.37814"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="24" end1="none" y2="24" end2="none" x1="13" length1="1.5" x2="15" length2="1.5"/>
+        <circle antialias="false" x="3" y="73" diameter="2" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="74" end1="none" y2="74" end2="none" x1="3" length1="1.5" x2="5" length2="1.5"/>
+        <ellipse antialias="false" x="7.7935" y="22.819" style="line-style:normal;line-weight:thin;filling:HTMLGreenSeaGreen;color:black" width="2.41044" height="2.37814"/>
+        <circle antialias="false" x="8" y="23" diameter="2" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="24" end1="none" y2="24" end2="none" x1="8" length1="1.5" x2="10" length2="1.5"/>
+        <circle antialias="false" x="13" y="13" diameter="2" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:gray;color:black" y1="14" end1="none" y2="14" end2="none" x1="13" length1="1.5" x2="15" length2="1.5"/>
+        <circle antialias="false" x="8" y="13" diameter="2" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <circle antialias="false" x="3" y="13" diameter="2" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:gray;color:black" y1="14" end1="none" y2="14" end2="none" x1="8" length1="1.5" x2="10" length2="1.5"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:gray;color:black" y1="14" end1="none" y2="14" end2="none" x1="3" length1="1.5" x2="5" length2="1.5"/>
+        <text rotation="0" x="14" y="34" text="CP-D" color="#000000" font="Agency FB,3,-1,5,75,0,0,0,0,0,Negrito"/>
+        <ellipse antialias="false" x="4" y="48.7233" style="line-style:normal;line-weight:thin;filling:green;color:black" width="2" height="2.0355"/>
+        <ellipse antialias="false" x="4" y="51.7766" style="line-style:normal;line-weight:thin;filling:gray;color:black" width="2" height="2.0355"/>
+        <ellipse antialias="false" x="4" y="54.8299" style="line-style:normal;line-weight:thin;filling:gray;color:black" width="2" height="2.0355"/>
+        <ellipse antialias="false" x="4" y="57.8831" style="line-style:normal;line-weight:thin;filling:gray;color:black" width="2" height="2.0355"/>
+        <text rotation="0" x="4" y="38" text="CONTROLE" color="#000000" font="Sans Serif,1,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" x="8" y="40" text="EMERGÊNC" color="#000000" font="Sans Serif,1,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" x="3" y="21" text="41" color="#000000" font="MS Shell Dlg 2,1,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text rotation="0" x="8" y="21" text="13" color="#000000" font="MS Shell Dlg 2,1,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text rotation="0" x="13" y="21" text=" 23" color="#000000" font="MS Shell Dlg 2,1,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text rotation="0" x="18" y="21" text="33" color="#000000" font="MS Shell Dlg 2,1,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text rotation="0" x="8" y="27" text="Y1" color="#000000" font="MS Shell Dlg 2,1,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text rotation="0" x="13" y="72" text="Y2" color="#000000" font="MS Shell Dlg 2,1,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text rotation="0" x="12.33" y="27" text="S21" color="#000000" font="MS Shell Dlg 2,1,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text rotation="0" x="18" y="27" text="S22" color="#000000" font="MS Shell Dlg 2,1,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text rotation="0" x="3.33" y="27" text="A1" color="#000000" font="MS Shell Dlg 2,1,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text rotation="0" x="3" y="72" text="S11" color="#000000" font="MS Shell Dlg 2,1,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text rotation="0" x="8" y="72" text="S12" color="#000000" font="MS Shell Dlg 2,1,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text rotation="0" x="3" y="79" text="42" color="#000000" font="MS Shell Dlg 2,1,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text rotation="0" x="8" y="79" text="14" color="#000000" font="MS Shell Dlg 2,1,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text rotation="0" x="18" y="79" text="34" color="#000000" font="MS Shell Dlg 2,1,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text rotation="0" x="13" y="79" text="24" color="#000000" font="MS Shell Dlg 2,1,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text rotation="0" x="18" y="72" text="A2" color="#000000" font="MS Shell Dlg 2,1,-1,5,75,0,0,0,0,0,Negrito"/>
+        <circle antialias="false" x="18" y="13" diameter="2" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="14" end1="none" y2="14" end2="none" x1="18" length1="1.5" x2="20" length2="1.5"/>
+        <ellipse antialias="false" x="2.79349" y="22.819" style="line-style:normal;line-weight:thin;filling:HTMLGreenSeaGreen;color:black" width="2.41044" height="2.37814"/>
+        <circle antialias="false" x="3" y="23" diameter="2" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="24" end1="none" y2="24" end2="none" x1="3" length1="1.5" x2="5" length2="1.5"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="83" end1="none" y2="83" end2="none" x1="3" length1="1.5" x2="5" length2="1.5"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="83" end1="none" y2="83" end2="none" x1="8" length1="1.5" x2="10" length2="1.5"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="83" end1="none" y2="83" end2="none" x1="13" length1="1.5" x2="15" length2="1.5"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="83" end1="none" y2="83" end2="none" x1="18" length1="1.5" x2="20" length2="1.5"/>
+        <polygon x4="8" antialias="false" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightSlateGray;color:black" y1="18" y2="18" y3="19" x1="8" y4="19" x2="15" x3="15"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="19" end1="none" y2="19" end2="none" x1="23" length1="1.5" x2="0" length2="1.5"/>
+        <text rotation="0" x="7" y="50" text="POWER" color="#000000" font="Sans Serif,1,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" x="7" y="53" text="RELAY1" color="#000000" font="Sans Serif,1,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" x="7" y="56" text="RELAY2" color="#000000" font="Sans Serif,1,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" x="15.8697" y="40" text="I" color="#000000" font="Sans Serif,1,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" x="7" y="59" text="OUTPUT" color="#000000" font="Sans Serif,1,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" x="16.5184" y="40" text="A" color="#000000" font="Sans Serif,1,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" x="13" y="38" text="PARADA" color="#000000" font="Sans Serif,1,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" x="5" y="40" text="DE" color="#000000" font="Sans Serif,1,-1,5,50,0,0,0,0,0"/>
+        <polygon x4="16" x5="14" x6="9" antialias="false" style="line-style:normal;line-weight:thin;filling:HTMLYellowGold;color:black" y1="17" y2="18" y3="18" x1="7" y4="17" x2="8" y5="15" x3="15" y6="15"/>
+        <rect rx="0.5" ry="0.5" antialias="false" x="9" y="16" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightSlateGray;color:black" width="5" height="1"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="9" end1="none" y2="9" end2="none" x1="0" length1="1.5" x2="23" length2="1.5"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="88" end1="none" y2="88" end2="none" x1="0" length1="1.5" x2="23" length2="1.5"/>
+        <polygon y1="31.0122" y2="31.0122" y3="32.8852" y4="32.8852" y5="33.3961" y6="33.3961" y7="34.0772" x1="4.30909" y8="34.0772" x2="5.88619" x3="5.88619" x4="4.98499" x5="4.98499" x6="5.88619" x7="5.88619" x8="4.30909" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <polygon x4="4.98499" x5="4.98499" antialias="false" style="line-style:normal;line-weight:thin;filling:HTMLYellowGold;color:black" y1="31.6933" y2="31.6933" y3="32.2041" x1="4.98499" y4="32.2041" x2="5.32294" y5="31.6933" x3="5.32294"/>
+        <polygon y1="31.0122" y2="31.0122" y3="35.2691" y4="35.2691" y5="34.588" y6="34.588" y7="34.0772" x1="6.22414" y8="34.0772" x2="7.80125" x3="7.80125" x4="1.26754" x5="1.26754" x6="7.12534" x7="7.12534" x8="6.22414" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <polygon x4="6.78739" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="31.6933" y2="31.6933" y3="33.3961" x1="6.78739" y4="33.3961" x2="7.12534" x3="7.12534"/>
+        <polygon x12="2.95729" y13="33.3961" x13="2.95729" y14="33.3961" x14="3.29524" y1="31.0122" y2="31.0122" y3="34.0772" y4="34.0772" y5="29.65" y6="29.65" y7="30.5013" x1="3.29524" y8="30.5013" x2="3.97114" x3="3.97114" y9="33.3961" x4="1.26754" x5="1.26754" x6="7.80125" x7="7.80125" x8="1.94344" style="line-style:normal;line-weight:thin;filling:none;color:black" x9="1.94344" y10="33.3961" antialias="false" x10="2.28139" y11="31.0122" x11="2.28139" y12="31.0122"/>
+    </description>
+</definition>

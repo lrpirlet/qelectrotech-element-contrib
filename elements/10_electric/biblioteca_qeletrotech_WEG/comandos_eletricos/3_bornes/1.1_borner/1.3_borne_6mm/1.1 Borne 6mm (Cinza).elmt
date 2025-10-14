@@ -1,0 +1,37 @@
+<definition hotspot_x="5" hotspot_y="14" type="element" height="30" width="10" version="0.90" link_type="terminal">
+    <uuid uuid="{d132c1e2-279c-42e7-8174-86103a4909fb}"/>
+    <names>
+        <name lang="pt">Borne  Cinza</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">generic</kindInformation>
+        <kindInformation name="function">generic</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="machine_manufacturer_reference">X10261736</elementInformation>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+        <elementInformation show="1" name="comment">X1:</elementInformation>
+        <elementInformation show="1" name="description">Borne Cinza 6mm²</elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">10261736</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect antialias="false" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-3" y="-3" height="6" width="6"/>
+        <line x2="0" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="-3" y2="-7" x1="0"/>
+        <rect antialias="false" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-3" y="-3" height="6" width="6"/>
+        <line x2="0" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="7" y2="3" x1="0"/>
+        <dynamic_text rotation="0" Halignment="AlignLeft" font="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0,Normal" text_width="-1" text_from="ElementInfo" keep_visual_rotation="true" x="1" uuid="{da80e0e4-cd1c-4718-a03c-2c40d2ae9720}" y="-9" z="4" frame="false" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <terminal type="Generic" orientation="s" name="" x="0" uuid="{2338b82e-d76a-4027-a8ad-4037b1817eb7}" y="7"/>
+        <terminal type="Generic" orientation="n" name="" x="0" uuid="{afa816a7-b021-446e-9d9b-d9d3efacfd58}" y="-7"/>
+    </description>
+</definition>

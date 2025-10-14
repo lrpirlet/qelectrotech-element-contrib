@@ -1,0 +1,16 @@
+<definition height="30" version="0.80" link_type="terminal" type="element" hotspot_x="14" width="30" hotspot_y="16">
+    <uuid uuid="{a6c3679c-1513-4ea4-bf7e-2785128244d1}"/>
+    <names>
+        <name lang="pt"> PE</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:green" y1="9" antialias="false" y2="9" end1="none" x1="-2" end2="none" x2="2"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:green" y1="5" antialias="false" y2="5" end1="none" x1="-5" end2="none" x2="6"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:green" y1="1" antialias="false" y2="1" end1="none" x1="-10" end2="none" x2="10"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:green" y1="-10" antialias="false" y2="0" end1="none" x1="0" end2="none" x2="0"/>
+        <text x="2" y="-2" rotation="0" text="PE" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <terminal x="0" y="-10" name="" uuid="{cc97e41c-03f5-475f-8769-b21ea0b906ba}" orientation="n"/>
+    </description>
+</definition>

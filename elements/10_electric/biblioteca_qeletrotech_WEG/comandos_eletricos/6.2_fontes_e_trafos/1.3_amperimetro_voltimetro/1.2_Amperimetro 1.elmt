@@ -1,0 +1,33 @@
+<definition type="element" version="0.80" width="50" link_type="simple" hotspot_x="7" height="30" hotspot_y="5">
+    <uuid uuid="{85061427-30a4-4ef2-9925-da5d173d3f52}"/>
+    <names>
+        <name lang="pt">Amperimetro A</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1">AMP</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1">_A</elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" width="40" rx="2" ry="0" antialias="false" x="0" y="-3" height="26"/>
+        <line end1="none" end2="none" y1="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="10" x1="-2" x2="0" antialias="false" length1="1.5" length2="1.5"/>
+        <dynamic_text Valignment="AlignTop" text_from="ElementInfo" Halignment="AlignLeft" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" uuid="{d466f2f4-a3dc-4b9c-be4c-e9f10f6c22a1}" text_width="-1" frame="false" rotation="0" x="0" y="1" z="12">
+            <text>_A</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" text_from="ElementInfo" Halignment="AlignLeft" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" uuid="{97c2b0be-46f8-43ed-8443-ba19864478c5}" text_width="-1" frame="false" rotation="0" x="-3" y="-21" z="13">
+            <text>AMP</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal name="" uuid="{8463bdb8-e59e-4d8e-8f7a-0277cfc631ab}" x="-2" y="10" orientation="w"/>
+    </description>
+</definition>

@@ -1,0 +1,19 @@
+<definition type="element" hotspot_y="12" orientation="dyyy" link_type="simple" hotspot_x="34" height="20" width="70" version="0.70">
+    <uuid uuid="{046c27ac-2190-4a61-9184-67af336fefb2}"/>
+    <names>
+        <name lang="pt">Disjuntor Monopolar</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line end1="none" length1="1.5" y2="0" x2="23" end2="none" length2="1.5" antialias="false" y1="0" x1="10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" length1="1.5" y2="0" x2="-10" end2="none" length2="1.5" antialias="false" y1="0" x1="-22" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc start="90" x="-10" angle="90" y="-7" antialias="true" height="10" width="20" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc start="0" x="-10" angle="90" y="-7" antialias="true" height="10" width="20" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text uuid="{d4b11f76-6c2e-461e-ac54-e6c326b0b586}" x="-37" z="43" text_from="UserText" y="-20" frame="false" rotation="0" font_size="6">
+            <text>Q1</text>
+        </dynamic_text>
+        <terminal x="-27" y="0" orientation="w"/>
+        <terminal x="28" y="0" orientation="e"/>
+    </description>
+</definition>

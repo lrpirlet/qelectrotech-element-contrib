@@ -1,0 +1,39 @@
+<definition height="50" version="0.90" link_type="simple" hotspot_x="6" hotspot_y="3" type="element" width="20">
+    <uuid uuid="{37197f82-7fe0-4497-ab79-ed9a1a39f47f}"/>
+    <names>
+        <name lang="pt">Poste Final Cinza  PF3-BTW</name>
+    </names>
+    <elementInformations/>
+    <informations>&#xd;
+     Author: DXF converter&#xd;
+     License:see http://qelectrotech.org/wiki/doc/elements_license&#xd;
+     Converter version:V3.0 DB&#xd;
+&#xd;
+</informations>
+    <description>
+        <line x2="5" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="0" y2="0" x1="0"/>
+        <rect rx="0" height="44" ry="0" antialias="false" x="0" y="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightSlateGray;color:black" width="8"/>
+        <ellipse height="3.83557" antialias="false" x="2.13484" y="31.7279" style="line-style:normal;line-weight:thin;filling:gray;color:black" width="3.84176"/>
+        <ellipse height="4.57269" antialias="false" x="1.75943" y="31.353" style="line-style:normal;line-weight:thin;filling:none;color:black" width="4.58008"/>
+        <line x2="5.55114" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="32.1402" y2="34.8389" x1="2.83563"/>
+        <line x2="5.27583" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="32.415" y2="35.1262" x1="2.56032"/>
+        <line x2="0" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="40" y2="40" x1="8"/>
+        <line x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="22" y2="22" x1="0"/>
+        <line x2="0" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="5" y2="5" x1="8"/>
+        <line x2="0" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="39" y2="39" x1="8"/>
+        <line x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="2" y2="2" x1="0"/>
+        <line x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="41" y2="41" x1="0"/>
+        <line x2="0" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="1" y2="1" x1="8"/>
+        <line x2="0" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="3" y2="3" x1="8"/>
+        <line x2="0" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="4" y2="4" x1="8"/>
+        <line x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="43" y2="43" x1="0"/>
+        <line x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="42" y2="42" x1="0"/>
+        <line x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="19" y2="19" x1="0"/>
+        <line x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="25" y2="25" x1="0"/>
+        <line x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="6" y2="6" x1="0"/>
+        <line x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="7" y2="7" x1="0"/>
+        <line x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="8" y2="8" x1="0"/>
+        <line x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="38" y2="38" x1="0"/>
+        <line x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="37" y2="37" x1="0"/>
+    </description>
+</definition>

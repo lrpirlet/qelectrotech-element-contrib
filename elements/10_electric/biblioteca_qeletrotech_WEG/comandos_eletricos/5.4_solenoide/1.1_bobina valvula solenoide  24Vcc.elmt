@@ -1,0 +1,33 @@
+<definition version="0.80" type="element" height="40" link_type="master" hotspot_x="20" hotspot_y="22" width="50">
+    <uuid uuid="{700ec599-ab84-4f58-a204-c2f5e152709f}"/>
+    <names>
+        <name lang="pt">SOLENOIDE</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type" show="1">coil</kindInformation>
+    </kindInformations>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line y2="-3" x1="19" x2="21" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="-3"/>
+        <rect height="14" antialias="false" rx="0" ry="0" x="-15" y="-9.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="30"/>
+        <dynamic_text frame="false" font="Sans Serif,8,-1,5,50,0,0,0,0,0" Valignment="AlignTop" rotation="0" text_from="ElementInfo" Halignment="AlignLeft" x="-44" uuid="{a248eb60-a66b-4e92-b716-61630ffdf081}" y="-12.5" z="4" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text frame="false" font="Sans Serif,8,-1,5,50,0,0,0,0,0" Valignment="AlignTop" rotation="0" text_from="UserText" Halignment="AlignLeft" x="-47" uuid="{dcea7def-d258-45cb-a8df-dce06e3fd2f9}" y="-14" z="5" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon y2="-10" y3="4" x1="21" y4="4" x2="25" y5="-10" antialias="false" x3="18" y6="-10" x4="25" y7="-10" x5="18" closed="false" x6="21" x7="24" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-10"/>
+        <line y2="-3" x1="15" x2="17" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="-3"/>
+        <dynamic_text frame="false" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" rotation="0" text_from="UserText" Halignment="AlignLeft" x="-48" uuid="{c52087f9-aafb-4240-830e-4a886991f3ad}" y="-1" z="8" text_width="-1">
+            <text>24Vcc</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <line y2="5" x1="0" x2="0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="13"/>
+        <line y2="-18" x1="0" x2="0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="-10"/>
+        <terminal orientation="s" name="" x="0" uuid="{83f5e372-c6f3-4d75-8e8b-99f6fddb89b6}" y="13"/>
+        <terminal orientation="n" name="" x="0" uuid="{b890402c-f373-485a-bc28-2f34d6d4f575}" y="-18"/>
+    </description>
+</definition>

@@ -1,0 +1,53 @@
+<definition width="150" link_type="simple" type="element" hotspot_x="111" hotspot_y="53" version="0.80" height="110">
+    <uuid uuid="{9c705938-2092-4455-a381-2231a52af919}"/>
+    <names>
+        <name lang="pr">Autotransformador trifasico</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <text rotation="0" color="#000000" x="-102" y="-19" text="Tensão de Entrada" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" color="#000000" x="-103" y="11" text="Tensão de Saida" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:black" x="-104" width="45" y="15" rx="0" ry="0" antialias="false" height="12"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="-180" x="-18" width="50" y="-18" angle="-110" antialias="true" height="50"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:black" x="-104" width="45" y="-15" rx="0" ry="0" antialias="false" height="12"/>
+        <ellipse style="line-style:normal;line-weight:normal;filling:none;color:black" width="36" x="-18" y="-10" antialias="true" height="34"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:black" x="-104" width="45" y="42" rx="0" ry="0" antialias="false" height="12"/>
+        <text rotation="0" color="#000000" x="-104" y="39" text="Potência" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" color="#000000" x="-18" y="-36" text="A1" font="Sans Serif,4,-1,5,50,0,0,0,0,0"/>
+        <polygon y1="18" y2="27" y3="49" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="14" closed="false" x2="20" x3="20" antialias="true"/>
+        <polygon y1="18" y2="28" y3="50" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-14" closed="false" x2="-20" x3="-20" antialias="true"/>
+        <polygon y1="-7" y2="-28" y3="-49" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-14" closed="false" x2="-20" x3="-20" antialias="true"/>
+        <polygon y1="-17" y2="-28" y3="-49" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="14" closed="false" x2="20" x3="20" antialias="true"/>
+        <text rotation="0" color="#000000" x="2" y="45" text="B2" font="Sans Serif,4,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" color="#000000" x="-18" y="45" text="A2" font="Sans Serif,4,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" color="#000000" x="22" y="-35.6667" text="C1" font="Sans Serif,4,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" color="#000000" x="2" y="-36" text="B1" font="Sans Serif,4,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" color="#000000" x="22" y="45" text="C2" font="Sans Serif,4,-1,5,50,0,0,0,0,0"/>
+        <line y1="24" y2="50" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" x2="0" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none"/>
+        <line y1="-49" y2="-17" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" x2="0" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none"/>
+        <dynamic_text rotation="0" text_from="ElementInfo" uuid="{26a3d40a-7c5a-4c2e-aef8-5b6358b6603e}" Valignment="AlignTop" x="-74" y="-50" Halignment="AlignLeft" z="39" frame="false" text_width="-1" font="Sans Serif,8,-1,5,50,0,0,0,0,0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text rotation="0" text_from="UserText" uuid="{bb043b72-92b5-480e-b4ac-0ae26d78f9f2}" Valignment="AlignTop" x="-102" y="37" Halignment="AlignLeft" z="41" frame="false" text_width="-1" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal">
+            <text>_VA</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <dynamic_text rotation="0" text_from="UserText" uuid="{bb043b72-92b5-480e-b4ac-0ae26d78f9f2}" Valignment="AlignTop" x="-105" y="-20" Halignment="AlignLeft" z="41" frame="false" text_width="-1" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal">
+            <text>_Vca</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <dynamic_text rotation="0" text_from="UserText" uuid="{bb043b72-92b5-480e-b4ac-0ae26d78f9f2}" Valignment="AlignTop" x="-104" y="10" Halignment="AlignLeft" z="41" frame="false" text_width="-1" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal">
+            <text>_Vca</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal orientation="s" name="" uuid="{05b74392-b9ec-4bfd-9ba5-1d5e854ec239}" x="-20" y="50"/>
+        <terminal orientation="n" name="" uuid="{20341cad-795c-4014-ac1a-9dee6049b46f}" x="20" y="-49"/>
+        <terminal orientation="s" name="" uuid="{bcf4f32b-71a3-4d41-8a24-57d7a39aa66a}" x="0" y="50"/>
+        <terminal orientation="n" name="" uuid="{7699cdcc-651a-40e8-af46-c47e903e0c05}" x="-20" y="-49"/>
+        <terminal orientation="n" name="" uuid="{b4d3052e-04de-423b-9fce-629db302d1f5}" x="0" y="-49"/>
+        <terminal orientation="s" name="" uuid="{cc27e293-234b-447b-a3d3-0ed983c87df8}" x="20" y="50"/>
+    </description>
+</definition>

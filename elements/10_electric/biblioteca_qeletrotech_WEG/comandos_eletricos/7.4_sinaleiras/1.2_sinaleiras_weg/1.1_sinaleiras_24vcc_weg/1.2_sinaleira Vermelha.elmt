@@ -1,0 +1,44 @@
+<definition height="50" type="element" link_type="simple" hotspot_x="15" hotspot_y="25" version="0.90" width="30">
+    <uuid uuid="{74d9e385-fc9c-4104-8786-d6189cb89e8e}"/>
+    <names>
+        <name lang="pt">LAMPADA</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+        <elementInformation show="1" name="label">H</elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="comment">24Vcc</elementInformation>
+        <elementInformation show="1" name="description">SINALEIRO LED VERMELHO 24VCC CEW-SM1-E26</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">10046540</elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference">H10046540</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <circle x="-10" y="-10" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:red" diameter="20"/>
+        <dynamic_text Valignment="AlignTop" x="8" frame="false" y="4" z="2" Halignment="AlignLeft" rotation="0" text_width="-1" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="true" uuid="{a2f7aff4-0993-4078-9e6f-60e58e62d915}" text_from="UserText">
+            <text>X2</text>
+        </dynamic_text>
+        <line length1="1.5" end1="none" length2="1.5" end2="none" antialias="false" y1="-7.03" y2="7.03" x1="7.03" style="line-style:normal;line-weight:normal;filling:none;color:red" x2="-7.03"/>
+        <line length1="1.5" end1="none" length2="1.5" end2="none" antialias="false" y1="-7.03" y2="7.03" x1="-7.03" style="line-style:normal;line-weight:normal;filling:none;color:red" x2="7.03"/>
+        <line length1="1.5" end1="none" length2="1.5" end2="none" antialias="false" y1="-20" y2="-11" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0"/>
+        <line length1="1.5" end1="none" length2="1.5" end2="none" antialias="false" y1="11" y2="20" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0"/>
+        <dynamic_text Valignment="AlignTop" x="8" frame="false" y="-21" z="7" Halignment="AlignLeft" rotation="0" text_width="-1" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="true" uuid="{3dccb39e-5d95-4ee4-aac5-dd71f8fc7068}" text_from="UserText">
+            <text>X1</text>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" x="-36" frame="false" y="-10.5" z="8" Halignment="AlignLeft" rotation="0" text_width="-1" font="Sans Serif,8,-1,5,50,0,0,0,0,0" keep_visual_rotation="true" uuid="{ee5a0245-9314-4961-82b8-cfb43b0950e3}" text_from="ElementInfo">
+            <text>H</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" x="-40" frame="false" y="6" z="8" Halignment="AlignLeft" rotation="0" text_width="-1" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="true" uuid="{c52087f9-aafb-4240-830e-4a886991f3ad}" text_from="ElementInfo">
+            <text>24Vcc</text>
+            <info_name>comment</info_name>
+            <composite_text>%{comment}</composite_text>
+        </dynamic_text>
+        <terminal x="0" y="20" type="Generic" orientation="s" name="" uuid="{9fb077d7-4498-4ea1-af79-508cda596a32}"/>
+        <terminal x="0" y="-21" type="Generic" orientation="n" name="" uuid="{ab635538-45f5-4155-8811-b36a16c684da}"/>
+    </description>
+</definition>

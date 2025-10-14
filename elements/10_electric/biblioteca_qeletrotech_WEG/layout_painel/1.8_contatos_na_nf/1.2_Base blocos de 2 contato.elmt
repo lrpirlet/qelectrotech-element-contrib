@@ -1,0 +1,13 @@
+<definition type="element" link_type="terminal" height="50" hotspot_x="13" hotspot_y="25" width="20" version="0.80">
+    <uuid uuid="{40a06582-2f24-4ffa-a2a2-27a753e86f31}"/>
+    <names>
+        <name lang="pt">CONTATO NF</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line y1="-3" y2="3" x1="0" end1="none" x2="0" end2="none" antialias="false" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5"/>
+        <line y1="0" y2="0" x1="-3" end1="none" x2="3" end2="none" antialias="false" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5"/>
+        <polygon y1="-20" y2="-20" y3="20" x1="-6" y4="20" x2="-10" x3="-10" x4="-6" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" closed="false"/>
+    </description>
+</definition>

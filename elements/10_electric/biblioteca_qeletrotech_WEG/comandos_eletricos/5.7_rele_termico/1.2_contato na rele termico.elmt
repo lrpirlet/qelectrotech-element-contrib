@@ -1,0 +1,33 @@
+<definition version="0.80" height="50" type="element" width="30" link_type="slave" hotspot_x="25" hotspot_y="24">
+    <uuid uuid="{bf2dfe8a-820d-42fd-bed1-04f724626678}"/>
+    <names>
+        <name lang="pt">CONTATO NA RELÉ TERMICO</name>
+    </names>
+    <kindInformations>
+        <kindInformation show="1" name="number">1</kindInformation>
+        <kindInformation show="1" name="state">NO</kindInformation>
+        <kindInformation show="1" name="type">simple</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text uuid="{3b2c31da-1fcb-4ebe-8347-e1083be6dc0d}" Valignment="AlignTop" text_from="UserText" Halignment="AlignLeft" x="-1" text_width="-1" y="7" rotation="0" z="1" font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" frame="false">
+            <text>98</text>
+        </dynamic_text>
+        <dynamic_text uuid="{07d823d6-b6c9-4868-9757-cfd8b18a8e73}" Valignment="AlignTop" text_from="ElementInfo" Halignment="AlignLeft" x="-52" text_width="-1" y="-18.5" rotation="0" z="2" font="Sans Serif,8,-1,5,50,0,0,0,0,0" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text uuid="{ff32b23c-b29f-4225-8a97-1ce95c3d9055}" Valignment="AlignTop" text_from="UserText" Halignment="AlignLeft" x="-1" text_width="-1" y="-24" rotation="0" z="4" font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" frame="false">
+            <text>97</text>
+        </dynamic_text>
+        <line x1="0" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" antialias="false" y1="-20" length1="1.5" y2="-7" length2="1.5"/>
+        <line x1="-19" x2="-19" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" y1="1" length1="1.5" y2="-3" length2="1.5"/>
+        <line x1="-19" x2="-13" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" y1="-3" length1="1.5" y2="-3" length2="1.5"/>
+        <line x1="-13" x2="-13" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" y1="-3" length1="1.5" y2="1" length2="1.5"/>
+        <line x1="-13" x2="-4" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" y1="1" length1="1.5" y2="1" length2="1.5"/>
+        <line x1="-19" x2="-23" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" y1="1" length1="1.5" y2="1" length2="1.5"/>
+        <polygon x1="-7" x2="0" x3="0" closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="-7" y2="8" y3="20"/>
+        <terminal uuid="{f0ac65d1-9526-4df5-aa5a-2c146cc320f3}" x="0" y="-20" orientation="n" name=""/>
+        <terminal uuid="{592a4b6b-4a7e-475d-9ba0-fe10c0beb974}" x="0" y="20" orientation="s" name=""/>
+    </description>
+</definition>

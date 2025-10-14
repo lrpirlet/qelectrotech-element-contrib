@@ -1,0 +1,34 @@
+<definition type="element" width="70" height="40" link_type="simple" hotspot_x="34" hotspot_y="15" version="0.90">
+    <uuid uuid="{619e0787-2ef0-4b3e-9a6d-6114e7465491}"/>
+    <names>
+        <name lang="pt">Atuador Sensor  Hall duplo Canal ASSH5-30R1P</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Atuador Sensor  Hall duplo Canal ASSH5-30R1P</elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label">AS_</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <polygon x2="6.6436" y5="-4.62271" closed="false" x3="14.1122" y6="-4.62271" x4="21.5809" x5="14.1122" x6="14.1122" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-4.62271" y2="4.01694" antialias="true" y3="12.6566" x1="14.1122" y4="4.01694"/>
+        <line x2="12.2451" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="-2.4628" length2="1.5" y2="10.4967" antialias="true" x1="12.2451"/>
+        <line x2="15.9794" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="-2.4628" length2="1.5" y2="10.4967" antialias="true" x1="15.9794"/>
+        <rect x="-28" rx="0" y="-10" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" width="57" height="30.1433" antialias="true"/>
+        <text rotation="0" x="-24" text="ATUADOR" y="15" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <line x2="24" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="-5" length2="1.5" y2="-5" antialias="true" x1="18"/>
+        <line x2="24" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="-5" length2="1.5" y2="13" antialias="true" x1="24"/>
+        <line x2="24" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="13" length2="1.5" y2="13" antialias="true" x1="18"/>
+        <dynamic_text rotation="0" x="-55" text_from="ElementInfo" y="-6" z="20" text_width="-1" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" uuid="{de2a5738-d787-4199-bb62-67e60f86f47f}" frame="false" Valignment="AlignTop" Halignment="AlignLeft">
+            <text>AS_</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

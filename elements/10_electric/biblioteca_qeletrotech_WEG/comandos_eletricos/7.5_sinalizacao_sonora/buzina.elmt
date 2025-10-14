@@ -1,0 +1,27 @@
+<definition hotspot_x="7" hotspot_y="24" version="0.90" width="30" height="50" type="element" link_type="simple">
+    <uuid uuid="{280b0209-3e87-4de2-b563-543126cf0de8}"/>
+    <names>
+        <name lang="pt">Buzina</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <polygon antialias="false" style="line-style:normal;line-weight:normal;filling:HTMLGrayLightGray;color:black" y1="-2" y2="-8" y3="3" x1="4" y4="3" x2="14" y5="-2" x3="20" x4="4" x5="4"/>
+        <dynamic_text z="2" uuid="{16c2e1fc-a060-48b0-afbe-7802c01b5010}" text_from="ElementInfo" Valignment="AlignTop" frame="false" Halignment="AlignLeft" rotation="0" font="Sans Serif,8,-1,5,50,0,0,0,0,0" text_width="-1" x="-26" y="-28">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text z="3" uuid="{a2f7aff4-0993-4078-9e6f-60e58e62d915}" text_from="UserText" Valignment="AlignTop" frame="false" Halignment="AlignLeft" rotation="0" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="-2" y="8">
+            <text>X2</text>
+        </dynamic_text>
+        <line antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-12" y2="-20" end1="none" end2="none" x1="0" x2="0"/>
+        <line antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="20" end1="none" end2="none" x1="0" x2="0"/>
+        <rect ry="0" antialias="false" style="line-style:normal;line-weight:normal;filling:HTMLGrayLightGray;color:black" width="8" height="23" x="-4" y="-12" rx="0"/>
+        <dynamic_text z="7" uuid="{3dccb39e-5d95-4ee4-aac5-dd71f8fc7068}" text_from="UserText" Valignment="AlignTop" frame="false" Halignment="AlignLeft" rotation="0" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="-1" y="-26">
+            <text>X1</text>
+        </dynamic_text>
+        <terminal uuid="{0ccae778-9805-4baf-859a-b175e4e3f294}" orientation="n" type="Generic" x="0" name="" y="-20"/>
+        <terminal uuid="{3c672d52-8177-422b-b255-40f4d9a0483e}" orientation="s" type="Generic" x="0" name="" y="20"/>
+    </description>
+</definition>

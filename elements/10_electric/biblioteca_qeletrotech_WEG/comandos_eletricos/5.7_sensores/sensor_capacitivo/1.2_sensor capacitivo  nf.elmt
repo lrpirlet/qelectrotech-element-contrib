@@ -1,0 +1,38 @@
+<definition height="70" width="50" link_type="simple" hotspot_x="24" hotspot_y="34" type="element" version="0.80">
+    <uuid uuid="{e5bf68ff-e652-4063-9ab8-fdc69b00a5f8}"/>
+    <names>
+        <name lang="pt">Sensor capacitivo nf</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <arc x="9" height="1.58833" y="-13.5446" style="line-style:normal;line-weight:thin;filling:none;color:black" start="36.9375" width="1.90125" angle="227.5" antialias="true"/>
+        <line x2="-14" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" y1="2" length2="1.5" antialias="false" y2="5" x1="-14" end1="none"/>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_from="ElementInfo" text_width="-1" x="-46" uuid="{5c8a2eee-95a9-4e56-b721-7c603c66c368}" y="-13.5" z="2" rotation="0" Valignment="AlignTop" frame="false" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x2="-11" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" y1="-1" length2="1.5" antialias="false" y2="-1" x1="-17" end1="none"/>
+        <line x2="-11" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" y1="2" length2="1.5" antialias="false" y2="2" x1="-17" end1="none"/>
+        <line x2="-14" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" y1="-1" length2="1.5" antialias="false" y2="-4" x1="-14" end1="none"/>
+        <line x2="-8.17561" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="-11.7966" length2="1.5" antialias="false" y2="-11.7966" x1="-11.8059" end1="none"/>
+        <line x2="-9.99073" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="-13.5688" length2="1.5" antialias="false" y2="-10.0243" x1="-9.99073" end1="none"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-8" y="-20" rotation="0" color="#000000" text="MR"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-8" y="24" rotation="0" color="#000000" text="AZ"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="12" y="-20" rotation="0" color="#000000" text="PT"/>
+        <line x2="-10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" y1="30" length2="1.5" antialias="false" y2="16" x1="-10" end1="none"/>
+        <line x2="10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" y1="-16" length2="1.5" antialias="false" y2="-30" x1="10" end1="none"/>
+        <polygon x2="13" x3="13" style="line-style:normal;line-weight:thin;filling:none;color:black" closed="false" y1="-4" antialias="true" y2="3" y3="10" x1="17"/>
+        <line x2="-10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" y1="-16" length2="1.5" antialias="false" y2="-30" x1="-10" end1="none"/>
+        <line x2="13" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="-10" length2="1.5" antialias="false" y2="-3" x1="13" end1="none"/>
+        <rect rx="0" ry="0" x="-20" height="31" y="-16" style="line-style:normal;line-weight:normal;filling:none;color:black" width="40" antialias="false"/>
+        <polygon x2="-7.8784" y5="-7.48698" x3="0.260801" x4="8.4" x5="0.260801" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y1="-7.48698" antialias="true" y2="0.0212873" y3="7.52955" x1="0.260801" y4="0.0212873"/>
+        <polygon x2="-1.36704" y5="6.0279" x3="-1.36704" y6="-5.98532" x4="0.260801" x5="1.88864" x6="1.88864" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-7.48698" antialias="false" y2="-5.98532" y3="6.0279" x1="0.260801" y4="7.52955"/>
+        <line x2="17" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="-3" length2="1.5" antialias="false" y2="-3" x1="13" end1="none"/>
+        <line x2="-8" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" y1="11" length2="1.5" antialias="false" y2="11" x1="-12" end1="none"/>
+        <arc x="9" height="1.58833" y="-11.9563" style="line-style:normal;line-weight:thin;filling:none;color:black" start="198" width="1.90125" angle="258.438" antialias="true"/>
+        <terminal name="" x="-10" uuid="{17781ef1-c9af-4c19-acee-769a4861de7b}" y="30" orientation="s"/>
+        <terminal name="" x="10" uuid="{c4846aad-2c6e-4da8-a567-c068741fbbce}" y="-30" orientation="n"/>
+        <terminal name="" x="-10" uuid="{bc20ab1f-1ff7-408d-ba14-b5eb1ff24bd9}" y="-30" orientation="n"/>
+    </description>
+</definition>

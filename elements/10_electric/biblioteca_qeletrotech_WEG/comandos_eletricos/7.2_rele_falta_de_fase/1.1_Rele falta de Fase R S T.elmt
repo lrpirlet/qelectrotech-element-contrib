@@ -1,0 +1,43 @@
+<definition version="0.90" link_type="master" type="element" height="40" hotspot_x="15" width="90" hotspot_y="26">
+    <uuid uuid="{9cfcc6cc-3f9b-45d7-9293-67f1d3cf3ad1}"/>
+    <names>
+        <name lang="pt">Detector Falta de Fase</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">protection</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer_reference">10047122</elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference">RLF10047122</elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="description">RELÉ FALTA DE FASE RPWFFD70 380-415 VCA 50/60 Hz (L1-L2-L3)</elementInformation>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label">RLF</elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect x="43" y="-13" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" height="10" width="14" rx="0" ry="0"/>
+        <rect x="23" y="-13" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" height="10" width="14" rx="0" ry="0"/>
+        <rect x="-10" y="-15" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" height="25" width="80" rx="0" ry="0"/>
+        <text x="26" y="-5" text="L2" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="46" y="-5" text="L3" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="6" y="-5" text="L1" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <line length2="1.5" y1="-20" y2="-16" x1="10" x2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" length1="1.5"/>
+        <line length2="1.5" y1="-20" y2="-16" x1="30" x2="30" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" length1="1.5"/>
+        <line length2="1.5" y1="-20" y2="-16" x1="50" x2="50" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" length1="1.5"/>
+        <rect x="-9" y="-2" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" height="10" width="78" rx="0" ry="0"/>
+        <rect x="3" y="-13" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" height="10" width="14" rx="0" ry="0"/>
+        <dynamic_text uuid="{566b20cc-ee6e-4952-9c3a-d0d809ff1a47}" x="-40" y="-17" z="12" Valignment="AlignTop" Halignment="AlignLeft" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="true" rotation="0" frame="false" text_width="-1" text_from="ElementInfo">
+            <text>RLF</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{63d468a3-3c29-41f1-91db-2ed678484b67}" x="30" y="-20" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{4168913d-9093-4c7f-8af4-2c9a11957258}" x="50" y="-20" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{6b7b5b0e-3a7d-4e0d-ad86-2053286eda6a}" x="10" y="-20" orientation="n" type="Generic" name=""/>
+    </description>
+</definition>

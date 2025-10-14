@@ -1,0 +1,24 @@
+<definition version="0.90" type="element" link_type="slave" height="50" hotspot_x="5" hotspot_y="24" width="20">
+    <uuid uuid="{db34d041-f42e-4d7c-a031-90673f9d5d51}"/>
+    <names>
+        <name lang="pt">CONTATO FECHADO NF</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">NC</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <text text="NF" rotation="0" x="4" y="14" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <text text="C" rotation="0" x="4" y="-10" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <polygon x4="0" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y1="-8" y2="8" y3="14" x1="6" y4="20" x2="0" x3="0"/>
+        <dynamic_text rotation="0" x="-29" y="-12" Valignment="AlignTop" z="6" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" keep_visual_rotation="true" text_from="ElementInfo" uuid="{9f7c906e-0056-4fa9-a189-12afcd4b9852}" frame="false" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y1="-20" y2="-5" y3="-5" x1="0" x2="0" x3="8"/>
+        <terminal x="0" y="-20" type="Generic" name="" uuid="{4d5b35f7-82a0-4f9b-85f3-754b1079b19c}" orientation="n"/>
+        <terminal x="0" y="20" type="Generic" name="" uuid="{8d99b32a-6478-4482-9aa4-8cbcb1db5912}" orientation="s"/>
+    </description>
+</definition>

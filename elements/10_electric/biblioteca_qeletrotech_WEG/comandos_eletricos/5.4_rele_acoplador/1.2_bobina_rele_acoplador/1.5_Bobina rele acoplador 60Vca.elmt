@@ -1,0 +1,41 @@
+<definition hotspot_x="19" hotspot_y="27" type="element" height="50" width="40" version="0.90" link_type="master">
+    <uuid uuid="{e016c545-4344-4557-8f68-40255ab00292}"/>
+    <names>
+        <name lang="pt">Borne Relé Interface 60Vcc/ca 6A 1NAF</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="machine_manufacturer_reference">RL12635081</elementInformation>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+        <elementInformation show="1" name="description">Relé  Interface  60Vcc/ca  6A 1NAF</elementInformation>
+        <elementInformation show="1" name="comment">60Vca</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">12635081</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text text="A2" rotation="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="6" color="#000000" y="12"/>
+        <rect antialias="false" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-15" y="-9.5" height="14" width="30"/>
+        <line x2="14" antialias="true" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="4" y2="-9" x1="-14"/>
+        <dynamic_text rotation="0" Halignment="AlignLeft" font="Sans Serif,8,-1,5,50,0,0,0,0,0" text_width="-1" text_from="ElementInfo" keep_visual_rotation="true" x="-47" uuid="{dcea7def-d258-45cb-a8df-dce06e3fd2f9}" y="-14" z="5" frame="false" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x2="0" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="13" y2="5" x1="0"/>
+        <line x2="0" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="-18" y2="-10" x1="0"/>
+        <text text="A1" rotation="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="7" color="#000000" y="-12"/>
+        <dynamic_text rotation="0" Halignment="AlignLeft" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" text_from="ElementInfo" keep_visual_rotation="true" x="-48" uuid="{c52087f9-aafb-4240-830e-4a886991f3ad}" y="-1" z="8" frame="false" Valignment="AlignTop">
+            <text>60Vca</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal type="Generic" orientation="n" name="" x="0" uuid="{743c3459-46c6-42ef-a53e-42dc24716245}" y="-18"/>
+        <terminal type="Generic" orientation="s" name="" x="0" uuid="{0739f207-31d9-402b-a311-844c42d89d82}" y="13"/>
+    </description>
+</definition>

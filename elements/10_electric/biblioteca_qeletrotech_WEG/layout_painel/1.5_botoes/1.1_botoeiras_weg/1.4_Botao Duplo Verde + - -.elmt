@@ -1,0 +1,45 @@
+<definition version="0.80" height="60" link_type="simple" type="element" hotspot_x="20" hotspot_y="30" width="40">
+    <uuid uuid="{99e98685-15b6-445a-ad43-14ff2ee9c44d}"/>
+    <names>
+        <name lang="pt">Botão Duplo</name>
+    </names>
+    <elementInformations/>
+    <informations>&#xd;
+     Author: DXF converter&#xd;
+     License:see http://qelectrotech.org/wiki/doc/elements_license&#xd;
+     Converter version:V3.0 DB&#xd;
+&#xd;
+</informations>
+    <description>
+        <rect rx="8" ry="24" height="53" antialias="false" x="-15" y="-27" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightSlateGray;color:black" width="30"/>
+        <ellipse height="3.72166" antialias="false" x="-5.4345" y="-10.165" style="line-style:normal;line-weight:eleve;filling:HTMLGrayLightSlateGray;color:HTMLGrayLightSlateGray" width="10.7564"/>
+        <rect rx="10" ry="5" height="14.6102" antialias="false" x="-10.1873" y="-20.3941" style="line-style:normal;line-weight:thin;filling:HTMLGreenSeaGreen;color:HTMLGreenSeaGreen" width="20.084"/>
+        <rect rx="2" ry="3" height="8.21824" antialias="false" x="-11.1915" y="-16.7416" style="line-style:normal;line-weight:thin;filling:HTMLGreenSeaGreen;color:HTMLGreenSeaGreen" width="22.0924"/>
+        <arc height="19.1759" antialias="true" x="-10.1873" y="-24.0467" style="line-style:normal;line-weight:hight;filling:HTMLGreenSeaGreen;color:HTMLGreenSeaGreen" start="349.375" width="20.084" angle="201.5"/>
+        <arc height="11.8708" antialias="true" x="-7.17467" y="-24.0467" style="line-style:normal;line-weight:eleve;filling:none;color:HTMLGrayLightSlateGray" start="31.0625" width="14.0589" angle="124.5"/>
+        <dynamic_text text_width="0" rotation="0" x="-11" y="-50" z="7" font="Calibri,9,-1,5,50,0,0,0,0,0,Regular" text_from="ElementInfo" Valignment="AlignTop" uuid="{19da2c05-9277-41f1-8dcd-44d52cd2962f}" frame="false" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect rx="4" ry="5.5" height="10.0445" antialias="false" x="-10.1873" y="-22.2204" style="line-style:normal;line-weight:thin;filling:HTMLGreenSeaGreen;color:HTMLGreenSeaGreen" width="20.084"/>
+        <rect rx="10" ry="5" height="14.6102" antialias="false" x="-10.1873" y="7" style="line-style:normal;line-weight:thin;filling:HTMLGreenSeaGreen;color:HTMLGreenSeaGreen" width="20.084"/>
+        <rect rx="2" ry="2" height="9.92443" antialias="false" x="-10.8127" y="-5.2027" style="line-style:normal;line-weight:thin;filling:HTMLRedFirebrick;color:HTMLRedRed" width="21.5129"/>
+        <rect rx="2" ry="3" height="6.39196" antialias="false" x="-11.1915" y="7" style="line-style:normal;line-weight:thin;filling:HTMLGreenSeaGreen;color:HTMLGreenSeaGreen" width="22.0924"/>
+        <arc height="24.6547" antialias="true" x="-10.1873" y="-0.3051" style="line-style:normal;line-weight:hight;filling:HTMLGreenSeaGreen;color:HTMLGreenSeaGreen" start="174.5" width="20.084" angle="199.063"/>
+        <arc height="11.8708" antialias="true" x="-7.17467" y="11.5657" style="line-style:normal;line-weight:eleve;filling:HTMLGrayLightSlateGray;color:HTMLGrayLightSlateGray" start="203.688" width="14.0589" angle="146"/>
+        <rect rx="6" ry="5.5" height="10.0445" antialias="false" x="-10.1873" y="11.5657" style="line-style:normal;line-weight:thin;filling:HTMLGreenSeaGreen;color:HTMLGreenSeaGreen" width="20.084"/>
+        <ellipse height="7.3051" antialias="false" x="-10.1873" y="-14.0021" style="line-style:normal;line-weight:hight;filling:HTMLGreenSeaGreen;color:HTMLGreenSeaGreen" width="20.084"/>
+        <ellipse height="5.47882" antialias="false" x="-10.1873" y="6.0869" style="line-style:normal;line-weight:hight;filling:HTMLGreenSeaGreen;color:HTMLGreenSeaGreen" width="20.084"/>
+        <arc height="14.1449" antialias="true" x="-15.226" y="-18.9836" style="line-style:normal;line-weight:hight;filling:none;color:HTMLGrayLightSlateGray" start="235.188" width="30.8476" angle="67.3125"/>
+        <arc height="7.42591" antialias="true" x="-11.7995" y="4.2606" style="line-style:normal;line-weight:hight;filling:none;color:HTMLGrayLightSlateGray" start="40.375" width="23.7047" angle="119.688"/>
+        <rect rx="8" ry="24" height="51" antialias="false" x="-14" y="-26" style="line-style:normal;line-weight:thin;filling:none;color:white" width="28"/>
+        <line antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:cyan" y1="-27" y2="-26" length1="1.5" x1="0" length2="1.5" x2="0"/>
+        <line antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:cyan" y1="26" y2="25" length1="1.5" x1="0" length2="1.5" x2="0"/>
+        <line antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:cyan" y1="0" y2="0" length1="1.5" x1="-15" length2="1.5" x2="-14"/>
+        <line antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:cyan" y1="0" y2="0" length1="1.5" x1="14" length2="1.5" x2="15"/>
+        <rect rx="0" ry="0" height="2" antialias="false" x="-4" y="-15" style="line-style:normal;line-weight:thin;filling:white;color:white" width="8"/>
+        <rect rx="0" ry="0" height="8" antialias="false" x="-1" y="-18" style="line-style:normal;line-weight:thin;filling:white;color:white" width="2"/>
+        <rect rx="0" ry="0" height="2" antialias="false" x="-4" y="13" style="line-style:normal;line-weight:thin;filling:white;color:white" width="8"/>
+        <text text="STOP" rotation="0" x="-6" y="2" font="Arial Narrow,4,-1,5,50,0,0,0,0,0,Normal" color="#ffffff"/>
+    </description>
+</definition>

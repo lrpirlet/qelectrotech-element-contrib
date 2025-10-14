@@ -1,0 +1,39 @@
+<definition height="70" version="0.80" link_type="simple" hotspot_x="13" type="element" hotspot_y="34" width="20">
+    <uuid uuid="{2543d6e5-68d6-440a-b6f4-d658e14c0c30}"/>
+    <names>
+        <name lang="pt">Porta Fusível Dc</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Suntree</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1">_A</elementInformation>
+        <elementInformation name="description" show="1">Porta Fusível Dc 1000v 15a</elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1">F</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text frame="false" uuid="{9f7c906e-0056-4fa9-a189-12afcd4b9852}" text_width="-1" x="-35" y="-15" z="6" Valignment="AlignTop" rotation="0" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" text_from="ElementInfo">
+            <text>F</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text frame="false" uuid="{4a17afd9-8b68-45a4-b106-c05697b14cf4}" text_width="-1" x="-31" y="5" z="7" Valignment="AlignTop" rotation="0" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" text_from="ElementInfo">
+            <text>_A</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <dynamic_text frame="false" uuid="{4a17afd9-8b68-45a4-b106-c05697b14cf4}" text_width="-1" x="-31" y="-33" z="7" Valignment="AlignTop" rotation="0" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" text_from="UserText">
+            <text>XF:</text>
+        </dynamic_text>
+        <polygon closed="false" y1="-8" y2="8" antialias="false" y3="30" x1="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" x3="0"/>
+        <line y1="-30" y2="-7" antialias="false" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" end1="none" length1="1.5" end2="none" length2="1.5"/>
+        <polygon x7="-7" y1="-6" y2="-7" antialias="false" y3="5" x1="-7" y4="7" style="line-style:normal;line-weight:thin;filling:white;color:black" x2="-5" y5="-5" x3="1" y6="-6" x4="-3" y7="-6" x5="-9" x6="-7"/>
+        <polygon closed="false" y1="-8" y2="8" antialias="false" y3="11" x1="-8" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="0" x3="0"/>
+        <terminal name="" uuid="{ec64e704-5a2f-451d-aa78-c43aece81d69}" x="0" y="-30" orientation="n"/>
+        <terminal name="" uuid="{e5ef3930-5da6-4f56-b8a3-6548e85f00b3}" x="0" y="30" orientation="s"/>
+    </description>
+</definition>

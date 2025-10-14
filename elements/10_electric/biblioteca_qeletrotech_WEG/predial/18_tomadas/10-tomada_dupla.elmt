@@ -1,0 +1,35 @@
+<definition orientation="dyyy" hotspot_x="25" hotspot_y="35" type="element" width="50" height="70" version="0.70" link_type="simple">
+    <uuid uuid="{2fbd8331-4531-42ce-9ce5-c0081b70ee69}"/>
+    <names>
+        <name lang="pt">Tomada Dupla</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line length2="1.5" end1="none" x1="-19" x2="-11" y1="-18" antialias="false" end2="none" y2="-26" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length2="1.5" end1="none" x1="-19" x2="-11" y1="18" antialias="false" end2="none" y2="10" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length2="1.5" end1="none" x1="-10.5" x2="10.5" y1="-26.21" antialias="false" end2="none" y2="-26.21" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length2="1.5" end1="none" x1="-10.5" x2="10.5" y1="9.79" antialias="false" end2="none" y2="9.79" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect x="-20" width="40" height="60" antialias="false" style="line-style:dashed;line-weight:normal;filling:none;color:black" y="-30"/>
+        <line length2="1.5" end1="none" x1="-19" x2="-11" y1="-18" antialias="false" end2="none" y2="-10" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length2="1.5" end1="none" x1="-19" x2="-11" y1="18" antialias="false" end2="none" y2="26" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length2="1.5" end1="none" x1="-10.5" x2="10.5" y1="26.2" antialias="false" end2="none" y2="26.2" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length2="1.5" end1="none" x1="-10.5" x2="10.5" y1="-9.8" antialias="false" end2="none" y2="-9.8" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length2="1.5" end1="none" x1="11" x2="19" y1="26" antialias="false" end2="none" y2="18" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length2="1.5" end1="none" x1="11" x2="19" y1="-10" antialias="false" end2="none" y2="-18" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length2="1.5" end1="none" x1="11" x2="19" y1="10" antialias="false" end2="none" y2="18" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length2="1.5" end1="none" x1="11" x2="19" y1="-26" antialias="false" end2="none" y2="-18" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <ellipse x="-12.195" width="4.39" height="4.51" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-20.295"/>
+        <ellipse x="-12.195" width="4.39" height="4.51" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="15.705"/>
+        <ellipse x="-2.195" width="4.39" height="4.51" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="12.885"/>
+        <ellipse x="-2.195" width="4.39" height="4.51" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-23.115"/>
+        <ellipse x="7.805" width="4.39" height="4.51" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-20.295"/>
+        <ellipse x="7.805" width="4.39" height="4.51" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="15.705"/>
+        <terminal orientation="s" x="0" y="20.87"/>
+        <terminal orientation="s" x="-10" y="24.25"/>
+        <terminal orientation="s" x="10" y="24.25"/>
+        <terminal orientation="s" x="0" y="-15.13"/>
+        <terminal orientation="s" x="-10" y="-11.75"/>
+        <terminal orientation="s" x="10" y="-11.75"/>
+    </description>
+</definition>

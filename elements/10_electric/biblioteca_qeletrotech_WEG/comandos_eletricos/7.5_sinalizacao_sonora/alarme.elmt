@@ -1,0 +1,29 @@
+<definition hotspot_x="9" hotspot_y="24" version="0.90" width="40" height="50" type="element" link_type="simple">
+    <uuid uuid="{f589b552-9739-4c72-9eda-e8051cb6ac06}"/>
+    <names>
+        <name lang="pt">Campaínha</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text z="1" uuid="{16c2e1fc-a060-48b0-afbe-7802c01b5010}" text_from="ElementInfo" Valignment="AlignTop" frame="false" Halignment="AlignLeft" rotation="0" font="Sans Serif,8,-1,5,50,0,0,0,0,0" text_width="-1" x="-26" y="-24">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text z="2" uuid="{a2f7aff4-0993-4078-9e6f-60e58e62d915}" text_from="UserText" Valignment="AlignTop" frame="false" Halignment="AlignLeft" rotation="0" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="-2" y="4">
+            <text>X2</text>
+        </dynamic_text>
+        <polygon antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-20" y2="-5" y3="-5" x1="0" closed="false" x2="0" x3="14"/>
+        <polygon antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="20" y2="5" y3="5" x1="0" closed="false" x2="0" x3="14"/>
+        <dynamic_text z="5" uuid="{3dccb39e-5d95-4ee4-aac5-dd71f8fc7068}" text_from="UserText" Valignment="AlignTop" frame="false" Halignment="AlignLeft" rotation="0" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="-2" y="-23">
+            <text>X1</text>
+        </dynamic_text>
+        <polygon x10="24" x1="14" x11="24" x2="14" x12="23" x3="15" x13="22" x4="17" x14="20" x5="19" x15="19" x6="23" x16="16" x7="23" x17="14" x8="24" x18="14" x9="24" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" y10="0" antialias="false" y11="-2" y12="-4" y13="-6" y14="-8" y15="-9" y16="-10" y17="-10" y1="-10" y18="10" y2="10" y3="10" y4="10" y5="9" y6="5" y7="5" y8="3" y9="2"/>
+        <line antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" y1="-10" y2="10" end1="none" end2="none" x1="14" x2="14"/>
+        <line antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:HTMLGrayLightGray;color:black" y1="-10" y2="10" end1="none" end2="none" x1="14" x2="14"/>
+        <arc antialias="true" style="line-style:normal;line-weight:normal;filling:HTMLGrayLightGray;color:black" start="271.125" width="20" angle="178.813" height="20" x="4" y="-10"/>
+        <terminal uuid="{562ee3c8-964a-4f3c-9377-530458bc8662}" orientation="n" type="Generic" x="0" name="" y="-20"/>
+        <terminal uuid="{e24de514-3203-4dc7-ac3f-cd614bfc6f3f}" orientation="s" type="Generic" x="0" name="" y="20"/>
+    </description>
+</definition>

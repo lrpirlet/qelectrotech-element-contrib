@@ -1,0 +1,23 @@
+<definition link_type="simple" version="0.80" hotspot_x="5" hotspot_y="6" type="element" width="80" height="60">
+    <uuid uuid="{eb00b6f5-0d83-4bf2-bb18-14c2b6cff058}"/>
+    <names>
+        <name lang="pt">Perigo  Risco de Choque Elétrico</name>
+    </names>
+    <elementInformations/>
+    <informations>&#xd;
+     Author: DXF converter&#xd;
+     License:see http://qelectrotech.org/wiki/doc/elements_license&#xd;
+     Converter version:V3.0 DB&#xd;
+&#xd;
+</informations>
+    <description>
+        <rect rx="1" ry="0" antialias="false" x="0" y="0" style="line-style:normal;line-weight:thin;filling:HTMLWhiteGhostWhite;color:black" width="70" height="47"/>
+        <rect rx="1" ry="1" antialias="false" x="1" y="1" style="line-style:normal;line-weight:thin;filling:HTMLYellowGold;color:black" width="68" height="45"/>
+        <rect rx="1" ry="1" antialias="false" x="2" y="2" style="line-style:normal;line-weight:thin;filling:black;color:black" width="66" height="18"/>
+        <text rotation="0" x="19" y="15.646" text="PERIGO" color="#ffd700" font="Agency FB,10,-1,5,75,0,0,0,0,0,Negrito"/>
+        <polygon x4="59.3406" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="33" y2="44" y3="44" x1="59.3406" y4="33" x2="53.7811" x3="64.9"/>
+        <text rotation="0" x="7" y="31" text="RISCO DE CHOQUE" color="#000000" font="Agency FB,7,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text rotation="0" x="17" y="42" text=" ELÉTRICO" color="#000000" font="Agency FB,7,-1,5,75,0,0,0,0,0,Negrito"/>
+        <polygon y1="37" y2="37" y3="38.4462" y4="38.4462" y5="40.8081" y6="40.8081" y7="43.17" x1="59.3406" y8="41.2805" x2="60.8568" x3="59.5666" y9="41.2805" x4="60.6872" x5="58.8195" x6="59.9401" x7="56.9518" x8="58.446" style="line-style:normal;line-weight:thin;filling:black;color:black" x9="57.3254" y10="39.3909" antialias="false" x10="58.8195" y11="39.3909" x11="57.5121"/>
+    </description>
+</definition>

@@ -1,0 +1,28 @@
+<definition link_type="terminal" hotspot_x="5" version="0.80" hotspot_y="6" type="element" height="20" width="10">
+    <uuid uuid="{10d03eae-d9f0-4075-be8c-530f7c0540b2}"/>
+    <names>
+        <name lang="pt">baixo</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <circle antialias="false" x="-3" y="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="6"/>
+        <line antialias="false" y1="3" y2="8" end1="none" x1="0" end2="none" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <dynamic_text frame="false" text_width="-1" x="-6" rotation="0" y="-21" text_from="UserText" z="4" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" Halignment="AlignLeft" uuid="{6de21602-c2df-4efb-b424-54e839984ecb}">
+            <text>_</text>
+        </dynamic_text>
+        <terminal x="0" y="8" orientation="s" name="" uuid="{d2279975-7c6b-47fa-bc16-6b512defa44e}"/>
+    </description>
+</definition>

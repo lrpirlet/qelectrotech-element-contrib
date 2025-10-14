@@ -1,0 +1,23 @@
+<definition width="90" height="30" link_type="simple" hotspot_x="24" hotspot_y="15" version="0.80" type="element">
+    <uuid uuid="{7cfc1d79-151b-4294-9b50-19226f670435}"/>
+    <names>
+        <name lang="pt">Termopar</name>
+    </names>
+    <elementInformations/>
+    <informations>EN 60617: 08-06-01</informations>
+    <description>
+        <rect y="-10" width="25" height="10" rx="0" antialias="false" ry="0" x="-12" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon y2="-5" y3="10" x1="-12" x2="-20" x3="-20" closed="false" antialias="false" y1="-5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y2="4" x1="-9" x2="8" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-13" style="line-style:normal;line-weight:thin;filling:black;color:black"/>
+        <polygon y2="3" y3="6" x1="7" y4="5" x2="9" y5="4" x3="10" x4="7" x5="8" antialias="false" y1="5" style="line-style:normal;line-weight:thin;filling:black;color:black"/>
+        <polygon y2="-5" y3="10" x1="14" y4="-5" x2="20" y5="-5" x3="20" y6="10" x4="20" x5="60" closed="false" antialias="false" x6="60" y1="-5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text y="-40" Valignment="AlignTop" z="6" Halignment="AlignLeft" uuid="{caa14bd7-6b21-4acf-a4d3-0187f8f80a97}" frame="false" text_width="-1" text_from="ElementInfo" rotation="0" x="-15" font="Sans Serif,8,-1,5,50,0,0,0,0,0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect y="-6" width="2" height="2" rx="2.5" antialias="false" ry="2.5" x="19" style="line-style:normal;line-weight:thin;filling:black;color:black"/>
+        <terminal y="10" name="" uuid="{5d32fe18-47b3-4098-b96f-b4ca497b641e}" orientation="s" x="60"/>
+        <terminal y="10" name="" uuid="{f06f769a-e65a-4982-9748-87a44952e718}" orientation="s" x="20"/>
+        <terminal y="10" name="" uuid="{5565fce2-7bda-449f-9323-53f716e16d6c}" orientation="s" x="-20"/>
+    </description>
+</definition>

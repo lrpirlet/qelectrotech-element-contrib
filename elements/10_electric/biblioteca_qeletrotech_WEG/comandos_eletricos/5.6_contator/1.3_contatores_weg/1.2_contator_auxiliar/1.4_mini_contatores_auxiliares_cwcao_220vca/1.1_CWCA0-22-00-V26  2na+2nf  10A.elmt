@@ -1,0 +1,40 @@
+<definition version="0.90" link_type="master" type="element" height="50" hotspot_x="19" width="40" hotspot_y="27">
+    <uuid uuid="{56992831-413c-4467-9404-79ab24c5622b}"/>
+    <names>
+        <name lang="pt">MINI CONTATOR CWCA0-22-00V26</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer_reference">12486843</elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference">K12486843</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+        <elementInformation show="1" name="description">MINI CONTATOR CWCA0-22-00V26  10A  220VCA 2NA + 2NF</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="label">K</elementInformation>
+        <elementInformation show="1" name="comment">10A</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text x="6" y="12" text="A2" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <rect x="-15" y="-9.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" height="14" width="30" rx="0" ry="0"/>
+        <line length2="1.5" y1="13" y2="5" x1="0" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" length1="1.5"/>
+        <dynamic_text uuid="{dcea7def-d258-45cb-a8df-dce06e3fd2f9}" x="-47" y="-14" z="5" Valignment="AlignTop" Halignment="AlignLeft" font="Sans Serif,8,-1,5,50,0,0,0,0,0" keep_visual_rotation="true" rotation="0" frame="false" text_width="-1" text_from="ElementInfo">
+            <text>K</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line length2="1.5" y1="-18" y2="-10" x1="0" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" length1="1.5"/>
+        <text x="7" y="-12" text="A1" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <dynamic_text uuid="{c52087f9-aafb-4240-830e-4a886991f3ad}" x="-48" y="-1" z="8" Valignment="AlignTop" Halignment="AlignLeft" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="true" rotation="0" frame="false" text_width="-1" text_from="UserText">
+            <text>220Vca</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{743c3459-46c6-42ef-a53e-42dc24716245}" x="0" y="-18" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{0739f207-31d9-402b-a311-844c42d89d82}" x="0" y="13" orientation="s" type="Generic" name=""/>
+    </description>
+</definition>

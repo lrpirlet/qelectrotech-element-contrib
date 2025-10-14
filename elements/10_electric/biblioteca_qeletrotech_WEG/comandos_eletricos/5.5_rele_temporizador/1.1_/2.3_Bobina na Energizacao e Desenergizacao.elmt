@@ -1,0 +1,29 @@
+<definition type="element" height="40" link_type="master" hotspot_x="19" hotspot_y="23" width="40" version="0.80">
+    <uuid uuid="{42eb348d-d6d3-4f49-8392-aefa79b16535}"/>
+    <names>
+        <name lang="pt">BOBINA  NA  ENERGIZAÇÃO E DESENERGIZAÇÃO</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type" show="1">coil</kindInformation>
+    </kindInformations>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text text="A2" rotation="0" x="6" y="12" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <line end1="none" end2="none" y1="-9" y2="4" x1="-8" x2="-8" antialias="false" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5"/>
+        <line end1="none" end2="none" y1="-17.5" y2="-9.5" x1="0" x2="0" antialias="true" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5"/>
+        <text text="A1" rotation="0" x="7" y="-12" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <line end1="none" end2="none" y1="12.5" y2="4.5" x1="0" x2="0" antialias="true" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5"/>
+        <dynamic_text rotation="0" frame="false" x="-43" text_width="-1" y="-14" z="6" font="Sans Serif,8,-1,5,50,0,0,0,0,0" uuid="{1af097bb-8bf0-46af-8cfc-0bf569f6284b}" Valignment="AlignTop" Halignment="AlignLeft" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect x="-15" height="14" y="-9.5" antialias="false" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" ry="0" width="30"/>
+        <polygon y1="-9" y2="-9" closed="false" y3="4" x1="-8" y4="4" x2="-15" antialias="false" x3="-8" x4="-12" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon y1="-9" y2="-9" closed="false" y3="4" x1="-10" y4="3" x2="-8" antialias="false" x3="-15" x4="-15" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" end2="none" y1="4" y2="4" x1="-15" x2="-8" antialias="false" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5"/>
+        <rect x="-8" height="13" y="-9" antialias="false" rx="0" style="line-style:normal;line-weight:normal;filling:black;color:black" ry="0" width="7"/>
+        <terminal x="0" y="12.5" name="" orientation="s" uuid="{b8dd6e5b-d7cd-4f10-8529-201248a8a276}"/>
+        <terminal x="0" y="-17.5" name="" orientation="n" uuid="{aff8bb0b-7e67-4c89-a680-6743931c8698}"/>
+    </description>
+</definition>

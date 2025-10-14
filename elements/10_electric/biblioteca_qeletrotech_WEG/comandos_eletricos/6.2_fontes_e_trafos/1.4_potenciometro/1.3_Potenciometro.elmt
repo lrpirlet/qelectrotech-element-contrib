@@ -1,0 +1,25 @@
+<definition width="30" hotspot_x="17" version="0.70" hotspot_y="24" height="50" orientation="dyyy" type="element" link_type="master">
+    <uuid uuid="{b25a3941-0869-48d6-8f84-9075b50dbc25}"/>
+    <names>
+        <name lang="pt">POTENCIOMETRO</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type" show="1">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect width="8" antialias="true" height="22" x="-4" y="-12" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <input size="8" rotate="true" x="-40" y="-2" text="" tagg="label"/>
+        <line end2="none" antialias="true" y1="-2" y2="0" x1="-4" x2="4" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" end1="none"/>
+        <line end2="none" antialias="false" y1="0" y2="0" x1="4" x2="8" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" end1="none"/>
+        <polygon antialias="true" y1="-2" y2="-2" y3="-14" x1="-7" x2="-15" closed="false" x3="-15" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon antialias="true" y1="-14" y2="-13" y3="-13" x1="-15" x2="-15" closed="false" x3="-15" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" antialias="false" y1="-12" y2="-20" x1="0" x2="0" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" end1="none"/>
+        <line end2="none" antialias="false" y1="10" y2="20" x1="0" x2="0" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" end1="none"/>
+        <polygon antialias="false" y1="-2" y2="-5" y3="0" x1="-4" y4="-2" x2="-7" closed="false" x3="-7" x4="-4" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal orientation="e" x="8" y="0"/>
+        <terminal orientation="s" x="0" y="20"/>
+        <terminal orientation="n" x="0" y="-20"/>
+    </description>
+</definition>

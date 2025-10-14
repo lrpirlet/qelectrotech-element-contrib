@@ -1,0 +1,41 @@
+<definition version="0.80" type="element" height="70" link_type="slave" hotspot_x="10" hotspot_y="34" width="20">
+    <uuid uuid="{8daabf7f-09a3-421d-ad52-e754a2f3d780}"/>
+    <names>
+        <name lang="pt">CONTATO ABERTO NA</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="number" show="1">1</kindInformation>
+        <kindInformation name="type" show="1">power</kindInformation>
+        <kindInformation name="state" show="1">NO</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <line y2="20" x1="6" x2="7" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" length2="1.5" y1="20"/>
+        <dynamic_text frame="false" font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" rotation="0" text_from="UserText" Halignment="AlignLeft" x="-1" uuid="{4157aa40-d286-425f-bcb6-e1a98229549d}" y="7" z="1" text_width="-1">
+            <text>2</text>
+        </dynamic_text>
+        <line y2="-14" x1="6" x2="7" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" length2="1.5" y1="-14"/>
+        <dynamic_text frame="false" font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" rotation="0" text_from="UserText" Halignment="AlignLeft" x="-1" uuid="{e4058ffc-5988-48d7-802a-0bb96834d1e0}" y="-27" z="3" text_width="-1">
+            <text>1</text>
+        </dynamic_text>
+        <line y2="21" x1="2" x2="7" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" length2="1.5" y1="21"/>
+        <line y2="20" x1="2" x2="3" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" length2="1.5" y1="20"/>
+        <line y2="-3" x1="0" x2="0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="-30"/>
+        <dynamic_text frame="false" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" rotation="0" text_from="ElementInfo" Halignment="AlignLeft" x="-35" uuid="{9f7c906e-0056-4fa9-a189-12afcd4b9852}" y="-11" z="6" text_width="-1">
+            <text></text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <dynamic_text frame="false" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" rotation="0" text_from="ElementInfo" Halignment="AlignLeft" x="-36" uuid="{9f7c906e-0056-4fa9-a189-12afcd4b9852}" y="-23" z="6" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y2="20" x1="4" x2="5" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" length2="1.5" y1="20"/>
+        <polygon y2="8" y3="30" x1="-7" x2="0" antialias="false" x3="0" closed="false" style="line-style:normal;line-weight:normal;filling:black;color:black" y1="-7"/>
+        <polygon y2="-3" y3="-9" x1="0" y4="-12" x2="0" y5="-10" antialias="false" x3="-3" x4="0" x5="0" style="line-style:normal;line-weight:thin;filling:black;color:black" y1="-4"/>
+        <line y2="-13" x1="2" x2="7" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" length2="1.5" y1="-13"/>
+        <line y2="-14" x1="2" x2="3" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" length2="1.5" y1="-14"/>
+        <line y2="-14" x1="4" x2="5" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" length2="1.5" y1="-14"/>
+        <terminal orientation="n" name="" x="0" uuid="{ec64e704-5a2f-451d-aa78-c43aece81d69}" y="-30"/>
+        <terminal orientation="s" name="" x="0" uuid="{e5ef3930-5da6-4f56-b8a3-6548e85f00b3}" y="30"/>
+    </description>
+</definition>

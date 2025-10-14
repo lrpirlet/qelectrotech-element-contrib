@@ -1,0 +1,31 @@
+<definition version="0.80" type="element" height="30" link_type="terminal" hotspot_x="4" hotspot_y="24" width="10">
+    <uuid uuid="{dc8a81e3-1c09-4f51-b4e8-b8d78d8bce58}"/>
+    <names>
+        <name lang="pt">CONECTOR MACHO</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text frame="false" font="Sans Serif,8,-1,5,50,0,0,0,0,0" Valignment="AlignTop" rotation="0" text_from="ElementInfo" Halignment="AlignLeft" x="4" uuid="{92ca97c4-381f-4022-bfea-5d192d6e5d44}" y="-21.5" z="1" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y2="-11" x1="-1" x2="-1" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="-18"/>
+        <line y2="-11" x1="1" x2="1" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="-18"/>
+        <rect height="10" antialias="false" rx="1" ry="1" x="-1" y="-21" style="line-style:normal;line-weight:thin;filling:black;color:black" width="2"/>
+        <line y2="-11" x1="0" x2="0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="0"/>
+        <terminal orientation="s" name="" x="0" uuid="{f24c35c2-c12b-4a95-be82-a16b6bc162a8}" y="0"/>
+    </description>
+</definition>

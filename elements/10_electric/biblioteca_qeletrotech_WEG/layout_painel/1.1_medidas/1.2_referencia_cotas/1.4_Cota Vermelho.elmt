@@ -1,0 +1,30 @@
+<definition height="70" width="40" version="0.90" type="element" link_type="terminal" hotspot_x="36" hotspot_y="35">
+    <uuid uuid="{b7e0efc3-3fe1-4ad5-9d89-805b9934f0f0}"/>
+    <names>
+        <name lang="pt">SETA </name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">generic</kindInformation>
+        <kindInformation name="function">generic</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <polygon style="line-style:normal;line-weight:thin;filling:red;color:red" y1="4" y2="8" y3="0" x1="-30" y4="-8" x2="-30" x3="0" x4="-30" antialias="true"/>
+        <line style="line-style:normal;line-weight:thin;filling:red;color:red" length1="1.5" y1="-30" length2="1.5" y2="30" x1="0" x2="0" end1="none" end2="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:red" length1="1.5" y1="0" length2="1.5" y2="0" x1="-30" x2="-26" end1="none" end2="none" antialias="false"/>
+        <terminal orientation="w" type="Generic" x="-30" y="0" name="" uuid="{aab8578d-3060-4772-89a9-3316d238035c}"/>
+    </description>
+</definition>

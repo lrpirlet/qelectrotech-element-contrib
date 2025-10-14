@@ -1,0 +1,50 @@
+<definition hotspot_y="155" type="element" width="340" link_type="simple" orientation="dyyy" height="280" version="0.70" hotspot_x="170">
+    <uuid uuid="{5fb0dfa9-fd91-469c-a4bf-78cf2cc990f8}"/>
+    <names>
+        <name lang="pt">Quadro de Distribuição</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle y="103" style="line-style:normal;line-weight:normal;filling:none;color:green" x="-92" diameter="4" antialias="false"/>
+        <circle y="103" style="line-style:normal;line-weight:normal;filling:none;color:blue" x="68" diameter="4" antialias="false"/>
+        <circle y="103" style="line-style:normal;line-weight:normal;filling:none;color:green" x="-42" diameter="4" antialias="false"/>
+        <circle y="103" style="line-style:normal;line-weight:normal;filling:none;color:blue" x="118" diameter="4" antialias="false"/>
+        <circle y="103" style="line-style:normal;line-weight:normal;filling:none;color:green" x="-52" diameter="4" antialias="false"/>
+        <circle y="103" style="line-style:normal;line-weight:normal;filling:none;color:green" x="-112" diameter="4" antialias="false"/>
+        <circle y="103" style="line-style:normal;line-weight:normal;filling:none;color:blue" x="108" diameter="4" antialias="false"/>
+        <circle y="103" style="line-style:normal;line-weight:normal;filling:none;color:blue" x="48" diameter="4" antialias="false"/>
+        <circle y="103" style="line-style:normal;line-weight:normal;filling:none;color:green" x="-102" diameter="4" antialias="false"/>
+        <circle y="103" style="line-style:normal;line-weight:normal;filling:none;color:blue" x="58" diameter="4" antialias="false"/>
+        <circle y="103" style="line-style:normal;line-weight:normal;filling:none;color:green" x="-62" diameter="4" antialias="false"/>
+        <circle y="103" style="line-style:normal;line-weight:normal;filling:none;color:green" x="-72" diameter="4" antialias="false"/>
+        <circle y="103" style="line-style:normal;line-weight:normal;filling:none;color:blue" x="98" diameter="4" antialias="false"/>
+        <circle y="103" style="line-style:normal;line-weight:normal;filling:none;color:green" x="-82" diameter="4" antialias="false"/>
+        <circle y="103" style="line-style:normal;line-weight:normal;filling:none;color:blue" x="88" diameter="4" antialias="false"/>
+        <rect y="100" style="line-style:normal;line-weight:normal;filling:none;color:green" width="90" x="-125" height="10" antialias="false"/>
+        <circle y="103" style="line-style:normal;line-weight:normal;filling:none;color:green" x="-122" diameter="4" antialias="false"/>
+        <circle y="103" style="line-style:normal;line-weight:normal;filling:none;color:blue" x="78" diameter="4" antialias="false"/>
+        <rect y="-120" style="line-style:dashed;line-weight:normal;filling:none;color:black" width="327" x="-164" height="240" antialias="false"/>
+        <rect y="100" style="line-style:normal;line-weight:normal;filling:none;color:blue" width="90" x="35" height="10" antialias="false"/>
+        <circle y="103" style="line-style:normal;line-weight:normal;filling:none;color:blue" x="38" diameter="4" antialias="false"/>
+        <text y="-136" text="Quadro de Distribuição" size="9" x="-162"/>
+        <terminal y="99" x="40" orientation="n"/>
+        <terminal y="99" x="90" orientation="n"/>
+        <terminal y="99" x="-90" orientation="n"/>
+        <terminal y="99" x="100" orientation="n"/>
+        <terminal y="99" x="60" orientation="n"/>
+        <terminal y="99" x="70" orientation="n"/>
+        <terminal y="99" x="-40" orientation="n"/>
+        <terminal y="99" x="-110" orientation="n"/>
+        <terminal y="99" x="80" orientation="n"/>
+        <terminal y="99" x="50" orientation="n"/>
+        <terminal y="99" x="-80" orientation="n"/>
+        <terminal y="99" x="-120" orientation="n"/>
+        <terminal y="99" x="120" orientation="n"/>
+        <terminal y="99" x="-60" orientation="n"/>
+        <terminal y="99" x="-100" orientation="n"/>
+        <terminal y="99" x="-70" orientation="n"/>
+        <terminal y="99" x="110" orientation="n"/>
+        <terminal y="99" x="-50" orientation="n"/>
+    </description>
+</definition>

@@ -1,0 +1,48 @@
+<definition height="70" version="0.80" link_type="simple" type="element" hotspot_x="21" width="70" hotspot_y="34">
+    <uuid uuid="{1acb6b25-0329-42ab-8459-600d7c32b6e7}"/>
+    <names>
+        <name lang="pt">Motor de corrente continua com enrolamentode campo independente</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Motor de corrente continua com enrolamentode campo independente</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <arc x="23" y="10.2257" height="9.67315" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" start="90" width="12.635" angle="179.563"/>
+        <text x="32" y="18" rotation="0" text="F2" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="32" y="-12" rotation="0" text="F1" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <rect x="-5" y="14" rx="0" ry="0" height="4" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false" width="10"/>
+        <arc x="23" y="-9.71027" height="9.68411" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" start="90" width="12.635" angle="179.563"/>
+        <arc x="23" y="-0.0695151" height="10.1683" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" start="90" width="12.635" angle="179.563"/>
+        <arc x="23" y="-19.995" height="10.3287" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" start="90.625" width="12.635" angle="178.938"/>
+        <text x="3" y="26" rotation="0" text="A1" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <rect x="-5" y="-18" rx="0" ry="0" height="4" style="line-style:normal;line-weight:thin;filling:black;color:black" antialias="false" width="10"/>
+        <circle x="-15" y="-15" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" diameter="30"/>
+        <dynamic_text x="-40" frame="false" y="-12" text_from="ElementInfo" z="11" text_width="-1" uuid="{8d2b92e0-cbee-4d03-ad6c-323e58c193e1}" rotation="0" Valignment="AlignTop" Halignment="AlignLeft" font="Sans Serif,9,-1,5,50,0,0,0,0,0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="18" antialias="false" y2="30" end1="none" x1="0" end2="none" x2="0"/>
+        <text x="-3.95" y="1" rotation="0" text="M" color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-30" antialias="false" y2="-18" end1="none" x1="0" end2="none" x2="0"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="4" antialias="false" y2="4" end1="none" x1="-4" end2="none" x2="3"/>
+        <text x="3" y="-20" rotation="0" text="B2" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-19.995" antialias="false" y2="-19.995" end1="none" x1="29" end2="none" x2="40"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="19.8988" antialias="false" y2="19.8988" end1="none" x1="30" end2="none" x2="40"/>
+        <terminal x="40" y="19.8988" name="" uuid="{ca10b6c6-b972-44dd-aa20-25567604df92}" orientation="e"/>
+        <terminal x="40" y="-19.995" name="" uuid="{c76a56a6-0035-4937-9ceb-a8d59f32da75}" orientation="e"/>
+        <terminal x="0" y="-30" name="" uuid="{cccc24dc-12af-4844-aec6-df8b61042c10}" orientation="n"/>
+        <terminal x="0" y="30" name="" uuid="{727171fc-1420-4704-a1f6-0995da30bbbb}" orientation="s"/>
+    </description>
+</definition>

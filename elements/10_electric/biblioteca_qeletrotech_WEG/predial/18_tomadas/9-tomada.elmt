@@ -1,0 +1,24 @@
+<definition orientation="dyyy" hotspot_x="25" hotspot_y="35" type="element" width="50" height="70" version="0.70" link_type="simple">
+    <uuid uuid="{f4f46d7d-81dc-4dc5-a1af-5280c2d00f87}"/>
+    <names>
+        <name lang="pt">Tomada</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line length2="1.5" end1="none" x1="-19" x2="-11" y1="0.45" antialias="false" end2="none" y2="-7.55" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length2="1.5" end1="none" x1="-10.5" x2="10.5" y1="-7.76" antialias="false" end2="none" y2="-7.76" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect x="-20" width="40" height="60" antialias="false" style="line-style:dashed;line-weight:normal;filling:none;color:black" y="-30"/>
+        <input x="18" rotate="true" text="" size="9" tagg="label" y="7"/>
+        <line length2="1.5" end1="none" x1="-19" x2="-11" y1="0.45" antialias="false" end2="none" y2="8.45" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length2="1.5" end1="none" x1="-10.5" x2="10.5" y1="8.65" antialias="false" end2="none" y2="8.65" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length2="1.5" end1="none" x1="11" x2="19" y1="8.45" antialias="false" end2="none" y2="0.45" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length2="1.5" end1="none" x1="11" x2="19" y1="-7.55" antialias="false" end2="none" y2="0.45" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <ellipse x="-12.195" width="4.39" height="4.51" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-1.845"/>
+        <ellipse x="-2.195" width="4.39" height="4.51" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-4.665"/>
+        <ellipse x="7.805" width="4.39" height="4.51" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-1.845"/>
+        <terminal orientation="n" x="0" y="-9"/>
+        <terminal orientation="n" x="-10" y="-6"/>
+        <terminal orientation="n" x="10" y="-6"/>
+    </description>
+</definition>

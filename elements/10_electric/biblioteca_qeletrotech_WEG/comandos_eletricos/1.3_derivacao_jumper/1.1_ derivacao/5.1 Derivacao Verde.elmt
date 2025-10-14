@@ -1,0 +1,28 @@
+<definition link_type="terminal" type="element" hotspot_x="7" hotspot_y="9" width="20" height="20" version="0.80">
+    <uuid uuid="{b29ffd4f-9b59-4a6a-8aaa-b892f81e4daf}"/>
+    <names>
+        <name lang="pt">Derivação</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y1="-5" end1="none" antialias="false" y2="5" end2="none" x1="0" style="line-style:normal;line-weight:normal;filling:HTMLGreenLime;color:HTMLGreenLime" x2="0" length1="1.5" length2="1.5"/>
+        <circle x="-2" y="-2" antialias="false" style="line-style:normal;line-weight:thin;filling:HTMLGreenLime;color:HTMLGreenLime" diameter="4"/>
+        <line y1="0" end1="none" antialias="false" y2="0" end2="none" x1="0" style="line-style:normal;line-weight:normal;filling:HTMLGreenLime;color:HTMLGreenLime" x2="5" length1="1.5" length2="1.5"/>
+        <terminal x="0" y="5" name="" uuid="{94520087-6739-4077-8c91-83fc65af62db}" orientation="s"/>
+        <terminal x="5" y="0" name="" uuid="{ed4a39c9-503e-45b7-a5ed-331db71c5311}" orientation="e"/>
+        <terminal x="0" y="-5" name="" uuid="{0b6cec5b-be86-4a16-a463-0d8693cdf1c7}" orientation="n"/>
+    </description>
+</definition>

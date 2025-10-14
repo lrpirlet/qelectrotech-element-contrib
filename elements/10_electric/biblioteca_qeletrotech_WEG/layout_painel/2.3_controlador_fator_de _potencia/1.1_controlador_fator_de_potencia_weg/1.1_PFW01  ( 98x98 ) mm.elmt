@@ -1,0 +1,70 @@
+<definition height="110" link_type="simple" hotspot_x="6" hotspot_y="6" type="element" width="110" version="0.80">
+    <uuid uuid="{826fdba6-1a7d-4b4f-bfdc-661345f13f77}"/>
+    <names>
+        <name lang="pt">Controlador Automático de Fator de Potência PFW01</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect height="98" antialias="false" rx="2" ry="2" style="line-style:normal;line-weight:thin;filling:black;color:black" x="0" y="0" width="98"/>
+        <rect height="92" antialias="false" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLBlueLightSteelBlue;color:black" x="3" y="3" width="92"/>
+        <rect height="27" antialias="false" rx="1" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLBlueMidnightBlue;color:black" x="9" y="25" width="80"/>
+        <rect height="17" antialias="false" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGreenGreenYellow;color:black" x="14" y="30" width="70"/>
+        <rect height="12" antialias="false" rx="1" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLBlueMidnightBlue;color:HTMLBlueMidnightBlue" x="9" y="64" width="12"/>
+        <rect height="12" antialias="false" rx="1" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLBlueMidnightBlue;color:HTMLBlueMidnightBlue" x="78" y="64" width="12"/>
+        <line y1="7" y2="13.6938" x1="7" x2="7" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueMidnightBlue" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="13.6938" y2="13.6938" x1="7" x2="9.34812" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueMidnightBlue" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="13.6938" y2="9.23125" x1="9.34812" x2="9.34812" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueMidnightBlue" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="13.6938" y2="13.6938" x1="9.34812" x2="11.6962" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueMidnightBlue" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="13.6938" y2="9.23125" x1="11.6962" x2="11.6962" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueMidnightBlue" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="9.23125" y2="9.23125" x1="16.3925" x2="14.0444" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueMidnightBlue" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="9.23125" y2="13.6938" x1="14.0444" x2="14.0444" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueMidnightBlue" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="13.6938" y2="13.6938" x1="14.0444" x2="16.3925" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueMidnightBlue" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="9.23125" y2="11.4625" x1="16.3925" x2="16.3925" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueMidnightBlue" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="11.4625" y2="11.4625" x1="16.3925" x2="14.0444" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueMidnightBlue" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="9.23125" y2="9.23125" x1="18.7406" x2="21.0887" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueMidnightBlue" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="9.23125" y2="13.6938" x1="21.0887" x2="21.0887" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueMidnightBlue" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="9.23125" y2="13.6938" x1="18.7406" x2="18.7406" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueMidnightBlue" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="13.6938" y2="13.6938" x1="18.7406" x2="21.0887" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueMidnightBlue" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="13.6938" y2="15.925" x1="21.0887" x2="21.0887" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueMidnightBlue" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="15.925" y2="15.925" x1="21.0887" x2="7" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueMidnightBlue" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="7" y2="7" x1="7" x2="21.0887" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueMidnightBlue" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <text rotation="0" text="PFW01" color="#191970" x="69" y="14" font="Calibri,5,-1,5,50,0,0,0,0,0,Regular"/>
+        <text rotation="0" text="POWER  FACTOR  CONTROLLER" color="#ffffff" x="39" y="51" font="Sans Serif,2,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" text="PROG" color="#ffffff" x="11" y="71" font="Sans Serif,2,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" text="CLEAR" color="#ffffff" x="79" y="71" font="Sans Serif,2,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" text="0.00    V" color="#000000" x="23" y="37" font="DS-Digital,5,-1,5,50,0,0,0,0,0,Normal"/>
+        <text rotation="0" text="0.00    A" color="#000000" x="55" y="37" font="DS-Digital,5,-1,5,50,0,0,0,0,0,Normal"/>
+        <line y1="41" y2="41" x1="27" x2="56.4" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="43" y2="43" x1="27" x2="56.4" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="39" y2="41" x1="29.1" x2="29.1" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="43" y2="45" x1="29.1" x2="29.1" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="39" y2="41" x1="33.3" x2="33.3" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="43" y2="45" x1="33.3" x2="33.3" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="39" y2="41" x1="37.5" x2="37.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="43" y2="45" x1="37.5" x2="37.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="39" y2="41" x1="41.7" x2="41.7" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="43" y2="45" x1="41.7" x2="41.7" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="39" y2="41" x1="45.9" x2="45.9" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="43" y2="45" x1="45.9" x2="45.9" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="39" y2="41" x1="50.1" x2="50.1" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="43" y2="45" x1="50.1" x2="50.1" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="39" y2="41" x1="54.3" x2="54.3" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="43" y2="45" x1="54.3" x2="54.3" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="40" y2="44" x1="31.2" x2="31.2" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGreenGreenYellow" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="40" y2="44" x1="52.2" x2="52.2" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGreenGreenYellow" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="40" y2="44" x1="48" x2="48" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGreenGreenYellow" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="40" y2="44" x1="39.6" x2="39.6" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGreenGreenYellow" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="40" y2="44" x1="43.8" x2="43.8" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGreenGreenYellow" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="40" y2="44" x1="35.4" x2="35.4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGreenGreenYellow" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <rect height="12" antialias="false" rx="1" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLBlueMidnightBlue;color:HTMLBlueMidnightBlue" x="55" y="64" width="12"/>
+        <rect height="12" antialias="false" rx="1" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLBlueMidnightBlue;color:HTMLBlueMidnightBlue" x="32" y="64" width="12"/>
+        <polygon y1="73" y2="70" y3="70" x1="37" y4="67" x2="37" y5="70" x3="35" y6="70" x4="38" y7="73" antialias="false" x5="41" x6="39" x7="39" style="line-style:normal;line-weight:thin;filling:none;color:white"/>
+        <polygon y1="66" y2="66" y3="69" x1="60" y4="69" x2="62" y5="72" x3="62" y6="69" x4="64" y7="69" antialias="false" x5="61" x6="58" x7="60" style="line-style:normal;line-weight:thin;filling:none;color:white"/>
+        <polygon y3="69" y4="68" closed="false" y5="68" y6="66" x1="34" y7="66" x2="33" y8="65" x3="34" y9="65" x4="34" x5="35" x6="35" x7="34" x8="34" x9="34" style="line-style:normal;line-weight:thin;filling:none;color:white" antialias="false" y1="65" y2="67"/>
+        <polygon y3="75" closed="false" y4="74" y5="74" y6="72" x1="65" y7="72" x2="66" y8="71" x3="65" x4="65" x5="64" x6="64" x7="65" x8="65" style="line-style:normal;line-weight:thin;filling:none;color:white" antialias="false" y1="71" y2="73"/>
+        <text rotation="0" text="E" color="#ffffff" x="10" y="67" font="Agency FB,2,-1,5,50,0,0,0,0,0,Normal"/>
+        <text rotation="0" text="C" color="#ffffff" x="88" y="67" font="Agency FB,2,-1,5,50,0,0,0,0,0,Normal"/>
+        <text rotation="0" text="F" color="#ffffff" x="79" y="75" font="Agency FB,2,-1,5,50,0,0,0,0,0,Normal"/>
+    </description>
+</definition>

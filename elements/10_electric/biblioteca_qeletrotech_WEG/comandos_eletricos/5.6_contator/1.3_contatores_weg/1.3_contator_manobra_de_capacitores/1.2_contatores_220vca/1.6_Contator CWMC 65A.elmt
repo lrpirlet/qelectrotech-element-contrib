@@ -1,0 +1,40 @@
+<definition height="50" type="element" link_type="master" hotspot_x="19" hotspot_y="27" version="0.90" width="40">
+    <uuid uuid="{73d43257-7a4b-4ed6-bdf9-b3b43d937219}"/>
+    <names>
+        <name lang="pt">CONTATOR CWMC65-10-30X26  65 A / (AC-6b - T = 55°C) 77 A </name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="label">K</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="comment">65A</elementInformation>
+        <elementInformation show="1" name="description">Contator Manobra de Capacitores CWMC65-10-30X26  220vca 65 A / (AC-6b - T = 55°C) 77 A </elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">11486254</elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference">K11486254</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text x="6" y="12" text="A2" rotation="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <rect rx="0" ry="0" x="-15" y="-9.5" height="14" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="30"/>
+        <line length1="1.5" end1="none" length2="1.5" end2="none" antialias="false" y1="13" y2="5" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0"/>
+        <dynamic_text Valignment="AlignTop" x="-47" frame="false" y="-14" z="5" Halignment="AlignLeft" rotation="0" text_width="-1" font="Sans Serif,8,-1,5,50,0,0,0,0,0" keep_visual_rotation="true" uuid="{dcea7def-d258-45cb-a8df-dce06e3fd2f9}" text_from="ElementInfo">
+            <text>K</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line length1="1.5" end1="none" length2="1.5" end2="none" antialias="false" y1="-18" y2="-10" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0"/>
+        <text x="7" y="-12" text="A1" rotation="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <dynamic_text Valignment="AlignTop" x="-50" frame="false" y="0" z="8" Halignment="AlignLeft" rotation="0" text_width="-1" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="true" uuid="{c52087f9-aafb-4240-830e-4a886991f3ad}" text_from="UserText">
+            <text>220Vca</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal x="0" y="-18" type="Generic" orientation="n" name="" uuid="{743c3459-46c6-42ef-a53e-42dc24716245}"/>
+        <terminal x="0" y="13" type="Generic" orientation="s" name="" uuid="{0739f207-31d9-402b-a311-844c42d89d82}"/>
+    </description>
+</definition>

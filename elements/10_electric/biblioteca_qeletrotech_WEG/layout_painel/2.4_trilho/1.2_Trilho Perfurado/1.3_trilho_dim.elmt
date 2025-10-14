@@ -1,0 +1,23 @@
+<definition height="40" width="30" link_type="simple" type="element" hotspot_x="15" hotspot_y="20" version="0.90">
+    <uuid uuid="{296eeacf-1858-4b76-852c-9503ea2964f2}"/>
+    <names>
+        <name lang="pt">Trilho</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect height="16" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="20" x="-10" y="1" antialias="false"/>
+        <line x2="10" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" end1="none" length1="1.5" antialias="false" y1="-18" end2="none" length2="1.5" y2="17" x1="10"/>
+        <line x2="-10" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" end1="none" length1="1.5" antialias="false" y1="-18" end2="none" length2="1.5" y2="17" x1="-10"/>
+        <rect height="3" rx="1" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayLightGray" width="8" x="-9" y="-2" antialias="false"/>
+        <rect height="3" rx="1" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayLightGray" width="8" x="1" y="-2" antialias="false"/>
+        <rect height="16" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="20" x="-10" y="-18" antialias="false"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="1" x="-10" y="-2" antialias="false"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="2" x="-1" y="-2" antialias="false"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="1" x="9" y="-2" antialias="false"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="273.313" width="5" angle="176.625" x="-6" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="90" width="5" angle="176.438" x="1" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="273.5" width="5" angle="176.438" x="4" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="87.9375" width="6" angle="182" x="-9" y="-3" antialias="true"/>
+    </description>
+</definition>

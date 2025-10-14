@@ -1,0 +1,39 @@
+<definition link_type="slave" hotspot_x="31" hotspot_y="34" type="element" width="50" version="0.80" height="50">
+    <uuid uuid="{87a23cdf-bfd7-4753-a7de-4aff0f172435}"/>
+    <names>
+        <name lang="pt">CONTATO TEMPORIZADOR  NA NF</name>
+    </names>
+    <kindInformations>
+        <kindInformation show="1" name="state">SW</kindInformation>
+        <kindInformation show="1" name="type">simple</kindInformation>
+        <kindInformation show="1" name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text text_width="-1" rotation="0" font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" text_from="UserText" x="-12" frame="false" y="-2" z="1" uuid="{60388ffc-05ab-4efa-aca8-2ca70addade7}" Valignment="AlignTop" Halignment="AlignLeft">
+            <text>16</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" rotation="0" font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" text_from="UserText" x="-2" frame="false" y="-32" z="1" uuid="{60388ffc-05ab-4efa-aca8-2ca70addade7}" Valignment="AlignTop" Halignment="AlignLeft">
+            <text>15</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" rotation="0" font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" text_from="UserText" x="8" frame="false" y="-2" z="1" uuid="{60388ffc-05ab-4efa-aca8-2ca70addade7}" Valignment="AlignTop" Halignment="AlignLeft">
+            <text>18</text>
+        </dynamic_text>
+        <line y1="-2" y2="10" antialias="false" x1="10" length1="1.5" x2="10" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none"/>
+        <arc antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:black" start="283" width="15" angle="147.375" x="-25" y="-20" height="15"/>
+        <line y1="-2" y2="10" antialias="false" x1="-10" length1="1.5" x2="-10" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none"/>
+        <dynamic_text text_width="-1" rotation="0" font="Sans Serif,8,-1,5,50,0,0,0,0,0" text_from="ElementInfo" x="-42" frame="false" y="-26" z="6" uuid="{6d2ac2d6-eb81-4036-bada-b2d1cfc59146}" Valignment="AlignTop" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <arc antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:black" start="109.438" width="15" angle="142.5" x="-25" y="-20" height="15"/>
+        <polygon y1="-30" y2="-23" antialias="false" y3="-16" closed="false" x1="0" y4="-1" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="0" x4="-6"/>
+        <line y1="-14" y2="-14" antialias="true" x1="-10" length1="1.5" x2="-1" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="-11" y2="-11" antialias="true" x1="-10" length1="1.5" x2="-2" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="-2" y2="-2" antialias="false" x1="10" length1="1.5" x2="6" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="-2" y2="-2" antialias="false" x1="-10" length1="1.5" x2="-4" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none"/>
+        <terminal x="10" name="" y="10" uuid="{33b26567-6df5-4011-8512-1259d8d0aa5e}" orientation="s"/>
+        <terminal x="-10" name="" y="10" uuid="{133c7287-1977-47c9-aad9-e18df8f58c7e}" orientation="s"/>
+        <terminal x="0" name="" y="-30" uuid="{4ac44fbe-bf9b-4212-9876-1d590026a6bf}" orientation="n"/>
+    </description>
+</definition>

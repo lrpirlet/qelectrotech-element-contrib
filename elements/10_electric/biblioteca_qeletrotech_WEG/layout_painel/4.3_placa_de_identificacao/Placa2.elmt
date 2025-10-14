@@ -1,0 +1,92 @@
+<definition type="element" hotspot_x="4" hotspot_y="5" version="0.90" height="60" width="150" link_type="simple">
+    <uuid uuid="{021a4569-f2ff-4def-90f4-8e00d3876dd3}"/>
+    <names>
+        <name lang="pt">Placa CM</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect antialias="false" x="0" style="line-style:normal;line-weight:thin;filling:black;color:black" y="0" height="50" width="141" rx="3" ry="0"/>
+        <rect antialias="false" x="1" style="line-style:normal;line-weight:thin;filling:HTMLWhiteWhiteSmoke;color:black" y="1" height="48" width="139" rx="2" ry="0"/>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="5" y="9" color="#696969" text="TENSÃO NOMINAL :" rotation="0"/>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="5" y="33" color="#696969" text="POTÊNCIA :" rotation="0"/>
+        <rect antialias="false" x="57" style="line-style:normal;line-weight:thin;filling:white;color:black" y="17" height="5" width="7" rx="1" ry="0"/>
+        <dynamic_text keep_visual_rotation="true" text_width="0" font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="55" y="13" z="6" text_from="UserText" uuid="{042095e6-d31c-4a01-a82a-256285f134ba}" frame="false" Valignment="AlignTop" Halignment="AlignLeft" rotation="0">
+            <text>_</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <rect antialias="false" x="57" style="line-style:normal;line-weight:thin;filling:white;color:black" y="5" height="5" width="7" rx="1" ry="0"/>
+        <dynamic_text keep_visual_rotation="true" text_width="0" font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="55" y="1" z="8" text_from="UserText" uuid="{042095e6-d31c-4a01-a82a-256285f134ba}" frame="false" Valignment="AlignTop" Halignment="AlignLeft" rotation="0">
+            <text>_</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <rect antialias="false" x="82" style="line-style:normal;line-weight:thin;filling:white;color:black" y="5" height="5" width="7" rx="1" ry="0"/>
+        <dynamic_text keep_visual_rotation="true" text_width="0" font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="80" y="1" z="10" text_from="UserText" uuid="{042095e6-d31c-4a01-a82a-256285f134ba}" frame="false" Valignment="AlignTop" Halignment="AlignLeft" rotation="0">
+            <text>_</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <rect antialias="false" x="106" style="line-style:normal;line-weight:thin;filling:white;color:black" y="5" height="5" width="7" rx="1" ry="0"/>
+        <dynamic_text keep_visual_rotation="true" text_width="0" font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="104" y="1" z="12" text_from="UserText" uuid="{042095e6-d31c-4a01-a82a-256285f134ba}" frame="false" Valignment="AlignTop" Halignment="AlignLeft" rotation="0">
+            <text>_</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <rect antialias="false" x="82" style="line-style:normal;line-weight:thin;filling:white;color:black" y="17" height="5" width="7" rx="1" ry="0"/>
+        <dynamic_text keep_visual_rotation="true" text_width="0" font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="80" y="13" z="14" text_from="UserText" uuid="{042095e6-d31c-4a01-a82a-256285f134ba}" frame="false" Valignment="AlignTop" Halignment="AlignLeft" rotation="0">
+            <text>_</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <rect antialias="false" x="57" style="line-style:normal;line-weight:thin;filling:white;color:black" y="29" height="5" width="7" rx="1" ry="0"/>
+        <dynamic_text keep_visual_rotation="true" text_width="0" font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="55" y="25" z="16" text_from="UserText" uuid="{042095e6-d31c-4a01-a82a-256285f134ba}" frame="false" Valignment="AlignTop" Halignment="AlignLeft" rotation="0">
+            <text>_</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <rect antialias="false" x="32" style="line-style:normal;line-weight:thin;filling:white;color:black" y="29" height="5" width="7" rx="1" ry="0"/>
+        <dynamic_text keep_visual_rotation="true" text_width="0" font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="30" y="25" z="18" text_from="UserText" uuid="{042095e6-d31c-4a01-a82a-256285f134ba}" frame="false" Valignment="AlignTop" Halignment="AlignLeft" rotation="0">
+            <text>_</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <rect antialias="false" x="32" style="line-style:normal;line-weight:thin;filling:white;color:black" y="39" height="5" width="7" rx="1" ry="0"/>
+        <dynamic_text keep_visual_rotation="true" text_width="0" font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="30" y="35" z="20" text_from="UserText" uuid="{042095e6-d31c-4a01-a82a-256285f134ba}" frame="false" Valignment="AlignTop" Halignment="AlignLeft" rotation="0">
+            <text>_</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <rect antialias="false" x="57" style="line-style:normal;line-weight:thin;filling:white;color:black" y="39" height="5" width="7" rx="1" ry="0"/>
+        <dynamic_text keep_visual_rotation="true" text_width="0" font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="55" y="35" z="22" text_from="UserText" uuid="{042095e6-d31c-4a01-a82a-256285f134ba}" frame="false" Valignment="AlignTop" Halignment="AlignLeft" rotation="0">
+            <text>_</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <rect antialias="false" x="82" style="line-style:normal;line-weight:thin;filling:white;color:black" y="29" height="5" width="7" rx="1" ry="0"/>
+        <rect antialias="false" x="82" style="line-style:normal;line-weight:thin;filling:white;color:black" y="39" height="5" width="7" rx="1" ry="0"/>
+        <dynamic_text keep_visual_rotation="true" text_width="0" font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="80" y="25" z="25" text_from="UserText" uuid="{042095e6-d31c-4a01-a82a-256285f134ba}" frame="false" Valignment="AlignTop" Halignment="AlignLeft" rotation="0">
+            <text>_</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="true" text_width="0" font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="80" y="35" z="26" text_from="UserText" uuid="{042095e6-d31c-4a01-a82a-256285f134ba}" frame="false" Valignment="AlignTop" Halignment="AlignLeft" rotation="0">
+            <text>_</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="65" y="9" color="#000000" text="110V" rotation="0"/>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="90" y="9" color="#000000" text="220V" rotation="0"/>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="114" y="9" color="#000000" text="380V" rotation="0"/>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="90" y="21" color="#000000" text="3Ø" rotation="0"/>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="65" y="21" color="#000000" text="1Ø" rotation="0"/>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="90" y="43" color="#000000" text="4CV" rotation="0"/>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="90" y="33" color="#000000" text="3CV" rotation="0"/>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="40" y="33" color="#000000" text="1/2CV" rotation="0"/>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="65" y="33" color="#000000" text="1CV" rotation="0"/>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="65" y="43" color="#000000" text="2CV" rotation="0"/>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="40" y="43" color="#000000" text="3/4CV" rotation="0"/>
+        <rect antialias="false" x="105.5" style="line-style:normal;line-weight:thin;filling:white;color:black" y="29" height="5" width="7" rx="1" ry="0"/>
+        <rect antialias="false" x="105.5" style="line-style:normal;line-weight:thin;filling:white;color:black" y="39" height="5" width="7" rx="1" ry="0"/>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="113.5" y="43" color="#000000" text="7,5CV" rotation="0"/>
+        <text font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="113.5" y="33" color="#000000" text="5CV" rotation="0"/>
+        <dynamic_text keep_visual_rotation="true" text_width="0" font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="103.5" y="25" z="42" text_from="UserText" uuid="{042095e6-d31c-4a01-a82a-256285f134ba}" frame="false" Valignment="AlignTop" Halignment="AlignLeft" rotation="0">
+            <text>_</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="true" text_width="0" font="Arial,3,-1,5,50,0,0,0,0,0,Normal" x="103.5" y="35" z="43" text_from="UserText" uuid="{042095e6-d31c-4a01-a82a-256285f134ba}" frame="false" Valignment="AlignTop" Halignment="AlignLeft" rotation="0">
+            <text>_</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+    </description>
+</definition>

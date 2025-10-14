@@ -1,0 +1,30 @@
+<definition version="0.80" type="element" height="30" link_type="terminal" hotspot_x="5" hotspot_y="12" width="10">
+    <uuid uuid="{39110d43-fad8-48cd-8dff-3277a2de759c}"/>
+    <names>
+        <name lang="pt">CONECTOR FEMEA</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text frame="false" font="Sans Serif,8,-1,5,50,0,0,0,0,0" Valignment="AlignTop" rotation="0" text_from="ElementInfo" Halignment="AlignLeft" x="4" uuid="{92ca97c4-381f-4022-bfea-5d192d6e5d44}" y="-12.5" z="1" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y2="6.5" x1="0" x2="0" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="-3.5"/>
+        <arc angle="-84" height="6" antialias="true" x="-3" y="6.5" style="line-style:normal;line-weight:normal;filling:none;color:black" start="-180" width="6"/>
+        <arc angle="-84" height="6" antialias="true" x="-3" y="6.5" style="line-style:normal;line-weight:normal;filling:none;color:black" start="83" width="6"/>
+        <terminal orientation="n" name="" x="0" uuid="{6b7b5b0e-3a7d-4e0d-ad86-2053286eda6a}" y="-4.5"/>
+    </description>
+</definition>

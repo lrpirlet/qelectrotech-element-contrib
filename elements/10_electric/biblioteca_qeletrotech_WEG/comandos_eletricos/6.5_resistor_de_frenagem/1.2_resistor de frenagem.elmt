@@ -1,0 +1,30 @@
+<definition link_type="simple" hotspot_x="5" hotspot_y="19" type="element" width="10" version="0.80" height="40">
+    <uuid uuid="{481fe249-f43e-4cb2-b8f5-8144e25a8fa7}"/>
+    <names>
+        <name lang="pt">RESISTOR VERDE</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" rx="1" ry="1" x="-3" y="-7" height="14"/>
+        <line y1="-5" y2="-5" antialias="false" x1="-3" length1="1.5" x2="3" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="-3" y2="-3" antialias="false" x1="-3" length1="1.5" x2="3" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="-1" y2="-1" antialias="false" x1="-3" length1="1.5" x2="3" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none"/>
+        <dynamic_text text_width="-1" rotation="0" font="Calibri,9,-1,5,50,0,0,0,0,0,Regular" text_from="CompositeText" x="-26" frame="false" y="-17" z="4" uuid="{8192cdf4-ebb2-4446-825c-1569b3ce20d7}" Valignment="AlignTop" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <line y1="1" y2="1" antialias="false" x1="-3" length1="1.5" x2="3" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="3" y2="3" antialias="false" x1="-3" length1="1.5" x2="3" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none"/>
+        <dynamic_text text_width="-1" rotation="0" font="Calibri,9,-1,5,50,0,0,0,0,0,Regular" text_from="CompositeText" x="-24" frame="false" y="-4" z="9" uuid="{28150a5d-6c1e-4426-ac08-195f58dfc60a}" Valignment="AlignTop" Halignment="AlignLeft">
+            <text>Ω</text>
+            <composite_text>%{comment}Ω</composite_text>
+        </dynamic_text>
+        <line y1="5" y2="5" antialias="false" x1="-3" length1="1.5" x2="3" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="-11" y2="-8" antialias="false" x1="0" length1="1.5" x2="0" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="7" y2="11" antialias="false" x1="0" length1="1.5" x2="0" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none"/>
+        <terminal x="0" name="" y="11" uuid="{afa3d5d2-e99a-4081-a32f-42a8c72b5a5d}" orientation="s"/>
+        <terminal x="0" name="" y="-11" uuid="{4574a79e-92f2-4f53-bc75-419f7861729c}" orientation="n"/>
+    </description>
+</definition>

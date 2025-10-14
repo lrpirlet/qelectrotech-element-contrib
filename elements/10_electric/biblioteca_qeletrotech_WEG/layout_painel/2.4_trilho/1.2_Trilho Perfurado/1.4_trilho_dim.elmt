@@ -1,0 +1,92 @@
+<definition height="40" width="170" link_type="simple" type="element" hotspot_x="15" hotspot_y="20" version="0.90">
+    <uuid uuid="{c6681b71-afeb-4c85-bffd-1fb4688e92af}"/>
+    <names>
+        <name lang="pt">Trilho</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect height="16" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="20" x="-10" y="1" antialias="false"/>
+        <rect height="16" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="100" x="30" y="1" antialias="false"/>
+        <rect height="16" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="20" x="10" y="1" antialias="false"/>
+        <line x2="10" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" end1="none" length1="1.5" antialias="false" y1="-18" end2="none" length2="1.5" y2="17" x1="10"/>
+        <line x2="-10" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" end1="none" length1="1.5" antialias="false" y1="-18" end2="none" length2="1.5" y2="17" x1="-10"/>
+        <line x2="10" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" end1="none" length1="1.5" antialias="false" y1="-18" end2="none" length2="1.5" y2="17" x1="10"/>
+        <rect height="16" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="20" x="130" y="1" antialias="false"/>
+        <rect height="3" rx="1" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayLightGray" width="8" x="-9" y="-2" antialias="false"/>
+        <rect height="3" rx="1" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayLightGray" width="8" x="11" y="-2" antialias="false"/>
+        <rect height="3" rx="1" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayLightGray" width="8" x="21" y="-2" antialias="false"/>
+        <rect height="3" rx="1" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayLightGray" width="8" x="1" y="-2" antialias="false"/>
+        <rect height="16" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="20" x="-10" y="-18" antialias="false"/>
+        <rect height="16" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="20" x="10" y="-18" antialias="false"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="1" x="-10" y="-2" antialias="false"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="1" x="10" y="-2" antialias="false"/>
+        <rect height="3" rx="1" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayLightGray" width="8" x="51" y="-2" antialias="false"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="2" x="19" y="-2" antialias="false"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="2" x="-1" y="-2" antialias="false"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="1" x="9" y="-2" antialias="false"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="2" x="29" y="-2" antialias="false"/>
+        <rect height="3" rx="1" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayLightGray" width="8" x="31" y="-2" antialias="false"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="273.313" width="5" angle="176.625" x="14" y="-3" antialias="true"/>
+        <rect height="3" rx="1" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayLightGray" width="8" x="61" y="-2" antialias="false"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="273.313" width="5" angle="176.625" x="-6" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="90" width="5" angle="176.438" x="1" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="90" width="5" angle="176.438" x="21" y="-3" antialias="true"/>
+        <rect height="3" rx="1" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayLightGray" width="8" x="41" y="-2" antialias="false"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="273.5" width="5" angle="176.438" x="24" y="-3" antialias="true"/>
+        <rect height="16" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="20" x="30" y="-18" antialias="false"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="273.5" width="5" angle="176.438" x="4" y="-3" antialias="true"/>
+        <rect height="3" rx="1" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayLightGray" width="8" x="71" y="-2" antialias="false"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="87.9375" width="6" angle="182" x="-9" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="87.9375" width="6" angle="182" x="11" y="-3" antialias="true"/>
+        <rect height="16" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="20" x="50" y="-18" antialias="false"/>
+        <rect height="3" rx="1" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayLightGray" width="8" x="91" y="-2" antialias="false"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="2" x="49" y="-2" antialias="false"/>
+        <rect height="3" rx="1" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayLightGray" width="8" x="81" y="-2" antialias="false"/>
+        <rect height="3" rx="1" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayLightGray" width="8" x="101" y="-2" antialias="false"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="2" x="39" y="-2" antialias="false"/>
+        <line x2="150" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" end1="none" length1="1.5" antialias="false" y1="-18" end2="none" length2="1.5" y2="17" x1="150"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="2" x="59" y="-2" antialias="false"/>
+        <rect height="16" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="20" x="70" y="-18" antialias="false"/>
+        <rect height="16" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="20" x="90" y="-18" antialias="false"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="2" x="69" y="-2" antialias="false"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="273.313" width="5" angle="176.625" x="34" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="273.313" width="5" angle="176.625" x="54" y="-3" antialias="true"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="2" x="89" y="-2" antialias="false"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="90" width="5" angle="176.438" x="61" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="90" width="5" angle="176.438" x="41" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="273.5" width="5" angle="176.438" x="44" y="-3" antialias="true"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="2" x="79" y="-2" antialias="false"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="273.5" width="5" angle="176.438" x="64" y="-3" antialias="true"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="2" x="99" y="-2" antialias="false"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="87.9375" width="6" angle="182" x="51" y="-3" antialias="true"/>
+        <rect height="3" rx="1" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayLightGray" width="8" x="131" y="-2" antialias="false"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="87.9375" width="6" angle="182" x="31" y="-3" antialias="true"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="2" x="109" y="-2" antialias="false"/>
+        <rect height="3" rx="1" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayLightGray" width="8" x="111" y="-2" antialias="false"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="273.313" width="5" angle="176.625" x="74" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="273.313" width="5" angle="176.625" x="94" y="-3" antialias="true"/>
+        <rect height="3" rx="1" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayLightGray" width="8" x="141" y="-2" antialias="false"/>
+        <rect height="3" rx="1" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayLightGray" width="8" x="121" y="-2" antialias="false"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="90" width="5" angle="176.438" x="81" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="90" width="5" angle="176.438" x="101" y="-3" antialias="true"/>
+        <rect height="16" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="20" x="110" y="-18" antialias="false"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="273.5" width="5" angle="176.438" x="84" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="273.5" width="5" angle="176.438" x="104" y="-3" antialias="true"/>
+        <rect height="16" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="20" x="130" y="-18" antialias="false"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="87.9375" width="6" angle="182" x="71" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="87.9375" width="6" angle="182" x="91" y="-3" antialias="true"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="2" x="129" y="-2" antialias="false"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="2" x="119" y="-2" antialias="false"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="2" x="139" y="-2" antialias="false"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="1" x="149" y="-2" antialias="false"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="273.313" width="5" angle="176.625" x="114" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="273.313" width="5" angle="176.625" x="134" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="90" width="5" angle="176.438" x="141" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="90" width="5" angle="176.438" x="121" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="273.5" width="5" angle="176.438" x="124" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="273.5" width="5" angle="176.438" x="144" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="87.9375" width="6" angle="182" x="131" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="87.9375" width="6" angle="182" x="111" y="-3" antialias="true"/>
+    </description>
+</definition>

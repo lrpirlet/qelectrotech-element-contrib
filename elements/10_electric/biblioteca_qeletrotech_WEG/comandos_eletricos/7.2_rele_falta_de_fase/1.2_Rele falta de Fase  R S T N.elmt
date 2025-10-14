@@ -1,0 +1,45 @@
+<definition version="0.90" link_type="simple" hotspot_x="15" hotspot_y="26" width="90" type="element" height="60">
+    <uuid uuid="{44d8ee8c-0452-407a-9ce0-949bdbcb73a7}"/>
+    <names>
+        <name lang="pt">Detector Falta de Fase</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line end2="none" y1="-20" y2="-16" x1="10" x2="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end1="none" length2="1.5"/>
+        <rect x="43" y="-13" antialias="false" rx="0" style="line-style:normal;line-weight:thin;filling:none;color:black" ry="0" width="14" height="10"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" x="7" y="17" color="#000000" text="N"/>
+        <rect x="23" y="-13" antialias="false" rx="0" style="line-style:normal;line-weight:thin;filling:none;color:black" ry="0" width="14" height="10"/>
+        <rect x="3" y="9" antialias="false" rx="0" style="line-style:normal;line-weight:thin;filling:none;color:black" ry="0" width="14" height="10"/>
+        <rect x="-10" y="-15" antialias="false" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" ry="0" width="80" height="36"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" x="26" y="-5" color="#000000" text="L2"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" x="46" y="-5" color="#000000" text="L3"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" x="6" y="-5" color="#000000" text="L1"/>
+        <line end2="none" y1="-20" y2="-16" x1="10" x2="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end1="none" length2="1.5"/>
+        <line end2="none" y1="-20" y2="-16" x1="30" x2="30" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end1="none" length2="1.5"/>
+        <line end2="none" y1="-20" y2="-16" x1="50" x2="50" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end1="none" length2="1.5"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" rotation="0" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" x="-38" uuid="{566b20cc-ee6e-4952-9c3a-d0d809ff1a47}" text_width="-1" y="-17" z="12" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect x="-9" y="-2" antialias="false" rx="0" style="line-style:normal;line-weight:thin;filling:none;color:black" ry="0" width="78" height="10"/>
+        <rect x="3" y="-13" antialias="false" rx="0" style="line-style:normal;line-weight:thin;filling:none;color:black" ry="0" width="14" height="10"/>
+        <line end2="none" y1="21" y2="26" x1="10" x2="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end1="none" length2="1.5"/>
+        <terminal name="" orientation="n" x="50" uuid="{4168913d-9093-4c7f-8af4-2c9a11957258}" y="-20" type="Generic"/>
+        <terminal name="" orientation="n" x="30" uuid="{63d468a3-3c29-41f1-91db-2ed678484b67}" y="-20" type="Generic"/>
+        <terminal name="" orientation="s" x="10" uuid="{513cd909-5b4e-48e5-92e8-9680f7b5fd68}" y="26" type="Generic"/>
+        <terminal name="" orientation="n" x="10" uuid="{6b7b5b0e-3a7d-4e0d-ad86-2053286eda6a}" y="-20" type="Generic"/>
+    </description>
+</definition>

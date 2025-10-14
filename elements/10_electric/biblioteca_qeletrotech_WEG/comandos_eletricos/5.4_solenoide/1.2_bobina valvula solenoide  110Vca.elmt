@@ -1,0 +1,33 @@
+<definition height="40" type="element" width="50" link_type="master" hotspot_x="20" hotspot_y="22" version="0.80">
+    <uuid uuid="{cf3c3c4a-0975-46f4-8e46-259b651a39c9}"/>
+    <names>
+        <name lang="pt">SOLENOIDE</name>
+    </names>
+    <kindInformations>
+        <kindInformation show="1" name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-3" end1="none" y2="-3" length1="1.5" end2="none" length2="1.5" antialias="false" x1="19" x2="21"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" height="14" x="-15" width="30" y="-9.5" antialias="false" rx="0" ry="0"/>
+        <dynamic_text x="-44" text_width="-1" y="-12.5" z="4" font="Sans Serif,8,-1,5,50,0,0,0,0,0" frame="false" uuid="{a248eb60-a66b-4e92-b716-61630ffdf081}" text_from="ElementInfo" Valignment="AlignTop" Halignment="AlignLeft" rotation="0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="-47" text_width="-1" y="-14" z="5" font="Sans Serif,8,-1,5,50,0,0,0,0,0" frame="false" uuid="{dcea7def-d258-45cb-a8df-dce06e3fd2f9}" text_from="UserText" Valignment="AlignTop" Halignment="AlignLeft" rotation="0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-10" y2="-10" closed="false" y3="4" antialias="false" x1="21" y4="4" x2="25" y5="-10" x3="18" y6="-10" x4="25" y7="-10" x5="18" x6="21" x7="24"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-3" end1="none" y2="-3" length1="1.5" end2="none" length2="1.5" antialias="false" x1="15" x2="17"/>
+        <dynamic_text x="-48" text_width="-1" y="-1" z="8" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" frame="false" uuid="{c52087f9-aafb-4240-830e-4a886991f3ad}" text_from="UserText" Valignment="AlignTop" Halignment="AlignLeft" rotation="0">
+            <text>110Vca</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="13" end1="none" y2="5" length1="1.5" end2="none" length2="1.5" antialias="false" x1="0" x2="0"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-10" end1="none" y2="-18" length1="1.5" end2="none" length2="1.5" antialias="false" x1="0" x2="0"/>
+        <terminal x="0" y="13" orientation="s" name="" uuid="{83f5e372-c6f3-4d75-8e8b-99f6fddb89b6}"/>
+        <terminal x="0" y="-18" orientation="n" name="" uuid="{b890402c-f373-485a-bc28-2f34d6d4f575}"/>
+    </description>
+</definition>

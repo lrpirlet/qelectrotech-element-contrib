@@ -1,0 +1,54 @@
+<definition height="70" version="0.90" width="30" link_type="master" hotspot_x="20" type="element" hotspot_y="35">
+    <uuid uuid="{a010ecf1-f605-49ef-a8a1-a6b3a466f42b}"/>
+    <names>
+        <name lang="pt">DISJUNTOR MONOFÁSICO</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">protection</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="comment" show="1">50A</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">DISJUNTOR MDW-C50 TIPO C MONOPOLAR 50A 5KA</elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1">Q</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">10076453</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1">Q10076453</elementInformation>
+        <elementInformation name="manufacturer" show="1">WEG</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-19.5" y2="-15.5" x1="2" x2="-2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-19.5" y2="-15.5" x1="-2" x2="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="3" y="19" text="2&#xa;"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="3" y="-21" text="1&#xa;"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-18" y2="-30" x1="0" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon y1="-15" y2="4" closed="false" y3="25" x1="-7" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="0" antialias="false"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y1="2" y2="0" y3="-3" y4="-5" y5="-2" y6="-7" antialias="false" x1="-18" y7="4" x2="-15" y8="7" x3="-17" x4="-14" x5="-12" closed="false" x6="-4" x7="0" x8="0"/>
+        <polygon y1="5" y2="1" y3="5" x1="-16" x2="-14" style="line-style:normal;line-weight:thin;filling:black;color:black" x3="-12" antialias="false"/>
+        <polygon y1="3" y2="3" closed="false" y3="-3" x1="-14" x2="-13" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="-3" antialias="false"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_width="-1" text_from="CompositeText" uuid="{2bd6ca45-d299-41ad-9f7d-a462715d7ed1}" rotation="0" Valignment="AlignTop" x="-47" keep_visual_rotation="true" y="-17" Halignment="AlignLeft" z="13" frame="false">
+            <text>Q</text>
+            <info_name>label</info_name>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_width="-1" text_from="CompositeText" uuid="{08fc1ab8-6af6-461f-9285-84d06042a535}" rotation="0" Valignment="AlignTop" x="-49" keep_visual_rotation="true" y="0" Halignment="AlignLeft" z="14" frame="false">
+            <text>50A</text>
+            <composite_text>%{comment}</composite_text>
+        </dynamic_text>
+        <dynamic_text font="Calibri,6,-1,5,50,0,0,0,0,0,Regular" text_width="0" text_from="UserText" uuid="{9f0a1c4d-ee73-4cae-a82e-861e5a5063c3}" rotation="0" Valignment="AlignTop" x="-49" keep_visual_rotation="false" y="20" Halignment="AlignLeft" z="15" frame="false">
+            <text>TIPO</text>
+        </dynamic_text>
+        <dynamic_text font="Calibri,6,-1,5,50,0,0,0,0,0,Regular" text_width="0" text_from="UserText" uuid="{9f0a1c4d-ee73-4cae-a82e-861e5a5063c3}" rotation="0" Valignment="AlignTop" x="-32" keep_visual_rotation="false" y="20" Halignment="AlignLeft" z="15" frame="false">
+            <text>C</text>
+        </dynamic_text>
+        <dynamic_text font="Calibri,6,-1,5,50,0,0,0,0,0,Regular" text_width="0" text_from="UserText" uuid="{9f0a1c4d-ee73-4cae-a82e-861e5a5063c3}" rotation="0" Valignment="AlignTop" x="-49" keep_visual_rotation="false" y="30" Halignment="AlignLeft" z="15" frame="false">
+            <text>5KA</text>
+        </dynamic_text>
+        <terminal orientation="n" name="" uuid="{cbf275e1-ecb1-41e5-9a24-3af1882b186a}" x="0" y="-30" type="Generic"/>
+        <terminal orientation="s" name="" uuid="{98eb3310-9a68-46b1-b0bf-4998312ab03d}" x="0" y="25" type="Generic"/>
+    </description>
+</definition>

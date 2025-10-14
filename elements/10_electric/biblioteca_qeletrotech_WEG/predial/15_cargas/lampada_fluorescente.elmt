@@ -1,0 +1,29 @@
+<definition hotspot_y="12" type="element" width="180" link_type="simple" orientation="dyyy" height="50" version="0.70" hotspot_x="110">
+    <uuid uuid="{e7ea2f96-1655-4f18-a459-e697926c2d52}"/>
+    <names>
+        <name lang="pt">Lâmpada Fluorescente</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line x1="67.765" y1="-6.3375" style="line-style:normal;line-weight:normal;filling:none;color:brun" y2="-6.3375" end2="none" end1="none" length1="1.5" length2="1.5" x2="62.725" antialias="false"/>
+        <rect y="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" width="126" x="-63.275" height="16.625" antialias="false"/>
+        <rect y="16.9375" style="line-style:normal;line-weight:normal;filling:none;color:black" width="25.2" x="-101.075" height="16.625" antialias="false"/>
+        <line x1="-63.275" y1="-6.3375" style="line-style:normal;line-weight:normal;filling:none;color:blue" y2="-6.3375" end2="none" end1="none" length1="1.5" length2="1.5" x2="-68.315" antialias="false"/>
+        <line x1="-68.315" y1="-6.3375" style="line-style:normal;line-weight:normal;filling:none;color:blue" y2="20.2625" end2="none" end1="none" length1="1.5" length2="1.5" x2="-68.315" antialias="false"/>
+        <line x1="-68.315" y1="20.2625" style="line-style:normal;line-weight:normal;filling:none;color:blue" y2="20.2625" end2="none" end1="none" length1="1.5" length2="1.5" x2="-75.875" antialias="false"/>
+        <line x1="-63.275" y1="6.9625" style="line-style:normal;line-weight:normal;filling:none;color:blue" y2="6.9625" end2="none" end1="none" length1="1.5" length2="1.5" x2="-65.795" antialias="false"/>
+        <line x1="-65.795" y1="6.9625" style="line-style:normal;line-weight:normal;filling:none;color:blue" y2="23.5875" end2="none" end1="none" length1="1.5" length2="1.5" x2="-65.795" antialias="false"/>
+        <line x1="-65.795" y1="23.5875" style="line-style:normal;line-weight:normal;filling:none;color:blue" y2="23.5875" end2="none" end1="none" length1="1.5" length2="1.5" x2="-75.875" antialias="false"/>
+        <line x1="-75.875" y1="26.9125" style="line-style:normal;line-weight:normal;filling:none;color:brun" y2="26.9125" end2="none" end1="none" length1="1.5" length2="1.5" x2="65.245" antialias="false"/>
+        <line x1="65.245" y1="26.9125" style="line-style:normal;line-weight:normal;filling:none;color:brun" y2="5.3" end2="none" end1="none" length1="1.5" length2="1.5" x2="65.245" antialias="false"/>
+        <line x1="65.245" y1="5.3" style="line-style:normal;line-weight:normal;filling:none;color:brun" y2="5.3" end2="none" end1="none" length1="1.5" length2="1.5" x2="62.725" antialias="false"/>
+        <line x1="-75.875" y1="30.2375" style="line-style:normal;line-weight:normal;filling:none;color:brun" y2="30.2375" end2="none" end1="none" length1="1.5" length2="1.5" x2="67.765" antialias="false"/>
+        <line x1="67.77" y1="30.24" style="line-style:normal;line-weight:normal;filling:none;color:brun" y2="-5.68" end2="none" end1="none" length1="1.5" length2="1.5" x2="67.77" antialias="false"/>
+        <text y="27" text="Reator" size="4" x="-97"/>
+        <rect y="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" width="3.78" x="-63.275" height="16.625" antialias="false"/>
+        <rect y="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" width="3.78" x="58.945" height="16.625" antialias="false"/>
+        <terminal y="20" x="-106" orientation="w"/>
+        <terminal y="30" x="-106" orientation="w"/>
+    </description>
+</definition>

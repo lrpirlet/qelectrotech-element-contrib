@@ -1,0 +1,41 @@
+<definition hotspot_x="18" height="50" hotspot_y="27" type="element" version="0.80" width="40" link_type="master">
+    <uuid uuid="{3112d9aa-096d-49ab-a3b5-8e984173bbfe}"/>
+    <names>
+        <name lang="pt">Sensor Magnético SSH5-30R1PD2A</name>
+    </names>
+    <kindInformations>
+        <kindInformation show="1" name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="comment">24Vcc</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="description">Sensor Magnético SSH5-30R1PD2A</elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text text="AZ" rotation="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="6" y="12"/>
+        <rect rx="0" height="14" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-15" y="-9.5" width="30" antialias="false"/>
+        <line length1="1.5" length2="1.5" end1="none" end2="none" y1="4" y2="-9" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-14" x2="14" antialias="true"/>
+        <dynamic_text frame="false" rotation="0" text_width="-1" text_from="ElementInfo" font="Sans Serif,8,-1,5,50,0,0,0,0,0" x="-47" uuid="{dcea7def-d258-45cb-a8df-dce06e3fd2f9}" y="-14" Valignment="AlignTop" z="5" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line length1="1.5" length2="1.5" end1="none" end2="none" y1="13" y2="5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" x2="0" antialias="false"/>
+        <line length1="1.5" length2="1.5" end1="none" end2="none" y1="-18" y2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" x2="0" antialias="false"/>
+        <text text="MR" rotation="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="7" y="-12"/>
+        <dynamic_text frame="false" rotation="0" text_width="-1" text_from="ElementInfo" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" x="-48" uuid="{c52087f9-aafb-4240-830e-4a886991f3ad}" y="-1" Valignment="AlignTop" z="8" Halignment="AlignLeft">
+            <text>24Vcc</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal name="" x="0" uuid="{743c3459-46c6-42ef-a53e-42dc24716245}" y="-18" orientation="n"/>
+        <terminal name="" x="0" uuid="{0739f207-31d9-402b-a311-844c42d89d82}" y="13" orientation="s"/>
+    </description>
+</definition>

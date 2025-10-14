@@ -1,0 +1,44 @@
+<definition height="50" version="0.90" width="30" link_type="simple" hotspot_x="15" type="element" hotspot_y="25">
+    <uuid uuid="{4341686d-b735-454b-b644-8e25dc12e210}"/>
+    <names>
+        <name lang="pt">LAMPADA LED</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="comment" show="1">110Vca</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">LED 110Vca</elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1">BH</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">WEG</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <circle diameter="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" y="-10" antialias="true"/>
+        <dynamic_text font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" text_from="UserText" uuid="{a2f7aff4-0993-4078-9e6f-60e58e62d915}" rotation="0" Valignment="AlignTop" x="8" keep_visual_rotation="true" y="4" Halignment="AlignLeft" z="2" frame="false">
+            <text>X2</text>
+        </dynamic_text>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-7.03" y2="7.03" x1="7.03" x2="-7.03" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-7.03" y2="7.03" x1="-7.03" x2="7.03" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-20" y2="-11" x1="0" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="11" y2="20" x1="0" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" text_from="UserText" uuid="{3dccb39e-5d95-4ee4-aac5-dd71f8fc7068}" rotation="0" Valignment="AlignTop" x="8" keep_visual_rotation="true" y="-21" Halignment="AlignLeft" z="7" frame="false">
+            <text>X1</text>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,8,-1,5,50,0,0,0,0,0" text_width="-1" text_from="ElementInfo" uuid="{ee5a0245-9314-4961-82b8-cfb43b0950e3}" rotation="0" Valignment="AlignTop" x="-36" keep_visual_rotation="true" y="-10.5" Halignment="AlignLeft" z="8" frame="false">
+            <text>BH</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" text_from="ElementInfo" uuid="{c52087f9-aafb-4240-830e-4a886991f3ad}" rotation="0" Valignment="AlignTop" x="-40" keep_visual_rotation="true" y="6" Halignment="AlignLeft" z="8" frame="false">
+            <text>110Vca</text>
+            <info_name>comment</info_name>
+            <composite_text>%{comment}</composite_text>
+        </dynamic_text>
+        <terminal orientation="n" name="" uuid="{ede6cfb7-1e06-470a-b5f6-561220bd8785}" x="0" y="-21" type="Generic"/>
+        <terminal orientation="s" name="" uuid="{3d7534ef-2767-4151-87b4-fde5809247e9}" x="0" y="20" type="Generic"/>
+    </description>
+</definition>

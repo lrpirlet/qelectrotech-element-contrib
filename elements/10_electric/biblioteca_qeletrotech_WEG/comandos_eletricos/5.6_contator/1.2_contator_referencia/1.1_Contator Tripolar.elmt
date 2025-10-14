@@ -1,0 +1,44 @@
+<definition link_type="slave" type="element" width="70" hotspot_x="42" hotspot_y="35" height="70" version="0.80">
+    <uuid uuid="{7e9e8bf4-37f8-411a-a1fa-748c7855f3a4}"/>
+    <names>
+        <name lang="pt">Contator de Potência</name>
+    </names>
+    <kindInformations>
+        <kindInformation show="1" name="state">NO</kindInformation>
+        <kindInformation show="1" name="type">power</kindInformation>
+        <kindInformation show="1" name="number">3</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <text text="5&#xa;L3" color="#000000" x="13" y="-24" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="98.125" antialias="true" width="4" angle="177.5" x="-32.25" y="-11.25" height="4.5"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="98.125" antialias="true" width="4" angle="177.5" x="-12.25" y="-11.25" height="4.5"/>
+        <line y2="-7" x1="-30" x2="-30" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" y1="-30"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="98.125" antialias="true" width="4" angle="177.5" x="7.75" y="-11.25" height="4.5"/>
+        <line y2="-7" x1="-10" x2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" y1="-30"/>
+        <polygon y2="8" y3="30" x1="-37" x2="-30" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="-30" antialias="false" closed="false" y1="-7"/>
+        <polygon y2="8" y3="30" x1="-17" x2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="-10" antialias="false" closed="false" y1="-7"/>
+        <line y2="-7" x1="10" x2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" y1="-30"/>
+        <text text="3&#xa;L2" color="#000000" x="-7" y="-24" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <polygon y2="8" y3="30" x1="3" x2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="10" antialias="false" closed="false" y1="-7"/>
+        <text text="4&#xa;T2" color="#000000" x="-7" y="18" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text text="6&#xa;T3" color="#000000" x="13" y="18" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text text="1&#xa;L1" color="#000000" x="-27" y="-24" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text text="2&#xa;T1" color="#000000" x="-27" y="19" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <line y2="0" x1="-33" x2="6" style="line-style:dashed;line-weight:thin;filling:none;color:black" antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" y1="0"/>
+        <dynamic_text Valignment="AlignTop" Halignment="AlignLeft" x="-68" y="-22" font="Arial,8,-1,5,50,0,0,0,0,0,Normal" frame="false" z="20" text_width="-1" text_from="CompositeText" rotation="0" uuid="{5f2c07d5-e0b0-49a1-9a1f-0e0a6b8bd7f5}">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" Halignment="AlignLeft" x="-70" y="12" font="Arial,8,-1,5,50,0,0,0,0,0,Normal" frame="false" z="21" text_width="-1" text_from="CompositeText" rotation="0" uuid="{e3ab3139-9ec0-42f7-a0e1-d3007bdf41a2}">
+            <text></text>
+            <composite_text>%{comment}</composite_text>
+        </dynamic_text>
+        <terminal x="-30" y="30" name="" orientation="s" uuid="{b0f27061-f500-43ed-b470-0f613bfe2d29}"/>
+        <terminal x="10" y="30" name="" orientation="s" uuid="{bea33d30-b556-43a8-8cc6-a99e1ad26000}"/>
+        <terminal x="10" y="-30" name="" orientation="n" uuid="{75a65021-e38a-48be-8742-4d8a7a56c299}"/>
+        <terminal x="-10" y="30" name="" orientation="s" uuid="{8edf208d-5fb7-4863-b2f9-f46bdd2b6c77}"/>
+        <terminal x="-10" y="-30" name="" orientation="n" uuid="{45d9020c-8d56-4b9f-a6b0-cc9035b10ba9}"/>
+        <terminal x="-30" y="-30" name="" orientation="n" uuid="{ff2a2650-ebcc-4668-8a4b-05c61caa923c}"/>
+    </description>
+</definition>

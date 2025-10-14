@@ -1,0 +1,25 @@
+<definition link_type="simple" version="0.80" hotspot_x="5" hotspot_y="6" type="element" width="80" height="60">
+    <uuid uuid="{c21ca914-a71e-4456-b51e-c2951ec6f0b9}"/>
+    <names>
+        <name lang="pt">Perigo Eletricidade Somente Pessoal Autorizado</name>
+    </names>
+    <elementInformations/>
+    <informations>&#xd;
+     Author: DXF converter&#xd;
+     License:see http://qelectrotech.org/wiki/doc/elements_license&#xd;
+     Converter version:V3.0 DB&#xd;
+&#xd;
+</informations>
+    <description>
+        <rect rx="1" ry="0" antialias="false" x="0" y="0" style="line-style:normal;line-weight:thin;filling:HTMLWhiteWhiteSmoke;color:black" width="70" height="47"/>
+        <rect rx="1" ry="1" antialias="false" x="2" y="2" style="line-style:normal;line-weight:thin;filling:black;color:black" width="66" height="18"/>
+        <ellipse antialias="false" x="4" y="3" style="line-style:normal;line-weight:thin;filling:red;color:white" width="62" height="15"/>
+        <text rotation="0" x="19" y="15.646" text="PERIGO" color="#ffffff" font="Agency FB,10,-1,5,75,0,0,0,0,0,Negrito"/>
+        <polygon x4="58.495" antialias="false" style="line-style:normal;line-weight:thin;filling:HTMLYellowGold;color:black" y1="30.4536" y2="43.5" y3="43.5" x1="58.495" y4="30.4536" x2="51.99" x3="65"/>
+        <rect rx="1" ry="1" antialias="false" x="1" y="1" style="line-style:normal;line-weight:thin;filling:none;color:black" width="68" height="45"/>
+        <text rotation="0" x="14" y="27" text="Eletricidade" color="#000000" font="Agency FB,6,-1,5,75,0,0,0,0,0,Negrito"/>
+        <polygon y1="35.1977" y2="35.1977" y3="36.9129" y4="36.9129" y5="39.7142" y6="39.7142" y7="42.5156" x1="58.495" y8="40.2745" x2="60.2691" x3="58.7594" y9="40.2745" x4="60.0707" x5="57.8853" x6="59.1965" x7="55.7" x8="57.4482" style="line-style:normal;line-weight:thin;filling:black;color:black" x9="56.137" y10="38.0334" antialias="false" x10="57.8853" y11="38.0334" x11="56.3556"/>
+        <text rotation="0" x="6" y="35" text="Somente Pessoal" color="#000000" font="Agency FB,6,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text rotation="0" x="13" y="43" text=" Autorizado" color="#000000" font="Agency FB,6,-1,5,75,0,0,0,0,0,Negrito"/>
+    </description>
+</definition>

@@ -1,0 +1,30 @@
+<definition width="140" height="10" link_type="simple" hotspot_x="44" hotspot_y="5" version="0.80" type="element">
+    <uuid uuid="{e973a2bf-6b1b-4879-ac6c-400f0df4f637}"/>
+    <names>
+        <name lang="pt">REFERENCIA 1 CABO</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y2="-1" x1="88" x2="92" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="1" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <dynamic_text y="-16" Valignment="AlignTop" z="2" Halignment="AlignLeft" uuid="{456975f3-c92d-4f5d-8e0f-fe55a7962782}" frame="false" text_width="-1" text_from="UserText" rotation="0" x="-38" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal">
+            <text>_mm²</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y2="-1" x1="48" x2="52" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="1" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line y2="-1" x1="8" x2="12" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="1" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line y2="0" x1="-40" x2="90" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="0" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+    </description>
+</definition>

@@ -1,0 +1,33 @@
+<definition link_type="simple" hotspot_x="30" hotspot_y="10" type="element" width="60" version="0.80" height="20">
+    <uuid uuid="{80881e91-0b90-4dbe-807f-ab9cea7dee89}"/>
+    <names>
+        <name lang="pt">RESISTOR</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line y1="0" y2="0" antialias="false" x1="-21" length1="1.5" x2="-24" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="0" y2="0" antialias="false" x1="19" length1="1.5" x2="23" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none"/>
+        <dynamic_text text_width="-1" rotation="0" font="Calibri,9,-1,5,50,0,0,0,0,0,Regular" text_from="CompositeText" x="-4" frame="false" y="4" z="3" uuid="{b3c70b76-a8da-4029-9235-0a9497d1412e}" Valignment="AlignTop" Halignment="AlignLeft">
+            <text>Ω</text>
+            <info_name>label</info_name>
+            <composite_text>%{comment}Ω</composite_text>
+        </dynamic_text>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="39" rx="1" ry="1" x="-20" y="-5" height="10"/>
+        <line y1="-5" y2="5" antialias="false" x1="-5" length1="1.5" x2="-5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="-5" y2="5" antialias="false" x1="-10" length1="1.5" x2="-10" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="-5" y2="5" antialias="false" x1="0" length1="1.5" x2="0" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="-5" y2="5" antialias="false" x1="5" length1="1.5" x2="5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="-5" y2="5" antialias="false" x1="10" length1="1.5" x2="10" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none"/>
+        <dynamic_text text_width="-1" rotation="0" font="Calibri,9,-1,5,50,0,0,0,0,0,Regular" text_from="ElementInfo" x="-6" frame="false" y="-28" z="10" uuid="{55dfabed-218a-46ef-9010-413637bf8b13}" Valignment="AlignTop" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text text_width="-1" rotation="0" font="Calibri,9,-1,5,50,0,0,0,0,0,Regular" text_from="ElementInfo" x="-16" frame="false" y="16" z="11" uuid="{bcab9617-b1f4-41b1-8028-333a530c6b9b}" Valignment="AlignTop" Halignment="AlignLeft">
+            <text></text>
+            <info_name>description</info_name>
+        </dynamic_text>
+        <terminal x="-24" name="" y="0" uuid="{1d14d70f-efaa-43b5-9754-3e80dfae80d4}" orientation="w"/>
+        <terminal x="23" name="" y="0" uuid="{0d25e6f7-f026-4ab2-a2ab-bfc3f30b9b8a}" orientation="e"/>
+    </description>
+</definition>

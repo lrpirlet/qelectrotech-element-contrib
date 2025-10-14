@@ -1,0 +1,50 @@
+<definition type="element" width="40" height="40" link_type="simple" hotspot_x="20" hotspot_y="20" version="0.80">
+    <uuid uuid="{c29d523f-c571-4dbc-8e25-d16f585532a0}"/>
+    <names>
+        <name lang="pt">Sinalizador Sonoro Vermelho</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+    </elementInformations>
+    <informations>&#xd;
+     Author: DXF converter&#xd;
+     License:see http://qelectrotech.org/wiki/doc/elements_license&#xd;
+     Converter version:V3.0 DB&#xd;
+&#xd;
+</informations>
+    <description>
+        <rect width="28" height="28" rx="14" ry="14" antialias="false" x="-14" style="line-style:normal;line-weight:thin;filling:black;color:HTMLGrayBlack" y="-14"/>
+        <rect width="26" height="26" rx="14" ry="14" antialias="false" x="-13" style="line-style:normal;line-weight:thin;filling:HTMLRedRed;color:HTMLGrayBlack" y="-13"/>
+        <line end1="none" y1="-14" end2="none" y2="-13" x1="0" x2="0" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:cyan"/>
+        <line end1="none" y1="0" end2="none" y2="0" x1="-14" x2="-13" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:cyan"/>
+        <line end1="none" y1="14" end2="none" y2="13" x1="0" x2="0" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:cyan"/>
+        <line end1="none" y1="0" end2="none" y2="0" x1="14" x2="13" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:cyan"/>
+        <circle diameter="2" antialias="false" x="-1" style="line-style:normal;line-weight:normal;filling:HTMLBrownBrown;color:red" y="-12"/>
+        <circle diameter="2" antialias="false" x="8" style="line-style:normal;line-weight:normal;filling:HTMLRedFirebrick;color:red" y="-7"/>
+        <arc start="103.375" width="13" height="13" angle="63.5" antialias="true" x="-6" style="line-style:normal;line-weight:normal;filling:none;color:white" y="-6"/>
+        <arc start="105.563" width="18" height="17" angle="63.5625" antialias="true" x="-8" style="line-style:normal;line-weight:normal;filling:none;color:white" y="-8"/>
+        <dynamic_text z="11" rotation="0" text_from="ElementInfo" Valignment="AlignTop" font="Calibri,9,-1,5,50,0,0,0,0,0,Regular" frame="false" Halignment="AlignLeft" uuid="{19da2c05-9277-41f1-8dcd-44d52cd2962f}" text_width="0" x="-10" y="-34">
+            <text></text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <arc start="102.125" width="8" height="9" angle="64.8125" antialias="true" x="-4" style="line-style:normal;line-weight:normal;filling:none;color:white" y="-4"/>
+        <arc start="285.5" width="13" height="13" angle="60.6875" antialias="true" x="-7" style="line-style:normal;line-weight:normal;filling:none;color:white" y="-7"/>
+        <arc start="287.438" width="18" height="17" angle="60.1875" antialias="true" x="-10" style="line-style:normal;line-weight:normal;filling:none;color:white" y="-9"/>
+        <arc start="281.5" width="8" height="9" angle="61.25" antialias="true" x="-4" style="line-style:normal;line-weight:normal;filling:none;color:white" y="-5"/>
+        <circle diameter="2" antialias="false" x="-10" style="line-style:normal;line-weight:normal;filling:HTMLBrownBrown;color:red" y="-7"/>
+        <circle diameter="2" antialias="false" x="8" style="line-style:normal;line-weight:normal;filling:HTMLBrownBrown;color:red" y="5"/>
+        <circle diameter="2" antialias="false" x="-1" style="line-style:normal;line-weight:normal;filling:HTMLBrownBrown;color:red" y="10"/>
+        <circle diameter="2" antialias="false" x="-1" style="line-style:normal;line-weight:normal;filling:HTMLBrownBrown;color:red" y="-1"/>
+        <circle diameter="2" antialias="false" x="-10" style="line-style:normal;line-weight:normal;filling:HTMLBrownBrown;color:red" y="5"/>
+    </description>
+</definition>

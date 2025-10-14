@@ -1,0 +1,16 @@
+<definition type="element" version="0.80" width="40" link_type="terminal" hotspot_x="16" height="30" hotspot_y="16">
+    <uuid uuid="{0002a2b8-b279-4d84-934e-c62fc04155ec}"/>
+    <names>
+        <name lang="pt">GND</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line end1="none" end2="none" y1="9" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="9" x1="-2" x2="2" antialias="false" length1="1.5" length2="1.5"/>
+        <line end1="none" end2="none" y1="5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="5" x1="-5" x2="6" antialias="false" length1="1.5" length2="1.5"/>
+        <line end1="none" end2="none" y1="1" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="1" x1="-10" x2="10" antialias="false" length1="1.5" length2="1.5"/>
+        <line end1="none" end2="none" y1="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="0" x1="0" x2="0" antialias="false" length1="1.5" length2="1.5"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" x="2" y="-2" text="GND"/>
+        <terminal name="" uuid="{cc97e41c-03f5-475f-8769-b21ea0b906ba}" x="0" y="-10" orientation="n"/>
+    </description>
+</definition>

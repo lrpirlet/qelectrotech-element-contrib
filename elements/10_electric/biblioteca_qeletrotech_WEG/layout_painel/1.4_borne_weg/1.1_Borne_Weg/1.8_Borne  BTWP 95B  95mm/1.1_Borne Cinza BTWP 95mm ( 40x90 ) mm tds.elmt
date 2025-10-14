@@ -1,0 +1,45 @@
+<definition version="0.80" link_type="simple" hotspot_x="5" hotspot_y="5" height="100" type="element" width="50">
+    <uuid uuid="{ae14b073-e377-4ae8-8078-287f64d154dc}"/>
+    <names>
+        <name lang="pt">Borne Cinza BTWP 95B 95mm</name>
+    </names>
+    <elementInformations/>
+    <informations>&#xd;
+     Author: DXF converter&#xd;
+     License:see http://qelectrotech.org/wiki/doc/elements_license&#xd;
+     Converter version:V3.0 DB&#xd;
+&#xd;
+</informations>
+    <description>
+        <rect x="0" antialias="false" y="0" height="90" style="line-style:normal;line-weight:thin;filling:gray;color:black" width="40" rx="4" ry="0"/>
+        <rect x="0" antialias="false" y="30" height="30" style="line-style:normal;line-weight:thin;filling:HTMLGraySilver;color:black" width="40" rx="0" ry="1"/>
+        <circle diameter="4" x="17.9175" antialias="false" y="57.9175" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <polygon antialias="false" y1="64" y2="64" style="line-style:normal;line-weight:thin;filling:HTMLGraySilver;color:black" y3="74" x1="26" y4="84" x2="14" y5="84" x3="8" y6="74" x4="14" x5="26" x6="32"/>
+        <arc x="18" antialias="true" y="58" height="4" style="line-style:normal;line-weight:normal;filling:none;color:gray" start="194" width="4" angle="151"/>
+        <circle diameter="20" x="10" antialias="false" y="64" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line antialias="false" y1="41" y2="41" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="0" end1="none" x2="12" end2="none" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="43" y2="43" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="0" end1="none" x2="12" end2="none" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="45" y2="45" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="0" end1="none" x2="12" end2="none" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="47" y2="47" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="0" end1="none" x2="12" end2="none" length1="1.5" length2="1.5"/>
+        <polygon antialias="false" y1="6" y2="6" style="line-style:normal;line-weight:thin;filling:HTMLGraySilver;color:black" y3="16" x1="26" y4="26" x2="14" y5="26" x3="8" y6="16" x4="14" x5="26" x6="32"/>
+        <circle diameter="20" x="10" antialias="false" y="6" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line antialias="false" y1="41" y2="41" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="28" end1="none" x2="40" end2="none" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="43" y2="43" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="28" end1="none" x2="40" end2="none" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="45" y2="45" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="28" end1="none" x2="40" end2="none" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="47" y2="47" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="28" end1="none" x2="40" end2="none" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="41" y2="49" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="12" end1="none" x2="12" end2="none" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="41" y2="49" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="28" end1="none" x2="28" end2="none" length1="1.5" length2="1.5"/>
+        <circle diameter="4" x="17.9175" antialias="false" y="27.9175" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <arc x="18" antialias="true" y="28" height="4" style="line-style:normal;line-weight:normal;filling:none;color:gray" start="14.25" width="4" angle="151.313"/>
+        <line antialias="false" y1="49" y2="49" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="28" end1="none" x2="40" end2="none" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="49" y2="49" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="12" end1="none" x2="0" end2="none" length1="1.5" length2="1.5"/>
+        <circle diameter="2" x="19" antialias="false" y="40" style="line-style:normal;line-weight:thin;filling:gray;color:gray"/>
+        <line antialias="false" y1="41" y2="41" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="14" end1="none" x2="19" end2="none" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="41" y2="41" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="21" end1="none" x2="26" end2="none" length1="1.5" length2="1.5"/>
+        <arc x="19" antialias="true" y="40" height="2" style="line-style:normal;line-weight:thin;filling:gray;color:gray" start="179.188" width="2" angle="181.063"/>
+        <polygon x1="0" y7="50" x2="0" y8="49" x3="13" y9="49" x4="13" x5="27" x6="27" x7="40" x8="40" style="line-style:normal;line-weight:thin;filling:gray;color:black" x9="28" y10="41" x10="28" y11="41" x11="40" y12="40" x12="40" y13="40" antialias="false" x13="0" y14="41" x14="0" y15="41" x15="12" y16="49" x16="12" y17="49" x17="0" y1="49" y2="50" y3="50" y4="41" y5="41" y6="50"/>
+        <circle diameter="2" x="19" antialias="false" y="40" style="line-style:normal;line-weight:thin;filling:gray;color:gray"/>
+        <line antialias="false" y1="40" y2="40" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="0" end1="none" x2="40" end2="none" length1="1.5" length2="1.5"/>
+        <arc x="19" antialias="true" y="40" height="2" style="line-style:normal;line-weight:thin;filling:none;color:black" start="180.625" width="2" angle="179.125"/>
+    </description>
+</definition>

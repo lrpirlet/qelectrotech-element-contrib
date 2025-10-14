@@ -1,0 +1,23 @@
+<definition link_type="simple" hotspot_x="5" hotspot_y="5" version="0.80" type="element" width="150" height="90">
+    <uuid uuid="{100d030c-321f-49f7-b7ee-1448304a236e}"/>
+    <names>
+        <name lang="pt">Perigo</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect rx="1" antialias="false" x="0" ry="0" y="0" style="line-style:normal;line-weight:thin;filling:HTMLWhiteWhiteSmoke;color:black" width="140" height="79.9"/>
+        <rect rx="1" antialias="false" x="4" ry="1" y="3.4" style="line-style:normal;line-weight:thin;filling:black;color:black" width="132" height="30.6"/>
+        <ellipse antialias="false" x="10" y="5.1" style="line-style:normal;line-weight:normal;filling:red;color:white" width="120" height="25.5"/>
+        <text rotation="0" x="43" y="27" text="PERIGO" color="#ffffff" font="Agency FB,19,-1,5,75,0,0,0,0,0,Negrito"/>
+        <polygon y3="51.6415" x1="14.3965" y4="35.5009" x2="5.82533" x3="22.9675" x4="14.3965" antialias="false" style="line-style:normal;line-weight:normal;filling:HTMLYellowGold;color:black" y1="35.5009" y2="51.6415"/>
+        <rect rx="1" antialias="false" x="2" ry="1" y="1.7" style="line-style:normal;line-weight:thin;filling:none;color:black" width="136" height="76.5"/>
+        <polygon x9="11.2893" style="line-style:normal;line-weight:thin;filling:black;color:black" y1="41.3701" y2="41.3701" y3="43.4921" y4="43.4921" y5="46.9578" y6="46.9578" x1="14.3965" y7="50.4236" antialias="false" x2="16.7343" y8="47.6511" x3="14.7447" y9="47.6511" x4="16.4725" x5="13.5926" x6="15.3204" y10="44.8784" x7="10.7137" x10="13.5926" y11="44.8784" x8="13.0171" x11="11.5775"/>
+        <rect rx="0" antialias="false" x="0" ry="0" y="0" style="line-style:normal;line-weight:thin;filling:none;color:black" width="140" height="80"/>
+        <text rotation="0" x="14" y="60" text="DESLIGUE A EMERGÊNCIA E BLOQUEIE" color="#000000" font="Calibri,5,-1,5,75,0,0,0,0,0,Bold"/>
+        <text rotation="0" x="9" y="67" text="A FONTE DE TENSÃO DESTE EQUIPAMENTO" color="#000000" font="Calibri,5,-1,5,75,0,0,0,0,0,Bold"/>
+        <text rotation="0" x="44" y="74" text="(APLICAR LOTO)" color="#000000" font="Calibri,5,-1,5,75,0,0,0,0,0,Bold"/>
+        <text rotation="0" x="29" y="53" text="RISCO DE CHOQUE ELÉTRICO" color="#000000" font="Calibri,5,-1,5,75,0,0,0,0,0,Bold"/>
+        <text rotation="0" x="27" y="45" text="TENSÃO PERIGOSA" color="#000000" font="Calibri,8,-1,5,75,0,0,0,0,0,Bold"/>
+    </description>
+</definition>

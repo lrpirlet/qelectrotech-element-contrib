@@ -1,0 +1,31 @@
+<definition hotspot_y="35" type="element" hotspot_x="34" link_type="simple" width="70" version="0.70" height="70" orientation="dyyy">
+    <uuid uuid="{9b9fa402-4d06-4059-ba95-1c3d35d339b6}"/>
+    <names>
+        <name lang="pt">Interruptor Simples com Tomada</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line x1="-19" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none" length1="1.5" x2="-11" end1="none" length2="1.5" y1="14" y2="6"/>
+        <line x1="-10.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none" length1="1.5" x2="10.5" end1="none" length2="1.5" y1="5.79" y2="5.79"/>
+        <line x1="-19" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none" length1="1.5" x2="-11" end1="none" length2="1.5" y1="14" y2="22"/>
+        <line x1="-10.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none" length1="1.5" x2="10.5" end1="none" length2="1.5" y1="22.2" y2="22.2"/>
+        <line x1="11" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none" length1="1.5" x2="19" end1="none" length2="1.5" y1="22" y2="14"/>
+        <line x1="11" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none" length1="1.5" x2="19" end1="none" length2="1.5" y1="6" y2="14"/>
+        <line x1="26" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none" length1="1.5" x2="14" end1="none" length2="1.5" y1="-10" y2="-10"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5" antialias="true" x="7.5" y="-12.5"/>
+        <ellipse style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-12.195" y="11.705" width="4.39" height="4.51"/>
+        <ellipse style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-2.195" y="8.885" width="4.39" height="4.51"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5" antialias="true" x="-12.5" y="-12.5"/>
+        <ellipse style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="7.805" y="11.705" width="4.39" height="4.51"/>
+        <line x1="-24" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none" length1="1.5" x2="-13" end1="none" length2="1.5" y1="-10" y2="-10"/>
+        <line x1="16" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none" length1="1.5" x2="13" end1="none" length2="1.5" y1="-10" y2="-10"/>
+        <line x1="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none" length1="1.5" x2="6" end1="none" length2="1.5" y1="-11" y2="-16"/>
+        <rect style="line-style:dashed;line-weight:normal;filling:none;color:black" antialias="false" x="-20" y="-30" width="40" height="60"/>
+        <terminal x="0" y="16.87" orientation="s"/>
+        <terminal x="10" y="20.25" orientation="s"/>
+        <terminal x="-28" y="-10" orientation="w"/>
+        <terminal x="-10" y="20.25" orientation="s"/>
+        <terminal x="29" y="-10" orientation="e"/>
+    </description>
+</definition>

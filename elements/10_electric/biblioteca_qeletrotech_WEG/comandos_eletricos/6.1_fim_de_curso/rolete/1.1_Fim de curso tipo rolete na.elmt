@@ -1,0 +1,42 @@
+<definition width="30" type="element" version="0.80" link_type="simple" hotspot_x="24" hotspot_y="34" height="70">
+    <uuid uuid="{f04a5478-5763-4868-ac45-7a736a52a837}"/>
+    <names>
+        <name lang="pt">Fim de curso tipo rolete na</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Termostato </elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text x="-46" y="-11" z="1" Valignment="AlignTop" frame="false" font="Sans Serif,8,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" uuid="{e92a9a51-1940-4019-b7de-f3e5eed237c4}" text_width="-1" rotation="0" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line end1="none" y1="0" end2="none" y2="0" antialias="false" x1="-8.75" x2="-7" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5"/>
+        <line end1="none" y1="0" end2="none" y2="0" antialias="false" x1="-11.75" x2="-10" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5"/>
+        <line end1="none" y1="0" end2="none" y2="0" antialias="false" x1="-5.75" x2="-4" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5"/>
+        <line end1="none" y1="-30" end2="none" y2="-6.5" antialias="true" x1="0" x2="0" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5"/>
+        <polygon closed="false" y1="-7" y2="8" y3="30" antialias="false" x1="-7" x2="0" x3="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="-18" y="-2" diameter="4" antialias="false" style="line-style:normal;line-weight:thin;filling:white;color:black"/>
+        <circle x="-20" y="-4" diameter="8" antialias="false" style="line-style:normal;line-weight:thin;filling:black;color:white"/>
+        <dynamic_text x="-1" y="-26" z="10" Valignment="AlignTop" frame="false" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" uuid="{c52376da-9196-4b57-a421-42895ffa8d6e}" text_width="-1" rotation="0" text_from="UserText">
+            <text>3</text>
+        </dynamic_text>
+        <dynamic_text x="-2" y="4" z="10" Valignment="AlignTop" frame="false" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" uuid="{c52376da-9196-4b57-a421-42895ffa8d6e}" text_width="-1" rotation="0" text_from="UserText">
+            <text>4</text>
+        </dynamic_text>
+        <circle x="-18" y="-2" diameter="4" antialias="false" style="line-style:normal;line-weight:thin;filling:black;color:white"/>
+        <terminal x="0" y="30" name="" orientation="s" uuid="{2e1f554e-7b2a-4507-8dbd-3be493c86659}"/>
+        <terminal x="0" y="-30" name="" orientation="n" uuid="{008232e8-2037-4e22-a440-0d98f4058b1b}"/>
+    </description>
+</definition>

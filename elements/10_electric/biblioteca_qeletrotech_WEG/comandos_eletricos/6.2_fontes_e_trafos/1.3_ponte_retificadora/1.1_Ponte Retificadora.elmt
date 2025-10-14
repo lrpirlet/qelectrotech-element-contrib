@@ -1,0 +1,56 @@
+<definition link_type="simple" hotspot_x="64" hotspot_y="65" version="0.80" width="130" height="130" type="element">
+    <uuid uuid="{06077566-2b1d-4a85-80d6-572fa4e03229}"/>
+    <names>
+        <name lang="pt">Ponte Retificadora</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="description">Ponte Retificadora</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text rotation="0" color="#000000" x="-7" text="~" y="-27" font="Sans Serif,14,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" color="#000000" x="-7" text="~" y="40" font="Sans Serif,14,-1,5,50,0,0,0,0,0"/>
+        <polygon y1="0" y2="-50" y3="0" antialias="false" x1="-50" y4="50" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" y5="0" x3="50" x4="0" x5="-50"/>
+        <polygon y1="-30" y2="-20" y3="-30" antialias="false" x1="-30" y4="-30" style="line-style:normal;line-weight:normal;filling:black;color:black" x2="-20" x3="-20" x4="-30"/>
+        <line y1="-35" length1="1.5" y2="-25" length2="1.5" antialias="false" x1="-25" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-15" end1="none" end2="none"/>
+        <polygon y1="-25" y2="-35" y3="-25" antialias="false" x1="15" y4="-25" style="line-style:normal;line-weight:normal;filling:black;color:black" x2="25" y5="-25" x3="25" x4="15" x5="15"/>
+        <line y1="-20" length1="1.5" y2="-30" length2="1.5" antialias="false" x1="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="30" end1="none" end2="none"/>
+        <polygon y1="25" y2="15" y3="25" antialias="false" x1="-35" y4="25" style="line-style:normal;line-weight:normal;filling:black;color:black" x2="-25" x3="-25" x4="-35"/>
+        <line y1="30" length1="1.5" y2="20" length2="1.5" antialias="false" x1="-30" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-20" end1="none" end2="none"/>
+        <dynamic_text uuid="{db33dd07-99d7-4cbc-8c88-e3d12e1fabe0}" rotation="0" Valignment="AlignTop" Halignment="AlignLeft" x="-94" text_from="CompositeText" y="-32" frame="false" z="11" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_width="-1">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <polygon y1="20" y2="30" y3="20" antialias="false" x1="20" y4="20" style="line-style:normal;line-weight:normal;filling:black;color:black" x2="30" x3="30" x4="20"/>
+        <dynamic_text uuid="{7fbb6c11-3d8e-46de-b617-12569e3da30a}" rotation="0" Valignment="AlignTop" Halignment="AlignLeft" x="-100" text_from="CompositeText" y="-12" frame="false" z="12" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_width="-1">
+            <text></text>
+            <composite_text>%{comment}</composite_text>
+        </dynamic_text>
+        <line y1="15" length1="1.5" y2="25" length2="1.5" antialias="false" x1="25" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="35" end1="none" end2="none"/>
+        <line y1="-4.69656" length1="1.5" y2="3.5" length2="1.5" antialias="false" x1="35.7817" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="35.7817" end1="none" end2="none"/>
+        <line y1="-0.59828" length1="1.5" y2="-0.59828" length2="1.5" antialias="false" x1="31.5635" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="40" end1="none" end2="none"/>
+        <line y1="0" length1="1.5" y2="0" length2="1.5" antialias="false" x1="-37" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-29" end1="none" end2="none"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black" x="-2" y="-52" diameter="4"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black" x="48" y="-2" diameter="4"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black" x="-2" y="47" diameter="4"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black" x="-52" y="-2" diameter="4"/>
+        <line y1="-51" length1="1.5" y2="-57" length2="1.5" antialias="false" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" end1="none" end2="none"/>
+        <line y1="56" length1="1.5" y2="50" length2="1.5" antialias="false" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" end1="none" end2="none"/>
+        <line y1="0" length1="1.5" y2="0" length2="1.5" antialias="false" x1="-57" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-51" end1="none" end2="none"/>
+        <line y1="0" length1="1.5" y2="0" length2="1.5" antialias="false" x1="57" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="52" end1="none" end2="none"/>
+        <terminal uuid="{aa81421f-ad01-4160-ba6e-e64f7a65574d}" orientation="n" x="0" y="-57" name=""/>
+        <terminal uuid="{d55a2869-d471-40d6-ba4c-5f14501c64bb}" orientation="w" x="-57" y="0" name=""/>
+        <terminal uuid="{797104fa-edd1-44fd-bb49-826edd7dfbe5}" orientation="e" x="57" y="0" name=""/>
+        <terminal uuid="{964ba1d6-f9af-4d27-b010-8f28b996b12b}" orientation="s" x="0" y="56" name=""/>
+    </description>
+</definition>

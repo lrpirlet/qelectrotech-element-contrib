@@ -1,0 +1,24 @@
+<definition link_type="simple" version="0.80" hotspot_x="5" hotspot_y="6" type="element" width="80" height="60">
+    <uuid uuid="{6308cef3-f52a-4c25-9469-5a831e3bc160}"/>
+    <names>
+        <name lang="pt">Perigo  Alta Tensão</name>
+    </names>
+    <elementInformations/>
+    <informations>&#xd;
+     Author: DXF converter&#xd;
+     License:see http://qelectrotech.org/wiki/doc/elements_license&#xd;
+     Converter version:V3.0 DB&#xd;
+&#xd;
+</informations>
+    <description>
+        <rect rx="1" ry="0" antialias="false" x="0" y="0" style="line-style:normal;line-weight:thin;filling:HTMLWhiteWhiteSmoke;color:black" width="70" height="47"/>
+        <rect rx="1" ry="1" antialias="false" x="2" y="2" style="line-style:normal;line-weight:thin;filling:black;color:black" width="66" height="18"/>
+        <ellipse antialias="false" x="4" y="3" style="line-style:normal;line-weight:thin;filling:red;color:white" width="62" height="15"/>
+        <text rotation="0" x="19" y="15.646" text="PERIGO" color="#ffffff" font="Agency FB,10,-1,5,75,0,0,0,0,0,Negrito"/>
+        <polygon x4="54" antialias="false" style="line-style:normal;line-weight:thin;filling:white;color:black" y1="22" y2="44" y3="44" x1="54" y4="22" x2="43" x3="65"/>
+        <rect rx="1" ry="1" antialias="false" x="1" y="1" style="line-style:normal;line-weight:thin;filling:none;color:black" width="68" height="45"/>
+        <text rotation="0" x="13" y="32" text="ALTA" color="#000000" font="Agency FB,8,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text rotation="0" x="9" y="44" text="TENSÃO" color="#000000" font="Agency FB,8,-1,5,75,0,0,0,0,0,Negrito"/>
+        <polygon y1="30" y2="30" y3="32.8923" y4="32.8923" y5="37.6161" y6="37.6161" y7="42.34" x1="54" y8="38.5609" x2="57" x3="54.4472" y9="38.5609" x4="56.6645" x5="52.969" x6="55.1863" x7="49.2736" x8="52.2299" style="line-style:normal;line-weight:thin;filling:black;color:black" x9="50.0127" y10="34.7818" antialias="false" x10="52.969" y11="34.7818" x11="50.3822"/>
+    </description>
+</definition>

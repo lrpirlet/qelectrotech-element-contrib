@@ -1,0 +1,17 @@
+<definition height="30" hotspot_y="14" type="element" version="0.90" width="30" link_type="simple" hotspot_x="7">
+    <uuid uuid="{e30ca8ab-1e8b-4dde-96a3-6da70d529f38}"/>
+    <names>
+        <name lang="pt">CONEXÃO FREIO B+ B-</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line end1="none" length1="1.5" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-10" y2="-10" x1="0" x2="4" antialias="false"/>
+        <line end1="none" length1="1.5" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="10" x1="0" x2="4" antialias="false"/>
+        <line end1="none" length1="1.5" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0" y2="0" x1="11" x2="15" antialias="false"/>
+        <arc height="20" x="-3" y="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" start="270.625" width="14" angle="179.313" antialias="true"/>
+        <terminal type="Generic" x="0" orientation="w" y="-10" name="" uuid="{690aa2a0-7c71-492a-acdb-7c07b83aff36}"/>
+        <terminal type="Generic" x="15" orientation="e" y="0" name="" uuid="{2d718022-0238-4eb6-8f3e-5f49f26c02a7}"/>
+        <terminal type="Generic" x="0" orientation="w" y="10" name="" uuid="{4a617db8-6b90-47a2-ad8d-f37adfd4ce0e}"/>
+    </description>
+</definition>

@@ -1,0 +1,41 @@
+<definition width="80" hotspot_y="10" version="0.80" height="30" link_type="master" type="element" hotspot_x="34">
+    <uuid uuid="{30366fbb-2192-487a-968e-ed379b9b5665}"/>
+    <names>
+        <name lang="pt">Fusível</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type" show="1">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">WEG</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Fusível  _A</elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" x="27" y="5" text="2" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" x="-22" y="5" text="1" color="#000000"/>
+        <line end1="none" x1="-30" end2="none" x2="40" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" antialias="false" y2="10"/>
+        <polygon y3="15" x1="-10" y4="15" x2="20" x3="20" x4="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="5" antialias="false" y2="5"/>
+        <line end1="none" x1="-11" end2="none" x2="-11" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="6" antialias="false" y2="14"/>
+        <line end1="none" x1="21" end2="none" x2="21" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="6" antialias="false" y2="14"/>
+        <dynamic_text font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" frame="false" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" uuid="{cd4c2803-0626-4673-a92c-4ab0752bcc6e}" x="-3.75" y="35" text_width="-1" z="37">
+            <text></text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" frame="false" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" uuid="{789e6c6f-9e57-4d4c-9b1c-155aca2381ed}" x="-2.75" y="18" text_width="-1" z="38">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal name="" uuid="{9b1d61a2-4adc-4c5a-8641-f2f2ab7082a9}" x="40" y="10" orientation="e"/>
+        <terminal name="" uuid="{1b67d324-683a-4795-855b-2e875bfd9134}" x="-30" y="10" orientation="w"/>
+    </description>
+</definition>

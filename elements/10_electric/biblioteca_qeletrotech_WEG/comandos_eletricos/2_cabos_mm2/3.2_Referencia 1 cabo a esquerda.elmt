@@ -1,0 +1,27 @@
+<definition width="60" hotspot_y="5" version="0.80" height="10" link_type="simple" type="element" hotspot_x="24">
+    <uuid uuid="{8c94639a-09da-4846-8332-79447747c1cb}"/>
+    <names>
+        <name lang="pt">REFERENCIA 1 CABO</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line end1="none" x1="28" end2="none" x2="32" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="1" antialias="false" y2="-1"/>
+        <dynamic_text font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" frame="false" text_from="UserText" Halignment="AlignLeft" rotation="0" uuid="{456975f3-c92d-4f5d-8e0f-fe55a7962782}" x="-22" y="-16" text_width="-1" z="2">
+            <text>_mm²</text>
+        </dynamic_text>
+        <line end1="none" x1="-20" end2="none" x2="30" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="0" antialias="false" y2="0"/>
+    </description>
+</definition>

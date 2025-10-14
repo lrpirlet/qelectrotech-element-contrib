@@ -1,0 +1,38 @@
+<definition type="element" link_type="simple" height="70" hotspot_x="20" hotspot_y="35" width="40" version="0.80">
+    <uuid uuid="{edca2fc7-8785-4aa2-be9b-eebfc73618a5}"/>
+    <names>
+        <name lang="pt">Botão Duplo</name>
+    </names>
+    <elementInformations/>
+    <informations>&#xd;
+     Author: DXF converter&#xd;
+     License:see http://qelectrotech.org/wiki/doc/elements_license&#xd;
+     Converter version:V3.0 DB&#xd;
+&#xd;
+</informations>
+    <description>
+        <rect rx="15" ry="15" x="-14" y="-29" height="58" antialias="false" style="line-style:normal;line-weight:thin;filling:black;color:black" width="28"/>
+        <rect rx="0" ry="0" x="-12.8652" y="0.958877" height="13.4511" antialias="false" style="line-style:normal;line-weight:thin;filling:red;color:red" width="25.792"/>
+        <line x1="0.0308396" x2="0.0308396" end1="none" end2="none" antialias="false" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5" y1="-27.8649" y2="-24.9825"/>
+        <rect rx="14" ry="15" x="-12.8652" y="-0.96271" height="28.8238" antialias="false" style="line-style:normal;line-weight:thin;filling:red;color:red" width="25.792"/>
+        <rect rx="12.896" ry="15" x="-12.8652" y="-27.8649" height="28.8238" antialias="false" style="line-style:normal;line-weight:thin;filling:HTMLGreenMediumSpringGreen;color:HTMLGreenMediumSpringGreen" width="25.792"/>
+        <rect rx="0" ry="0" x="-12.8652" y="-12.4922" height="13.4511" antialias="false" style="line-style:normal;line-weight:thin;filling:HTMLGreenMediumSpringGreen;color:HTMLGreenMediumSpringGreen" width="25.792"/>
+        <dynamic_text frame="false" text_width="0" rotation="0" x="-11" y="-49" z="7" font="Calibri,9,-1,5,50,0,0,0,0,0,Regular" Valignment="AlignTop" Halignment="AlignLeft" uuid="{19da2c05-9277-41f1-8dcd-44d52cd2962f}" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect rx="3" ry="3" x="-3" y="9" height="11" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:white" width="6"/>
+        <rect rx="4.792" ry="2" x="-13" y="-4" height="7.68634" antialias="false" style="line-style:normal;line-weight:thin;filling:white;color:HTMLWhiteGhostWhite" width="26"/>
+        <rect rx="0" ry="0" x="-1" y="-19" height="13" antialias="false" style="line-style:normal;line-weight:thin;filling:white;color:white" width="2"/>
+        <rect rx="13" ry="13" x="-13" y="-28" height="56" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="26"/>
+        <line x1="0" x2="0" end1="none" end2="none" antialias="false" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:cyan" length2="1.5" y1="-29" y2="-27"/>
+        <line x1="-14" x2="-12" end1="none" end2="none" antialias="false" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:cyan" length2="1.5" y1="0" y2="0"/>
+        <line x1="14" x2="12" end1="none" end2="none" antialias="false" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:cyan" length2="1.5" y1="0" y2="0"/>
+        <line x1="0" x2="0" end1="none" end2="none" antialias="false" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:cyan" length2="1.5" y1="29" y2="27"/>
+        <rect rx="8" ry="8" x="-8" y="-23" height="47" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:HTMLWhiteGhostWhite" width="16"/>
+        <arc x="-4" y="23" height="4" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:red" start="180" width="8" angle="155.938"/>
+        <arc x="-4" y="-27" height="6" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGreenMediumSpringGreen" start="54.4375" width="8" angle="125.5"/>
+        <arc x="-12" y="-3" height="6" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:white" start="179.625" width="8" angle="359.875"/>
+        <arc x="8" y="-3" height="6" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:white" start="351.25" width="4" angle="20.6875"/>
+    </description>
+</definition>

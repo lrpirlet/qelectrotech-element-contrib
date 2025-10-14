@@ -1,0 +1,43 @@
+<definition width="40" height="60" link_type="simple" hotspot_x="19" hotspot_y="31" version="0.80" type="element">
+    <uuid uuid="{7d6d71a7-72b9-453b-a67f-b6910f9f0643}"/>
+    <names>
+        <name lang="pt">Ventilador Cooler</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="description" show="1">Ventilador Cooler</elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="comment" show="1">_Vca</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text="2" x="12" y="-14"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text="1" x="-8" y="-14"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" rotation="0" uuid="{c5ef44fe-88f3-4ca7-bd36-0c8ee64f6740}" text_width="-1" frame="false" x="-43" text_from="ElementInfo" y="-10" Valignment="AlignTop" z="3" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" diameter="30" x="-15" y="-7"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-23" y2="-10" x1="-10" x2="-10" antialias="false" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-23" y2="-10" x1="10" x2="10" antialias="false" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-23" y2="-7" y3="-5" x1="-10" x2="-10" x3="-8" antialias="false" closed="false"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-23" y2="-7" y3="-5" x1="10" x2="10" x3="8" antialias="false" closed="false"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text="    M" x="-16" y="8"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text="1" x="-4" y="17"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text="~" x="0" y="17"/>
+        <dynamic_text font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" rotation="0" uuid="{2c7892fc-3925-459c-8cec-cbeebff73077}" text_width="-1" frame="false" x="-48" text_from="ElementInfo" y="9" Valignment="AlignTop" z="12" Halignment="AlignLeft">
+            <text>_Vca</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal orientation="n" name="" uuid="{a9feda33-5bae-492a-81fa-7e283942ea2d}" x="10" y="-23"/>
+        <terminal orientation="n" name="" uuid="{349aa010-91bb-4f9c-9ff7-322f361b421b}" x="-10" y="-23"/>
+    </description>
+</definition>

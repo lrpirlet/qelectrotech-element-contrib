@@ -1,0 +1,19 @@
+<definition height="20" hotspot_y="15" link_type="simple" hotspot_x="33" orientation="dyyy" type="element" width="70" version="0.70">
+    <uuid uuid="{952f2ffd-d368-4826-b946-d3d8e1450c7d}"/>
+    <names>
+        <name lang="pt">Pulsador</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line antialias="false" x1="26" end1="none" length1="1.5" y1="0" x2="14" y2="0" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="5" antialias="true" y="-2.5" x="7.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="5" antialias="true" y="-2.5" x="-12.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" x1="-24" end1="none" length1="1.5" y1="0" x2="-13" y2="0" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" x1="16" end1="none" length1="1.5" y1="0" x2="13" y2="0" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" x1="-10" end1="none" length1="1.5" y1="-6" x2="10" y2="-6" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" x1="0" end1="none" length1="1.5" y1="-7" x2="0" y2="-12" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal y="0" x="-28" orientation="w"/>
+        <terminal y="0" x="30" orientation="e"/>
+    </description>
+</definition>

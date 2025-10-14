@@ -1,0 +1,40 @@
+<definition version="0.90" width="20" height="60" type="element" link_type="simple" hotspot_x="4" hotspot_y="2">
+    <uuid uuid="{df7273c4-e22c-4de3-9060-15f2393a27d0}"/>
+    <names>
+        <name lang="pt">Borne Verde BTWP 16mm</name>
+    </names>
+    <elementInformations/>
+    <informations>&#xd;
+     Author: DXF converter&#xd;
+     License:see http://qelectrotech.org/wiki/doc/elements_license&#xd;
+     Converter version:V3.0 DB&#xd;
+&#xd;
+</informations>
+    <description>
+        <rect style="line-style:normal;line-weight:thin;filling:green;color:green" width="4" height="55" rx="0" ry="0" x="0" y="0" antialias="false"/>
+        <rect style="line-style:normal;line-weight:thin;filling:yellow;color:yellow" width="4" height="55" rx="0" ry="0" x="8" y="0" antialias="false"/>
+        <rect style="line-style:normal;line-weight:thin;filling:HTMLGreenChartreuse;color:HTMLGreenChartreuse" width="4" height="55" rx="0" ry="0" x="4" y="0" antialias="false"/>
+        <ellipse style="line-style:normal;line-weight:thin;filling:gray;color:black" width="5.04847" height="4.95164" x="3.4183" y="35.2996" antialias="false"/>
+        <ellipse style="line-style:normal;line-weight:thin;filling:none;color:black" width="6.0187" height="5.90326" x="2.925" y="34.8319" antialias="false"/>
+        <ellipse style="line-style:normal;line-weight:thin;filling:gray;color:black" width="5.04847" height="4.95164" x="3.41835" y="14.2996" antialias="false"/>
+        <line y1="39.719" y2="36.219" x1="4.3393" x2="7.9077" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="39.3641" y2="35.8641" x1="3.9775" x2="7.5459" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <ellipse style="line-style:normal;line-weight:thin;filling:none;color:black" width="6.0187" height="5.90326" x="2.92502" y="13.8319" antialias="false"/>
+        <line y1="18.719" y2="15.219" x1="4.33925" x2="7.90771" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="18.3641" y2="14.8641" x1="3.97747" x2="7.54593" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="52" y2="52" x1="12" x2="0" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="51" y2="51" x1="12" x2="0" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="53" y2="53" x1="0" x2="12" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="2" y2="2" x1="12" x2="0" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="4" y2="4" x1="12" x2="0" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="3" y2="3" x1="12" x2="0" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="54" y2="54" x1="0" x2="12" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="23" y2="23" x1="0" x2="12" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="32" y2="32" x1="0" x2="12" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="1" y2="1" x1="0" x2="12" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="5" y2="5" x1="0" x2="12" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="50" y2="50" x1="0" x2="12" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="27.5202" y2="27.5259" x1="0" x2="12" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:black" width="12" height="55" rx="0" ry="0" x="0" y="0" antialias="false"/>
+    </description>
+</definition>

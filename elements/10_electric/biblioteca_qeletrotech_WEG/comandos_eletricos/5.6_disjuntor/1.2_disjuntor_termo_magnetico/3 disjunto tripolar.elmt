@@ -1,0 +1,65 @@
+<definition hotspot_y="37" version="0.80" type="element" height="70" width="70" link_type="simple" hotspot_x="40">
+    <uuid uuid="{8d5940e6-e7c0-45d6-8e6e-4159cbbdc945}"/>
+    <names>
+        <name lang="pt">DISJUNTOR TRIFÁSICO</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="comment">_A</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line x1="2" x2="-2" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" y1="-19.5" length1="1.5" y2="-15.5" length2="1.5" antialias="false"/>
+        <line x1="22" x2="18" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" y1="-19.5" length1="1.5" y2="-15.5" length2="1.5" antialias="false"/>
+        <line x1="-18" x2="-22" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" y1="-19.5" length1="1.5" y2="-15.5" length2="1.5" antialias="false"/>
+        <line x1="-2" x2="2" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" y1="-19.5" length1="1.5" y2="-15.5" length2="1.5" antialias="false"/>
+        <line x1="18" x2="22" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" y1="-19.5" length1="1.5" y2="-15.5" length2="1.5" antialias="false"/>
+        <line x1="-22" x2="-18" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" y1="-19.5" length1="1.5" y2="-15.5" length2="1.5" antialias="false"/>
+        <text text="4" x="3" color="#000000" y="19" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text text="6" x="23" color="#000000" y="19" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text text="2" x="-17" color="#000000" y="19" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text text="3" x="3" color="#000000" y="-21" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text text="5" x="23" color="#000000" y="-21" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text text="1" x="-17" color="#000000" y="-21" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <line x1="0" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" y1="-18" length1="1.5" y2="-30" length2="1.5" antialias="false"/>
+        <line x1="-20" x2="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" y1="-18" length1="1.5" y2="-30" length2="1.5" antialias="false"/>
+        <dynamic_text text_from="ElementInfo" Valignment="AlignTop" x="-69" Halignment="AlignLeft" y="0" z="14" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" frame="false" text_width="-1" rotation="0" uuid="{08fc1ab8-6af6-461f-9285-84d06042a535}">
+            <text>_A</text>
+            <info_name>comment</info_name>
+            <composite_text>%{comment}</composite_text>
+        </dynamic_text>
+        <line x1="20" x2="20" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" y1="-18" length1="1.5" y2="-30" length2="1.5" antialias="false"/>
+        <polygon x1="13" x2="20" x3="20" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y1="-15" y2="4" antialias="false" y3="25"/>
+        <polygon x1="-27" x2="-20" x3="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y1="-15" y2="4" antialias="false" y3="25"/>
+        <polygon x1="-7" x2="0" x3="0" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y1="-15" y2="4" antialias="false" y3="25"/>
+        <polygon antialias="false" y1="2" y2="0" y3="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" y4="-5" closed="false" y5="-2" y6="-7" x1="-38" y7="4" x2="-35" y8="7" x3="-37" x4="-34" x5="-32" x6="-24" x7="-20" x8="-20"/>
+        <polygon antialias="false" y1="2" y2="0" y3="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" y4="-5" closed="false" y5="-2" y6="-7" x1="2" y7="4" x2="5" y8="7" x3="3" x4="6" x5="8" x6="16" x7="20" x8="20"/>
+        <polygon antialias="false" y1="2" y2="0" y3="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" y4="-5" closed="false" y5="-2" y6="-7" x1="-18" y7="4" x2="-15" y8="7" x3="-17" x4="-14" x5="-12" x6="-4" x7="0" x8="0"/>
+        <polygon x1="-36" x2="-34" x3="-32" style="line-style:normal;line-weight:thin;filling:black;color:black" y1="5" y2="1" antialias="false" y3="5"/>
+        <polygon x1="4" x2="6" x3="8" style="line-style:normal;line-weight:thin;filling:black;color:black" y1="5" y2="1" antialias="false" y3="5"/>
+        <polygon x1="-16" x2="-14" x3="-12" style="line-style:normal;line-weight:thin;filling:black;color:black" y1="5" y2="1" antialias="false" y3="5"/>
+        <polygon x1="-34" x2="-33" x3="-23" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y1="3" y2="3" antialias="false" y3="-3"/>
+        <polygon x1="6" x2="7" x3="17" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y1="3" y2="3" antialias="false" y3="-3"/>
+        <polygon x1="-14" x2="-13" x3="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y1="3" y2="3" antialias="false" y3="-3"/>
+        <dynamic_text text_from="ElementInfo" Valignment="AlignTop" x="-68" Halignment="AlignLeft" y="-17.5" z="30" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" rotation="0" uuid="{147d7f25-7ecd-4a9f-87da-762579be5eae}">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-25" x2="15" style="line-style:dashed;line-weight:thin;filling:none;color:black" end1="none" end2="none" y1="-10" length1="1.5" y2="-10" length2="1.5" antialias="false"/>
+        <terminal orientation="s" x="-20" y="25" name="" uuid="{902ef89b-5de7-4d61-8ef8-9fb9efc0cd4a}"/>
+        <terminal orientation="n" x="-20" y="-30" name="" uuid="{d1595405-0ba7-422f-8f76-6cc4e7dcbd7d}"/>
+        <terminal orientation="s" x="20" y="25" name="" uuid="{19323e07-23b6-4217-a0b2-290913054219}"/>
+        <terminal orientation="s" x="0" y="25" name="" uuid="{a3751ca0-53f1-418c-965e-a79f9bae36be}"/>
+        <terminal orientation="n" x="0" y="-30" name="" uuid="{d93fc100-542d-4374-8cf1-97a1c7f6d595}"/>
+        <terminal orientation="n" x="20" y="-30" name="" uuid="{7e450164-54c7-4f65-b4ba-0220772dddca}"/>
+    </description>
+</definition>

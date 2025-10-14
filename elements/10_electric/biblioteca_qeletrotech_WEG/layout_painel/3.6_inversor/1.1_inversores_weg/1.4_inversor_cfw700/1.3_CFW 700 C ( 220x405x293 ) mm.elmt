@@ -1,0 +1,85 @@
+<definition version="0.90" width="230" height="410" type="element" link_type="terminal" hotspot_x="5" hotspot_y="2">
+    <uuid uuid="{9779386c-873e-4ea9-a163-738226944093}"/>
+    <names>
+        <name lang="pt">INVERSOR CFW 700</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">generic</kindInformation>
+        <kindInformation name="function">generic</kindInformation>
+    </kindInformations>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect style="line-style:normal;line-weight:thin;filling:lightgray;color:HTMLGraySlateGray" width="220" height="397" rx="5" ry="0" x="0" y="8" antialias="false"/>
+        <ellipse style="line-style:normal;line-weight:thin;filling:white;color:white" width="1.48361" height="4.05846" x="176.657" y="1.5851" antialias="true"/>
+        <ellipse style="line-style:normal;line-weight:thin;filling:white;color:white" width="2.47267" height="2.89889" x="168.162" y="0.2182" antialias="true"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:lightgray" start="144.75" width="4" height="4" angle="252.438" x="209" y="2.6862" antialias="true"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:lightgray" start="23.875" width="4" height="4" angle="132.938" x="209" y="1.6862" antialias="true"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:lightgray" start="144.75" width="4" height="4" angle="252.438" x="7" y="2.6862" antialias="true"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:lightgray" start="23.875" width="4" height="4" angle="132.938" x="7" y="1.6862" antialias="true"/>
+        <rect style="line-style:normal;line-weight:thin;filling:lightgray;color:lightgray" width="7" height="8.6424" rx="0" ry="0" x="0" y="0" antialias="false"/>
+        <rect style="line-style:normal;line-weight:thin;filling:lightgray;color:lightgray" width="220" height="1.6862" rx="0" ry="0" x="0" y="6.6424" antialias="false"/>
+        <rect style="line-style:normal;line-weight:thin;filling:lightgray;color:lightgray" width="198" height="9" rx="0" ry="0" x="11" y="0" antialias="false"/>
+        <rect style="line-style:normal;line-weight:thin;filling:lightgray;color:lightgray" width="7" height="9" rx="0" ry="0" x="213" y="0" antialias="false"/>
+        <rect style="line-style:normal;line-weight:thin;filling:lightgray;color:lightgray" width="220" height="2" rx="0" ry="0" x="0" y="0" antialias="false"/>
+        <polygon y1="5" y2="7" y3="8" x1="215" y4="5" x2="211" style="line-style:normal;line-weight:thin;filling:lightgray;color:lightgray" x3="213" x4="215" antialias="false"/>
+        <polygon y1="1.6862" y2="1.6862" y3="3.6862" x1="211" y4="1.6862" x2="209" style="line-style:normal;line-weight:thin;filling:lightgray;color:lightgray" x3="209" x4="211" antialias="false"/>
+        <polygon y1="1.6862" y2="1.6862" y3="3.6862" x1="9" y4="1.6862" x2="7" style="line-style:normal;line-weight:thin;filling:lightgray;color:lightgray" x3="7" x4="9" antialias="false"/>
+        <polygon y1="5.6862" y2="5.6862" y3="7" x1="7" y4="7" x2="6" style="line-style:normal;line-weight:thin;filling:lightgray;color:lightgray" x3="7" x4="9" antialias="false"/>
+        <polygon y1="1.6862" y2="1.6862" y3="3.6862" x1="211" y4="1.6862" x2="213" style="line-style:normal;line-weight:thin;filling:lightgray;color:lightgray" x3="213" x4="211" antialias="false"/>
+        <polygon y1="6" y2="8" y3="8" x1="209" y4="7" x2="215" style="line-style:normal;line-weight:thin;filling:lightgray;color:lightgray" x3="210" x4="208" antialias="false"/>
+        <polygon y1="5.6862" y2="6.6862" y3="8" x1="12" y4="5.6862" x2="9" style="line-style:normal;line-weight:thin;filling:lightgray;color:lightgray" x3="11" x4="12" antialias="false"/>
+        <polygon y1="1.6862" y2="1.6862" y3="3.6862" x1="11" y4="1.6862" x2="11" style="line-style:normal;line-weight:thin;filling:lightgray;color:lightgray" x3="11" x4="9" antialias="false"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySlateGray" width="220" height="9" rx="0" ry="0" x="0" y="0" antialias="false"/>
+        <rect style="line-style:normal;line-weight:thin;filling:HTMLBlueMidnightBlue;color:black" width="62" height="91.595" rx="4" ry="4" x="151" y="24.642" antialias="false"/>
+        <rect style="line-style:normal;line-weight:thin;filling:lightgray;color:lightgray" width="56" height="53.5239" rx="1.25327" ry="1.25327" x="154" y="36.945" antialias="false"/>
+        <rect style="line-style:normal;line-weight:thin;filling:white;color:lightgray" width="56" height="41.1722" rx="8" ry="8" x="154" y="71" antialias="false"/>
+        <rect style="line-style:normal;line-weight:thin;filling:HTMLGreenGreenYellow;color:black" width="50" height="30.3403" rx="0" ry="0" x="157" y="40.218" antialias="false"/>
+        <rect style="line-style:normal;line-weight:thin;filling:lightgray;color:lightgray" width="56" height="20.8589" rx="0" ry="0" x="154" y="70.686" antialias="false"/>
+        <ellipse style="line-style:normal;line-weight:normal;filling:lightgray;color:lightgray" width="27.6317" height="26.5478" x="169.561" y="74.247" antialias="false"/>
+        <ellipse style="line-style:normal;line-weight:normal;filling:none;color:white" width="23.6843" height="22.7552" x="171.535" y="76.143" antialias="true"/>
+        <line y1="87.521" y2="87.521" x1="171.535" x2="195.219" style="line-style:normal;line-weight:normal;filling:none;color:white" end1="none" end2="none" antialias="true" length1="1.5" length2="1.5"/>
+        <polygon y1="85.625" y2="79.936" y3="85.625" x1="179.43" y4="85.625" x2="183.377" style="line-style:normal;line-weight:thin;filling:white;color:white" x3="187.324" x4="179.43" closed="false" antialias="false"/>
+        <polygon y1="95.105" y2="89.417" y3="89.417" x1="183.377" y4="95.105" x2="179.43" style="line-style:normal;line-weight:thin;filling:white;color:white" x3="187.324" x4="183.377" closed="false" antialias="false"/>
+        <ellipse style="line-style:normal;line-weight:thin;filling:HTMLBlueMidnightBlue;color:gray" width="5.9211" height="5.6888" x="161.667" y="95.105" antialias="false"/>
+        <ellipse style="line-style:normal;line-weight:thin;filling:HTMLBlueMidnightBlue;color:gray" width="5.9211" height="5.6888" x="167.587" y="102.691" antialias="false"/>
+        <ellipse style="line-style:normal;line-weight:thin;filling:red;color:gray" width="5.9211" height="5.6888" x="191.272" y="102.691" antialias="false"/>
+        <ellipse style="line-style:normal;line-weight:thin;filling:HTMLBlueMidnightBlue;color:gray" width="5.9211" height="5.6888" x="179.43" y="104.587" antialias="false"/>
+        <ellipse style="line-style:normal;line-weight:thin;filling:green;color:gray" width="5.9211" height="5.6888" x="197.193" y="95.105" antialias="false"/>
+        <text color="#000000" text="60.0" rotation="0" x="180.768" y="57.586" font="DS-Digital,5,-1,5,50,0,0,0,0,0,Normal"/>
+        <text color="#000000" text="P0002" rotation="0" x="181" y="47.686" font="DS-Digital,5,-1,5,50,0,0,0,0,0,Normal"/>
+        <text color="#ffffff" text="I" rotation="0" x="199.77" y="99.087" font="Agency FB,2,-1,5,50,0,0,0,0,0,Normal"/>
+        <text color="#ffffff" text="0" rotation="0" x="193.611" y="106.774" font="Agency FB,2,-1,5,50,0,0,0,0,0,Normal"/>
+        <text color="#ffffff" text="J" rotation="0" x="181.67" y="108.609" font="Agency FB,2,-1,5,50,0,0,0,0,0,Normal"/>
+        <arc style="line-style:normal;line-weight:thin;filling:none;color:white" start="22.25" width="2.84141" height="3.28977" angle="127.938" x="163.275" y="96.431" antialias="true"/>
+        <arc style="line-style:normal;line-weight:thin;filling:none;color:white" start="205.563" width="2.84141" height="2.74147" angle="122.875" x="163.275" y="96.431" antialias="true"/>
+        <line y1="106.483" y2="106.483" x1="165.614" x2="175.482" style="line-style:normal;line-weight:thin;filling:none;color:white" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="104.587" y2="104.587" x1="165.614" x2="175.482" style="line-style:normal;line-weight:thin;filling:none;color:white" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <polygon y1="74.247" y2="81.832" y3="79.936" x1="159.693" y4="78.039" x2="159.693" y5="74.247" style="line-style:normal;line-weight:thin;filling:none;color:black" x3="167.587" y6="74.247" x4="169.561" x5="169.561" x6="161.667" antialias="false"/>
+        <polygon y1="74.247" y2="74.247" y3="81.832" x1="195.219" y4="79.936" x2="205.087" y5="78.039" style="line-style:normal;line-weight:thin;filling:none;color:black" x3="205.087" y6="74.247" x4="197.193" x5="195.219" x6="195.219" closed="false" antialias="false"/>
+        <text color="#000000" text="HZ" rotation="0" x="193.189" y="57.686" font="DS-Digital,5,-1,5,50,0,0,0,0,0,Normal"/>
+        <text color="#000000" text="RUN" rotation="0" x="160.613" y="44.341" font="DS-Digital,4,-1,5,50,0,0,0,0,0,Normal"/>
+        <text color="#000000" text=" 0" rotation="0" x="161.721" y="69.286" font="DS-Digital,5,-1,5,50,0,0,0,0,0,Normal"/>
+        <text color="#000000" text="60" rotation="0" x="179.833" y="69.056" font="DS-Digital,5,-1,5,50,0,0,0,0,0,Normal"/>
+        <text color="#000000" text="1M" rotation="0" x="194" y="68.686" font="DS-Digital,5,-1,5,50,0,0,0,0,0,Normal"/>
+        <text color="#000000" text="ESC" rotation="0" x="162" y="80.076" font="Agency FB,2,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text color="#000000" text="BACK" rotation="0" x="162" y="77.376" font="Agency FB,2,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text color="#000000" text="ENTER" rotation="0" x="198" y="77.196" font="Agency FB,2,-1,5,75,0,0,0,0,0,Negrito"/>
+        <text color="#000000" text="MENU" rotation="0" x="198" y="79.771" font="Agency FB,2,-1,5,75,0,0,0,0,0,Negrito"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySlateGray" width="210" height="8" rx="0" ry="0" x="5" y="1" antialias="false"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySlateGray" width="70" height="385" rx="5" ry="5" x="147" y="20" antialias="false"/>
+        <polygon y1="131" y2="130" y3="130" x1="178" y4="131" x2="178" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySlateGray" x3="187" x4="187" antialias="false"/>
+        <polygon y1="132" y2="133" y3="133" x1="178" y4="132" x2="178" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySlateGray" x3="187" x4="187" antialias="false"/>
+        <polygon y1="128" y2="129" y3="129" x1="178" y4="128" x2="178" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySlateGray" x3="187" x4="187" antialias="false"/>
+        <arc style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySlateGray" start="180" width="92" height="14" angle="90" x="147" y="112" antialias="true"/>
+        <line y1="126" y2="126" x1="193" x2="220" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySlateGray" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:black" width="220" height="405" rx="0" ry="0" x="0" y="0" antialias="false"/>
+        <text color="#708090" text="CFW 700" rotation="270" x="54" y="390" font="Agency FB,40,-1,5,50,0,0,0,0,0,Normal"/>
+        <polygon y2="12" y3="12" y4="19" y5="19" y6="14" x1="16" y7="14" x2="16" y8="18" x3="3" y9="18" x4="3" x5="8" x6="8" x7="7" x8="7" x9="6" y10="14" x10="6" y11="14" x11="5" y12="18" x12="5" y13="18" x13="4" y14="13" x14="4" style="line-style:normal;line-weight:thin;filling:HTMLGraySlateGray;color:HTMLGraySlateGray" antialias="false" y1="13"/>
+        <polygon y2="19" y3="19" y4="14" y5="14" y6="17" x1="12" y7="17" x2="12" y8="18" x3="9" y9="18" x4="9" x5="12" x6="12" x7="10" x8="10" x9="12" y10="19" x10="12" style="line-style:normal;line-weight:thin;filling:HTMLGraySlateGray;color:HTMLGraySlateGray" antialias="false" y1="18"/>
+        <polygon y2="21" y3="21" y4="14" y5="14" y6="19" x1="3" y7="19" x2="3" y8="20" x3="16" x4="16" x5="13" x6="13" x7="15" x8="15" style="line-style:normal;line-weight:thin;filling:HTMLGraySlateGray;color:HTMLGraySlateGray" antialias="false" y1="20"/>
+        <rect style="line-style:normal;line-weight:thin;filling:lightgray;color:HTMLGraySlateGray" width="1" height="3" rx="0" ry="0" x="14" y="15" antialias="false"/>
+        <rect style="line-style:normal;line-weight:thin;filling:lightgray;color:HTMLGraySlateGray" width="1" height="1" rx="0" ry="0" x="10" y="15" antialias="false"/>
+        <text color="#708090" text="VECTOR   INVERTER" rotation="270" x="42" y="231" font="Agency FB,16,-1,5,50,0,0,0,0,0,Normal"/>
+    </description>
+</definition>

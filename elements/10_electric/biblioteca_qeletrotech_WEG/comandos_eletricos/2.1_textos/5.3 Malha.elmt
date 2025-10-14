@@ -1,0 +1,13 @@
+<definition type="element" version="0.80" height="30" width="80" link_type="terminal" hotspot_x="39" hotspot_y="5">
+    <uuid uuid="{22123765-5e19-4574-8599-2a36293248b6}"/>
+    <names>
+        <name lang="pt"> PE</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <ellipse x="-35" y="0" height="20" style="line-style:dashed;line-weight:normal;filling:none;color:black" width="70" antialias="false"/>
+        <terminal x="35" y="10" name="" orientation="e" uuid="{5330cc63-3fbd-4231-9b1b-9204d917634d}"/>
+        <terminal x="-35" y="10" name="" orientation="w" uuid="{f8479e94-d3ae-476c-8a9e-8baba420acef}"/>
+    </description>
+</definition>

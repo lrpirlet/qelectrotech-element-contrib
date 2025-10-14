@@ -1,0 +1,32 @@
+<definition height="50" version="0.90" width="30" link_type="slave" hotspot_x="23" type="element" hotspot_y="24">
+    <uuid uuid="{2f3d31fb-068d-4b50-859f-ccb11cbb3a27}"/>
+    <names>
+        <name lang="pt">CONTATO TEMPORIZADOR  NA</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">NO</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" text_width="-1" text_from="UserText" uuid="{60388ffc-05ab-4efa-aca8-2ca70addade7}" rotation="0" Valignment="AlignTop" x="-1" keep_visual_rotation="true" y="8" Halignment="AlignLeft" z="1" frame="false">
+            <text>18</text>
+        </dynamic_text>
+        <arc height="10" style="line-style:normal;line-weight:thin;filling:none;color:black" start="86.3125" width="10" x="-19" angle="188.375" y="-5" antialias="true"/>
+        <dynamic_text font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" text_width="-1" text_from="UserText" uuid="{54f717e9-11b5-40c5-8088-e7e779f6067e}" rotation="0" Valignment="AlignTop" x="-1" keep_visual_rotation="true" y="-25" Halignment="AlignLeft" z="3" frame="false">
+            <text>15</text>
+        </dynamic_text>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-20" y2="-7" x1="0" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="8" y2="-7" x1="0" x2="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <dynamic_text font="Sans Serif,8,-1,5,50,0,0,0,0,0" text_width="-1" text_from="ElementInfo" uuid="{f2702b00-12b7-4ef6-b885-c4f76f93ff9f}" rotation="0" Valignment="AlignTop" x="-44" keep_visual_rotation="true" y="-11" Halignment="AlignLeft" z="7" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-1" y2="-1" x1="-19" x2="-4" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="1" y2="1" x1="-19" x2="-3" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <polygon y1="-7" y2="8" closed="false" y3="20" x1="-7" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="0" antialias="false"/>
+        <terminal orientation="s" name="" uuid="{e985f57e-a373-44c0-9277-79772690a95f}" x="0" y="20" type="Generic"/>
+        <terminal orientation="n" name="" uuid="{9b6545c4-8a63-4a37-b3ff-bdfbd0dcdda3}" x="0" y="-20" type="Generic"/>
+    </description>
+</definition>

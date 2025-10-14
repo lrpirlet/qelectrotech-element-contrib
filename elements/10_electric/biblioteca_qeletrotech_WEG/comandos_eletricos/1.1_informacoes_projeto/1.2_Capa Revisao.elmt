@@ -1,0 +1,78 @@
+<definition type="element" width="1200" version="0.90" link_type="simple" hotspot_x="5" hotspot_y="495" height="500">
+    <uuid uuid="{c33cb657-3b2f-4d62-a89e-9fa45418939f}"/>
+    <names>
+        <name lang="pt">Informações do Projeto</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text rotation="0" font="Sans Serif,11,-1,5,50,0,0,0,0,0" color="#000000" x="686" y="-150" text="Frequência Nominal:"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySlateGray" width="1190" x="0" rx="0" y="-490" ry="0" antialias="false" height="200"/>
+        <text rotation="0" font="Sans Serif,11,-1,5,50,0,0,0,0,0" color="#000000" x="20" y="-137" text="Revisão:"/>
+        <text rotation="0" font="Sans Serif,11,-1,5,50,0,0,0,0,0" color="#000000" x="686" y="-220" text="Tensão Nominal:"/>
+        <text rotation="0" font="Sans Serif,11,-1,5,50,0,0,0,0,0" color="#000000" x="20" y="-60" text="Contato:"/>
+        <text rotation="0" font="Sans Serif,11,-1,5,50,0,0,0,0,0" color="#000000" x="686" y="-185" text="Corrente Nominal:"/>
+        <text rotation="0" font="Sans Serif,11,-1,5,50,0,0,0,0,0" color="#000000" x="20" y="-230" text="Local de Instalação:"/>
+        <text rotation="0" font="Sans Serif,11,-1,5,50,0,0,0,0,0" color="#000000" x="686" y="-250" text="Potência:"/>
+        <text rotation="0" font="Sans Serif,11,-1,5,50,0,0,0,0,0" color="#000000" x="20" y="-185" text="Responsável pelo Projeto:"/>
+        <text rotation="0" font="Sans Serif,11,-1,5,50,0,0,0,0,0" color="#000000" x="21" y="-396" text="Descrição do Projeto:"/>
+        <line y1="0" end1="none" y2="0" end2="none" x1="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySlateGray" x2="1190" length1="1.5" length2="1.5" antialias="false"/>
+        <text rotation="0" font="Sans Serif,11,-1,5,50,0,0,0,0,0" color="#000000" x="20" y="-350" text="Número do Desenho:"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySlateGray" width="1190" x="0" rx="0" y="-90" ry="0" antialias="false" height="90"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySlateGray" width="1190" x="0" rx="0" y="-290" ry="0" antialias="false" height="200"/>
+        <line y1="-290" end1="none" y2="-90" end2="none" x1="595" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySlateGray" x2="595" length1="1.5" length2="1.5" antialias="false"/>
+        <text rotation="0" font="Sans Serif,11,-1,5,50,0,0,0,0,0" color="#000000" x="22" y="-438" text="Empresa:"/>
+        <line y1="-450" end1="none" y2="0" end2="none" x1="1190" style="line-style:normal;line-weight:eleve;filling:none;color:HTMLGraySlateGray" x2="1190" length1="1.5" length2="1.5" antialias="false"/>
+        <line y1="0" end1="none" y2="0" end2="none" x1="50" style="line-style:normal;line-weight:eleve;filling:none;color:HTMLGraySlateGray" x2="1190" length1="1.5" length2="1.5" antialias="false"/>
+        <dynamic_text text_from="UserText" Halignment="AlignLeft" rotation="0" font="Sans Serif,18,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="351" uuid="{665e9e61-7528-4e23-9c57-2fe738302145}" y="-383" z="30" frame="false" Valignment="AlignTop">
+            <text>......................</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" Halignment="AlignLeft" rotation="0" font="Sans Serif,11,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="885" uuid="{665e9e61-7528-4e23-9c57-2fe738302145}" y="-269" z="30" frame="false" Valignment="AlignTop">
+            <text>_KVA</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" Halignment="AlignLeft" rotation="0" font="Sans Serif,18,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="351" uuid="{665e9e61-7528-4e23-9c57-2fe738302145}" y="-467" z="30" frame="false" Valignment="AlignTop">
+            <text>......................</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" Halignment="AlignLeft" rotation="0" font="Sans Serif,11,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="885" uuid="{665e9e61-7528-4e23-9c57-2fe738302145}" y="-239" z="30" frame="false" Valignment="AlignTop">
+            <text>_V</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" Halignment="AlignLeft" rotation="0" font="Sans Serif,18,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="351" uuid="{665e9e61-7528-4e23-9c57-2fe738302145}" y="-425" z="30" frame="false" Valignment="AlignTop">
+            <text>......................</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" Halignment="AlignLeft" rotation="0" font="Sans Serif,11,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="76" uuid="{665e9e61-7528-4e23-9c57-2fe738302145}" y="-50" z="30" frame="false" Valignment="AlignTop">
+            <text>......................</text>
+            <color>#ff0000</color>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" Halignment="AlignLeft" rotation="0" font="Sans Serif,11,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="260" uuid="{665e9e61-7528-4e23-9c57-2fe738302145}" y="-249" z="30" frame="false" Valignment="AlignTop">
+            <text>......................</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" Halignment="AlignLeft" rotation="0" font="Sans Serif,11,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="261" uuid="{665e9e61-7528-4e23-9c57-2fe738302145}" y="-208" z="30" frame="false" Valignment="AlignTop">
+            <text>......................</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" Halignment="AlignLeft" rotation="0" font="Sans Serif,11,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="885" uuid="{665e9e61-7528-4e23-9c57-2fe738302145}" y="-173" z="30" frame="false" Valignment="AlignTop">
+            <text>_HZ</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" Halignment="AlignLeft" rotation="0" font="Sans Serif,11,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="885" uuid="{665e9e61-7528-4e23-9c57-2fe738302145}" y="-208" z="30" frame="false" Valignment="AlignTop">
+            <text>_A</text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" Halignment="AlignLeft" rotation="0" font="Sans Serif,11,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="261" uuid="{665e9e61-7528-4e23-9c57-2fe738302145}" y="-160" z="30" frame="false" Valignment="AlignTop">
+            <text>......................</text>
+        </dynamic_text>
+    </description>
+</definition>

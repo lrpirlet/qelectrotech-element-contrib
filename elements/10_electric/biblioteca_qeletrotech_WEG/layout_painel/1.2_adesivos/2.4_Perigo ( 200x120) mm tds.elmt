@@ -1,0 +1,15 @@
+<definition link_type="simple" hotspot_x="5" hotspot_y="5" version="0.80" type="element" width="210" height="130">
+    <uuid uuid="{9bbed27d-ef1e-4f14-9d05-f05fdc98a8d5}"/>
+    <names>
+        <name lang="pt">Advertência</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect rx="1" antialias="false" x="0" ry="0" y="0" style="line-style:normal;line-weight:thin;filling:HTMLYellowGold;color:black" width="200" height="120"/>
+        <text rotation="0" x="6" y="94" text="                             A desativação ou remoção da chave significa a eliminação de medida &#xa;protetora  contra choques elétricos e risco de vida para os usuários da instalação." color="#000000" font="Calibri,4,-1,5,75,0,0,0,0,0,Bold"/>
+        <text rotation="0" x="75" y="17" text="ADVERTÊNCIA:" color="#ff0000" font="Calibri,5,-1,5,75,0,0,0,0,0,Bold"/>
+        <rect rx="5" antialias="false" x="3" ry="4" y="3" style="line-style:normal;line-weight:normal;filling:none;color:red" width="194" height="114"/>
+        <text rotation="0" x="6" y="28" text="1 – Quando um disjuntor ou fusível atua, desligando algum circuito ou a instalação &#xa;inteira, a causa pode ser uma sobrecarga ou um curto circuito. Desligamentos&#xa; frequentes são sinais de sobrecarga. Por isso, nunca troque seus disjuntores ou&#xa; fusíveis por outros de maior corrente (maior amperagem) simplesmente. Como&#xa; regra a troca de disjuntor ou fusível por outro de maior corrente requer, antes,&#xa; a troca dos fios e cabos elétricos, por outros de maior seção (bitola).&#xa;2 – Da mesma forma, nunca desative ou remova a chave automática de proteção contra&#xa; choques elétricos (dispositivo DR), mesmo em caso de desligamento sem causa aparente.&#xa; Se os desligamentos forem frequentes e, principalmente, se as tentativas de ligarem a&#xa; chave não tiverem êxito, isto significa, muito provavelmente, que a instalação elétrica &#xa;apresenta anomalias internas, que só podem ser identificadas e corrigidas por profissionais &#xa;qualificados. " color="#000000" font="Calibri,4,-1,5,50,0,0,0,0,0,Regular"/>
+    </description>
+</definition>

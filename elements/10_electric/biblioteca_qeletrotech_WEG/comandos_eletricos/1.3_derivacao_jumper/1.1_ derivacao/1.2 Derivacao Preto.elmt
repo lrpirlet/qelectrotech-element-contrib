@@ -1,0 +1,29 @@
+<definition width="20" type="element" link_type="terminal" height="20" hotspot_x="9" hotspot_y="9" version="0.80">
+    <uuid uuid="{31d5e631-36f1-4fc9-8374-347b803cd841}"/>
+    <names>
+        <name lang="pt">Derivação</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y1="-5" y2="5" end1="none" end2="none" x1="0" antialias="false" x2="0" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="-2" y="-2" antialias="false" diameter="4" style="line-style:normal;line-weight:thin;filling:black;color:black"/>
+        <line y1="0" y2="0" end1="none" end2="none" x1="-5" antialias="false" x2="5" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal orientation="w" x="-5" y="0" name="" uuid="{1d2b8284-e7aa-4b46-8c15-2a2444db536d}"/>
+        <terminal orientation="e" x="5" y="0" name="" uuid="{ed4a39c9-503e-45b7-a5ed-331db71c5311}"/>
+        <terminal orientation="n" x="0" y="-5" name="" uuid="{0b6cec5b-be86-4a16-a463-0d8693cdf1c7}"/>
+        <terminal orientation="s" x="0" y="5" name="" uuid="{94520087-6739-4077-8c91-83fc65af62db}"/>
+    </description>
+</definition>

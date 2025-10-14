@@ -1,0 +1,11 @@
+<definition height="40" width="20" link_type="simple" type="element" hotspot_x="15" hotspot_y="20" version="0.90">
+    <uuid uuid="{dc855f7d-ccb7-4c22-8951-46ef91a860e7}"/>
+    <names>
+        <name lang="pt">Trilho</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect height="35" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="10" x="-10" y="-18" antialias="false"/>
+    </description>
+</definition>

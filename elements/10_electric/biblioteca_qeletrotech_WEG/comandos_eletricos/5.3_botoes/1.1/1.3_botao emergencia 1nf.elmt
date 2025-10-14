@@ -1,0 +1,45 @@
+<definition version="0.90" type="element" link_type="master" height="50" hotspot_x="18" hotspot_y="24" width="30">
+    <uuid uuid="{fdbc663f-4516-4910-9eb8-2a7ce23cfb9f}"/>
+    <names>
+        <name lang="pt">BOTÃO DE EMERGÊNCIA 1NF</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="description">Botão de Emergência com Trava 22mm  1nf </elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line length2="1.5" end1="none" antialias="true" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-7" y2="-7" x1="0" x2="8" length1="1.5"/>
+        <arc x="-14.3613" y="-5" antialias="true" height="10" style="line-style:normal;line-weight:normal;filling:none;color:red" start="-90" width="10.4922" angle="-180"/>
+        <line length2="1.5" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:red" y1="-5" y2="5" x1="-9.1152" x2="-9.1152" length1="1.5"/>
+        <polygon y1="5" y2="4" y3="3" y4="1" y5="0" y6="-2" y7="-3" y8="-4" y9="-5" x10="-10" x11="-10" x12="-9" x13="-9" x14="-9" x15="-9" x16="-9" x17="-9" x18="-11" x1="-9" x2="-12" x3="-13" x4="-14" x5="-14" x6="-14" style="line-style:normal;line-weight:thin;filling:red;color:red" x7="-13" x8="-12" x9="-11" y10="-5" y11="-5" y12="-4" y13="-2" y14="-1" y15="1" y16="3" y17="5" y18="4" antialias="false"/>
+        <line length2="1.5" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-7" y2="-20" x1="0" x2="0" length1="1.5"/>
+        <dynamic_text rotation="0" x="-43" y="-11" Valignment="AlignTop" z="8" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" keep_visual_rotation="true" text_from="ElementInfo" uuid="{1fe0d8ed-7600-472e-8f55-a62d2d7c8140}" frame="false" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x4="-3" x5="3" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" closed="false" y1="0" y2="0" y3="-3" x1="-9" y4="0" x2="-6" y5="0" x3="-6"/>
+        <line length2="1.5" end1="none" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:yellow" y1="-6" y2="6" x1="-9" x2="-9" length1="1.5"/>
+        <polygon antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y1="-9" y2="8" y3="20" x1="7" x2="0" x3="0"/>
+        <dynamic_text rotation="0" x="-1" y="5" Valignment="AlignTop" z="12" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normal" Halignment="AlignLeft" keep_visual_rotation="false" text_from="UserText" uuid="{17ad539e-0978-4dc6-97c2-c6fa126828e4}" frame="false" text_width="0">
+            <text>2</text>
+        </dynamic_text>
+        <dynamic_text rotation="0" x="-1" y="-23" Valignment="AlignTop" z="12" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normal" Halignment="AlignLeft" keep_visual_rotation="false" text_from="UserText" uuid="{17ad539e-0978-4dc6-97c2-c6fa126828e4}" frame="false" text_width="0">
+            <text>1</text>
+        </dynamic_text>
+        <terminal x="0" y="20" type="Generic" name="" uuid="{6a10b10f-32e6-4a00-a638-07e0d2ea9f9f}" orientation="s"/>
+        <terminal x="0" y="-20" type="Generic" name="" uuid="{8def04c4-363a-42d3-968a-0e53755f0ae4}" orientation="n"/>
+    </description>
+</definition>

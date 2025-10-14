@@ -1,0 +1,46 @@
+<definition hotspot_x="6" hotspot_y="6" type="element" width="110" version="0.80" height="110" link_type="simple">
+    <uuid uuid="{fedaa5aa-2c1a-4a30-9d06-d01c80b30e8b}"/>
+    <names>
+        <name lang="pt">Multimedidor</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect antialias="false" x="0" y="0" width="98" height="98" rx="2" ry="2" style="line-style:normal;line-weight:thin;filling:black;color:black"/>
+        <rect antialias="false" x="3" y="3" width="92" height="92" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:black;color:HTMLGrayDarkSlateGray"/>
+        <rect antialias="false" x="12" y="26" width="74" height="29" rx="1" ry="1" style="line-style:normal;line-weight:thin;filling:black;color:HTMLGrayDarkSlateGray"/>
+        <rect antialias="false" x="14" y="28" width="70" height="25" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGreenLimeGreen;color:black"/>
+        <polygon antialias="false" y1="78" y2="63" y3="78" x1="15" y4="93" x2="30" y5="78" x3="45" x4="30" x5="15" style="line-style:normal;line-weight:thin;filling:green;color:black"/>
+        <polygon antialias="false" y1="78" y2="75" y3="78" x1="27" y4="81" x2="30" x3="33" x4="30" style="line-style:normal;line-weight:thin;filling:black;color:black"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" y1="70" y2="86" x1="22" x2="38" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" y1="86" y2="70" x1="22" x2="38" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect antialias="false" x="54" y="73" width="10" height="10" rx="1" ry="1" style="line-style:normal;line-weight:thin;filling:green;color:black"/>
+        <rect antialias="false" x="71" y="73" width="10" height="10" rx="1" ry="1" style="line-style:normal;line-weight:thin;filling:green;color:black"/>
+        <polygon antialias="false" y1="75" y2="78" y3="81" x1="38" y4="79" x2="41" y5="79" x3="38" y6="77" x4="38" y7="77" x5="35" x6="35" x7="38" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon antialias="false" closed="false" y1="75" y2="78" y3="81" y4="79" y5="79" y6="77" x1="22" y7="77" x2="19" y8="75" x3="22" x4="22" x5="25" x6="25" style="line-style:normal;line-weight:thin;filling:none;color:black" x7="22" x8="22"/>
+        <polygon antialias="false" closed="false" y1="70" y2="67" y3="70" y4="70" y5="73" y6="73" x1="27" y7="70" x2="30" y8="70" x3="33" x4="31" x5="31" x6="29" style="line-style:normal;line-weight:thin;filling:none;color:black" x7="29" x8="27"/>
+        <polygon antialias="false" closed="false" y1="86" y2="89" y3="86" y4="86" y5="83" y6="83" x1="27" y7="86" x2="30" y8="86" x3="33" x4="31" x5="31" x6="29" style="line-style:normal;line-weight:thin;filling:none;color:black" x7="29" x8="27"/>
+        <text text="PowerNET M-200" color="#ffffff" x="46" y="60" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text text="CST     Resumo" color="#ffffff" x="15" y="33" font="DS-Digital,4,-1,5,50,0,0,0,0,0,Normal" rotation="0"/>
+        <text text="V" color="#ffffff" x="15" y="40" font="DS-Digital,5,-1,5,50,0,0,0,0,0,Normal" rotation="0"/>
+        <text text="I" color="#ffffff" x="15" y="45" font="DS-Digital,5,-1,5,50,0,0,0,0,0,Normal" rotation="0"/>
+        <text text="PFv" color="#ffffff" x="16" y="51" font="DS-Digital,4,-1,5,50,0,0,0,0,0,Normal" rotation="0"/>
+        <circle antialias="false" diameter="2" x="20" y="39" style="line-style:normal;line-weight:thin;filling:none;color:white"/>
+        <circle antialias="false" diameter="2" x="20" y="44" style="line-style:normal;line-weight:thin;filling:none;color:white"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" y1="39" y2="41" x1="22" x2="20" style="line-style:normal;line-weight:thin;filling:none;color:white"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" y1="44" y2="46" x1="22" x2="20" style="line-style:normal;line-weight:thin;filling:none;color:white"/>
+        <text text="PROG" color="#000000" x="55" y="80" font="Sans Serif,2,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text text="CLEAR" color="#000000" x="71" y="80" font="Sans Serif,2,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text text="000.00 V" color="#ffffff" x="55" y="38" font="DS-Digital,5,-1,5,50,0,0,0,0,0,Normal" rotation="0"/>
+        <text text="0.00 i" color="#ffffff" x="59" y="50" font="DS-Digital,5,-1,5,50,0,0,0,0,0,Normal" rotation="0"/>
+        <text text="0.00 A" color="#ffffff" x="59" y="44" font="DS-Digital,5,-1,5,50,0,0,0,0,0,Normal" rotation="0"/>
+        <text text="3" color="#ffffff" x="18" y="40" font="DS-Digital,2,-1,5,50,0,0,0,0,0,Normal" rotation="0"/>
+        <text text="3" color="#ffffff" x="18" y="46" font="DS-Digital,2,-1,5,50,0,0,0,0,0,Normal" rotation="0"/>
+        <text text="Power Quality" color="#ffffff" x="28" y="20" font="Sans Serif,2,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <polygon antialias="false" y1="18.1" y2="18.1" y3="14.1782" x1="15.6191" y4="18.1" x2="16.2922" y5="14.1782" x3="17.2598" y6="18.1" x4="18.9847" y7="18.1" x5="20.6675" x6="21.6772" closed="false" x7="22.3503" style="line-style:normal;line-weight:normal;filling:none;color:green"/>
+        <rect antialias="false" x="13" y="13" width="1.1781" height="0.918" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:green;color:green"/>
+        <rect antialias="false" x="13" y="14.53" width="1.1781" height="3.978" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:green;color:green"/>
+        <arc antialias="true" x="22.4611" start="267.75" y="14.0806" width="3.60781" angle="91.25" height="4.05338" style="line-style:normal;line-weight:normal;filling:none;color:green"/>
+        <arc antialias="true" x="26.0689" start="90" y="14.0806" width="3.60781" angle="90" height="4.05338" style="line-style:normal;line-weight:normal;filling:none;color:green"/>
+    </description>
+</definition>

@@ -1,0 +1,36 @@
+<definition type="element" hotspot_y="38" orientation="dyyy" link_type="simple" hotspot_x="34" height="70" width="70" version="0.70">
+    <uuid uuid="{c439febc-cc55-4191-965e-ac6ef7b99c87}"/>
+    <names>
+        <name lang="pt">Interruptor Simples de Três Seções</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect x="-20" y="-33" antialias="false" height="60" width="40" style="line-style:dashed;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" length1="1.5" y2="20" x2="14" end2="none" length2="1.5" antialias="false" y1="20" x1="26" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" length1="1.5" y2="0" x2="14" end2="none" length2="1.5" antialias="false" y1="0" x1="26" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="5" x="7.5" y="-2.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="5" x="7.5" y="17.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <input size="9" x="10" tagg="label" rotate="true" text="_" y="35"/>
+        <circle diameter="5" x="-12.5" y="17.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" length1="1.5" y2="20" x2="-13" end2="none" length2="1.5" antialias="false" y1="20" x1="-24" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="5" x="-12.5" y="-2.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" length1="1.5" y2="0" x2="-13" end2="none" length2="1.5" antialias="false" y1="0" x1="-24" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" length1="1.5" y2="20" x2="13" end2="none" length2="1.5" antialias="false" y1="20" x1="16" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" length1="1.5" y2="14" x2="6" end2="none" length2="1.5" antialias="false" y1="19" x1="-7" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" length1="1.5" y2="-20" x2="14" end2="none" length2="1.5" antialias="false" y1="-20" x1="26" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="5" x="7.5" y="-22.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" length1="1.5" y2="0" x2="13" end2="none" length2="1.5" antialias="false" y1="0" x1="16" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="5" x="-12.5" y="-22.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" length1="1.5" y2="-6" x2="6" end2="none" length2="1.5" antialias="false" y1="-1" x1="-7" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" length1="1.5" y2="-20" x2="-13" end2="none" length2="1.5" antialias="false" y1="-20" x1="-24" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" length1="1.5" y2="-20" x2="13" end2="none" length2="1.5" antialias="false" y1="-20" x1="16" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" length1="1.5" y2="-26" x2="6" end2="none" length2="1.5" antialias="false" y1="-21" x1="-7" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal x="29" y="20" orientation="e"/>
+        <terminal x="-29" y="20" orientation="w"/>
+        <terminal x="29" y="0" orientation="e"/>
+        <terminal x="29" y="-20" orientation="e"/>
+        <terminal x="-28" y="0" orientation="w"/>
+        <terminal x="-28" y="-20" orientation="w"/>
+    </description>
+</definition>

@@ -1,0 +1,34 @@
+<definition version="0.90" link_type="simple" height="40" hotspot_x="5" hotspot_y="20" type="element" width="10">
+    <uuid uuid="{dce1767f-be2e-4dc6-a781-826fdd2279ca}"/>
+    <names>
+        <name lang="pt">Fusível  2A</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1">F</elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Fusível  2,5A</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">WEG</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect height="33" rx="0" antialias="false" ry="0" x="-3" y="-17" style="line-style:normal;line-weight:thin;filling:none;color:black" width="6"/>
+        <dynamic_text rotation="0" frame="false" text_width="-1" uuid="{5eba4d73-65b5-4510-8809-8689c278f27b}" keep_visual_rotation="true" x="-35" Valignment="AlignTop" y="-15" z="2" Halignment="AlignLeft" font="Sans Serif,8,-1,5,50,0,0,0,0,0" text_from="ElementInfo">
+            <text>F</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y1="-17" y2="16" length1="1.5" length2="1.5" x1="0" x2="0" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:gray" end1="none" end2="none"/>
+        <line y1="-17" y2="-17" length1="1.5" length2="1.5" x1="-3" x2="3" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="16" y2="16" length1="1.5" length2="1.5" x1="-3" x2="3" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="-17" y2="16" length1="1.5" length2="1.5" x1="0" x2="0" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none"/>
+        <dynamic_text rotation="0" frame="false" text_width="-1" uuid="{02caeaea-6ab8-4ef7-b34c-3498aeb42036}" keep_visual_rotation="true" x="-35" Valignment="AlignTop" y="5" z="7" Halignment="AlignLeft" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" text_from="UserText">
+            <text>2A</text>
+        </dynamic_text>
+    </description>
+</definition>

@@ -1,0 +1,71 @@
+<definition height="80" version="0.90" width="80" link_type="master" hotspot_x="48" type="element" hotspot_y="37">
+    <uuid uuid="{474a0521-24cb-413e-99ab-acdd0b1ca90f}"/>
+    <names>
+        <name lang="pt">Chave Seccionadora Trifásica </name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="description" show="1">SECCIONADORA COMPACTA  MSW25-P3H1 25A TOPO</elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1">CH</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">15481462</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">WEG</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1">CH15481462</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <polygon y1="-10" y2="15" closed="false" y3="35" x1="-30" x2="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="-20" antialias="false"/>
+        <polygon y1="-10" y2="15" closed="false" y3="35" x1="-10" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="0" antialias="false"/>
+        <polygon y1="-10" y2="15" closed="false" y3="35" x1="10" x2="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="20" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="0" y2="0" x1="3" x2="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="0" y2="0" x1="-9" x2="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="0" y2="0" x1="-17" x2="-15" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="0" y2="0" x1="-21" x2="-19" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="0" y2="0" x1="7" x2="9" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="0" y2="0" x1="-5" x2="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="0" y2="0" x1="-1" x2="1" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="0" y2="0" x1="-13" x2="-11" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="0" y2="0" x1="11" x2="13" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="-17" y="30" text="1"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="3" y="30" text="3"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="23" y="-16" text="6"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="3" y="-16" text="4"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="-17" y="-16" text="2"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="23" y="30" text="5"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-30" y2="-10" x1="-20" x2="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-30" y2="-10" x1="0" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-30" y2="-10" x1="20" x2="20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-10" y2="-10" x1="-22" x2="-18" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-10" y2="-10" x1="-2" x2="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-10" y2="-10" x1="18" x2="22" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="0" y2="0" x1="-40.3" x2="-43.15" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="0" y2="0" x1="-34" x2="-26" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="6" y2="6" x1="-43.15" x2="-40.3" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-5" y2="6" x1="-43.15" x2="-43.15" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-5" y2="-5" x1="-46" x2="-43.15" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="0" y2="4" x1="-34" x2="-37" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="0" y2="4" x1="-40" x2="-37" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="0" y2="0" x1="-25" x2="-23" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" text_width="-1" text_from="ElementInfo" uuid="{cd4c2803-0626-4673-a92c-4ab0752bcc6e}" rotation="0" Valignment="AlignTop" x="-79.75" keep_visual_rotation="true" y="8" Halignment="AlignLeft" z="37" frame="false">
+            <text></text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" text_width="-1" text_from="ElementInfo" uuid="{789e6c6f-9e57-4d4c-9b1c-155aca2381ed}" rotation="0" Valignment="AlignTop" x="-79.75" keep_visual_rotation="true" y="-10" Halignment="AlignLeft" z="38" frame="false">
+            <text>CH</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal orientation="n" name="" uuid="{28496149-d747-4f72-aaf6-1619d86ddb16}" x="-20" y="-30" type="Generic"/>
+        <terminal orientation="s" name="" uuid="{82bfff5b-7a59-4712-a5ae-6508d6efcc35}" x="20" y="35" type="Generic"/>
+        <terminal orientation="s" name="" uuid="{d83f40de-01d7-411d-a95e-1b5b1a9a410d}" x="0" y="35" type="Generic"/>
+        <terminal orientation="n" name="" uuid="{ad1def35-bb52-4f81-aedf-5e570c0224b0}" x="0" y="-30" type="Generic"/>
+        <terminal orientation="n" name="" uuid="{8829db40-1c00-4d18-b6c8-22e64a890982}" x="20" y="-30" type="Generic"/>
+        <terminal orientation="s" name="" uuid="{feafafc8-2591-47eb-9710-3af7bd797a86}" x="-20" y="35" type="Generic"/>
+    </description>
+</definition>

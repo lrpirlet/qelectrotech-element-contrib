@@ -1,0 +1,45 @@
+<definition height="50" version="0.90" width="30" link_type="master" hotspot_x="18" type="element" hotspot_y="24">
+    <uuid uuid="{3da4c25a-2173-47bc-91fa-d02d01a38ed6}"/>
+    <names>
+        <name lang="pt">BOTÃO DE EMERGÊNCIA 1NF</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="description" show="1">BOTÃO DE EMERGÊNCIA GIRA PARA -1NF MONITORADO</elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1">EM</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">12931093</elementInformation>
+        <elementInformation name="manufacturer" show="1">WEG</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1">B12931093</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-7" y2="-7" x1="0" x2="8" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc height="10" style="line-style:normal;line-weight:normal;filling:none;color:gray" start="-90" width="10.4922" x="-14.3613" angle="-180" y="-5" antialias="true"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-5" y2="5" x1="-9.1152" x2="-9.1152" style="line-style:normal;line-weight:normal;filling:none;color:gray" antialias="false"/>
+        <polygon x16="-9" antialias="false" x17="-9" x18="-11" x1="-9" x2="-12" x3="-13" x4="-14" y10="-5" x5="-14" y11="-5" x6="-14" y12="-4" x7="-13" y13="-2" x8="-12" y14="-1" x9="-11" y15="1" y16="3" y17="5" style="line-style:normal;line-weight:thin;filling:gray;color:gray" y18="4" y1="5" y2="4" y3="3" y4="1" y5="0" y6="-2" y7="-3" y8="-4" y9="-5" x10="-10" x11="-10" x12="-9" x13="-9" x14="-9" x15="-9"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-7" y2="-20" x1="0" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon y1="0" y2="0" closed="false" y3="-3" x1="-9" y4="0" x2="-6" y5="0" style="line-style:normal;line-weight:thin;filling:none;color:black" x3="-6" x4="-3" x5="3" antialias="false"/>
+        <line end1="none" end2="none" length1="1.5" length2="1.5" y1="-6" y2="6" x1="-9" x2="-9" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_width="-1" text_from="ElementInfo" uuid="{1fe0d8ed-7600-472e-8f55-a62d2d7c8140}" rotation="0" Valignment="AlignTop" x="-43" keep_visual_rotation="true" y="-11" Halignment="AlignLeft" z="8" frame="false">
+            <text>EM</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon y1="-9" y2="8" closed="false" y3="20" x1="7" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="0" antialias="false"/>
+        <dynamic_text font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normal" text_width="0" text_from="UserText" uuid="{17ad539e-0978-4dc6-97c2-c6fa126828e4}" rotation="0" Valignment="AlignTop" x="-1" keep_visual_rotation="false" y="5" Halignment="AlignLeft" z="12" frame="false">
+            <text>2</text>
+        </dynamic_text>
+        <dynamic_text font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normal" text_width="0" text_from="UserText" uuid="{17ad539e-0978-4dc6-97c2-c6fa126828e4}" rotation="0" Valignment="AlignTop" x="-1" keep_visual_rotation="false" y="-23" Halignment="AlignLeft" z="12" frame="false">
+            <text>1</text>
+        </dynamic_text>
+        <terminal orientation="s" name="" uuid="{6a10b10f-32e6-4a00-a638-07e0d2ea9f9f}" x="0" y="20" type="Generic"/>
+        <terminal orientation="n" name="" uuid="{8def04c4-363a-42d3-968a-0e53755f0ae4}" x="0" y="-20" type="Generic"/>
+    </description>
+</definition>

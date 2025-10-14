@@ -1,0 +1,29 @@
+<definition hotspot_y="11" type="element" hotspot_x="50" link_type="simple" width="100" version="0.70" height="20" orientation="dyyy">
+    <uuid uuid="{b24b9686-18d1-46cc-b73b-f0c10cff68f9}"/>
+    <names>
+        <name lang="pt">Barramento Terra</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:green" diameter="4" antialias="false" x="-12" y="-1.5"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:green" diameter="4" antialias="false" x="38" y="-1.5"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:green" diameter="4" antialias="false" x="28" y="-1.5"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:green" diameter="4" antialias="false" x="-32" y="-1.5"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:green" diameter="4" antialias="false" x="-22" y="-1.5"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:green" diameter="4" antialias="false" x="18" y="-1.5"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:green" diameter="4" antialias="false" x="8" y="-1.5"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:green" diameter="4" antialias="false" x="-2" y="-1.5"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:green" antialias="false" x="-45" y="-4.5" width="90" height="10"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:green" diameter="4" antialias="false" x="-42" y="-1.5"/>
+        <terminal x="-40" y="-5.5" orientation="n"/>
+        <terminal x="40" y="-5.5" orientation="n"/>
+        <terminal x="-30" y="-5.5" orientation="n"/>
+        <terminal x="30" y="-5.5" orientation="n"/>
+        <terminal x="-10" y="-5.5" orientation="n"/>
+        <terminal x="10" y="-5.5" orientation="n"/>
+        <terminal x="-20" y="-5.5" orientation="n"/>
+        <terminal x="0" y="-5.5" orientation="n"/>
+        <terminal x="20" y="-5.5" orientation="n"/>
+    </description>
+</definition>

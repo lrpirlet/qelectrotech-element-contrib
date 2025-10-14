@@ -1,0 +1,33 @@
+<definition link_type="terminal" hotspot_x="5" hotspot_y="6" type="element" width="80" version="0.80" height="100">
+    <uuid uuid="{debaaaee-197d-48a0-9516-97384169cf5b}"/>
+    <names>
+        <name lang="pt">Tamada Vermelha 5 Pinos</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect rx="5" ry="5" antialias="false" x="0" style="line-style:normal;line-weight:thin;filling:HTMLWhiteWhiteSmoke;color:black" y="0" width="70" height="87"/>
+        <rect rx="0" ry="0" antialias="false" x="20" style="line-style:normal;line-weight:thin;filling:none;color:black" y="0" width="5" height="30"/>
+        <rect rx="0" ry="0" antialias="false" x="45" style="line-style:normal;line-weight:thin;filling:none;color:black" y="0" width="5" height="30"/>
+        <rect rx="0" ry="0" antialias="false" x="22" style="line-style:normal;line-weight:thin;filling:red;color:red" y="0" width="26" height="32"/>
+        <rect rx="0" ry="0" antialias="false" x="22" style="line-style:normal;line-weight:thin;filling:none;color:black" y="0" width="26" height="11"/>
+        <circle antialias="false" diameter="60" x="5" style="line-style:normal;line-weight:thin;filling:red;color:red" y="16"/>
+        <rect rx="2" ry="2" antialias="false" x="20" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:black" y="38" width="30" height="17"/>
+        <circle antialias="false" diameter="8" x="59" style="line-style:normal;line-weight:thin;filling:white;color:black" y="5"/>
+        <circle antialias="false" diameter="6" x="60" style="line-style:normal;line-weight:thin;filling:HTMLGraySilver;color:black" y="6"/>
+        <line antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:gray" y1="9" end1="none" y2="9" end2="none" x1="61" x2="65"/>
+        <line antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:gray" y1="7" end1="none" y2="11" end2="none" x1="63" x2="63"/>
+        <circle antialias="false" diameter="8" x="3" style="line-style:normal;line-weight:thin;filling:white;color:black" y="5"/>
+        <circle antialias="false" diameter="8" x="3" style="line-style:normal;line-weight:thin;filling:white;color:black" y="74"/>
+        <circle antialias="false" diameter="8" x="59" style="line-style:normal;line-weight:thin;filling:white;color:black" y="74"/>
+        <circle antialias="false" diameter="6" x="4" style="line-style:normal;line-weight:thin;filling:HTMLGraySilver;color:black" y="6"/>
+        <line antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:gray" y1="9" end1="none" y2="9" end2="none" x1="5" x2="9"/>
+        <line antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:gray" y1="7" end1="none" y2="11" end2="none" x1="7" x2="7"/>
+        <circle antialias="false" diameter="6" x="60" style="line-style:normal;line-weight:thin;filling:HTMLGraySilver;color:black" y="75"/>
+        <line antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:gray" y1="78" end1="none" y2="78" end2="none" x1="61" x2="65"/>
+        <line antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:gray" y1="76" end1="none" y2="80" end2="none" x1="63" x2="63"/>
+        <circle antialias="false" diameter="6" x="4" style="line-style:normal;line-weight:thin;filling:HTMLGraySilver;color:black" y="75"/>
+        <line antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:gray" y1="78" end1="none" y2="78" end2="none" x1="5" x2="9"/>
+        <line antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:gray" y1="76" end1="none" y2="80" end2="none" x1="7" x2="7"/>
+    </description>
+</definition>

@@ -1,0 +1,43 @@
+<definition width="140" link_type="simple" type="element" hotspot_x="103" hotspot_y="46" version="0.80" height="100">
+    <uuid uuid="{d2bbb3ff-5eae-4405-9157-5c6abd20ff30}"/>
+    <names>
+        <name lang="pr">Autotransformador monofasico</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <text rotation="0" color="#000000" x="-96" y="-24" text="Tensão de Entrada" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <line y1="16" y2="36" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" x2="10" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none"/>
+        <text rotation="0" color="#000000" x="-97" y="6" text="Tensão de Saida" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:black" x="-98" width="45" y="10" rx="0" ry="0" antialias="false" height="12"/>
+        <line y1="-24" y2="-39" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" x2="10" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:black" x="-98" width="45" y="-20" rx="0" ry="0" antialias="false" height="12"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:black" x="-98" width="45" y="37" rx="0" ry="0" antialias="false" height="12"/>
+        <line y1="-17" y2="-39" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" x2="-10" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none"/>
+        <text rotation="0" color="#000000" x="-98" y="34" text="Potência" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="-180" x="-17" width="50" y="-24" angle="-110" antialias="true" height="50"/>
+        <line y1="16" y2="36" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" x2="-10" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none"/>
+        <ellipse style="line-style:normal;line-weight:normal;filling:none;color:black" width="34" x="-17" y="-14" antialias="true" height="33"/>
+        <dynamic_text rotation="0" text_from="ElementInfo" uuid="{26a3d40a-7c5a-4c2e-aef8-5b6358b6603e}" Valignment="AlignTop" x="-68" y="-55" Halignment="AlignLeft" z="39" frame="false" text_width="-1" font="Sans Serif,8,-1,5,50,0,0,0,0,0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text rotation="0" text_from="UserText" uuid="{bb043b72-92b5-480e-b4ac-0ae26d78f9f2}" Valignment="AlignTop" x="-96" y="32" Halignment="AlignLeft" z="41" frame="false" text_width="-1" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal">
+            <text>_VA</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <dynamic_text rotation="0" text_from="UserText" uuid="{bb043b72-92b5-480e-b4ac-0ae26d78f9f2}" Valignment="AlignTop" x="-99" y="-25" Halignment="AlignLeft" z="41" frame="false" text_width="-1" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal">
+            <text>_Vca</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <dynamic_text rotation="0" text_from="UserText" uuid="{bb043b72-92b5-480e-b4ac-0ae26d78f9f2}" Valignment="AlignTop" x="-98" y="5" Halignment="AlignLeft" z="41" frame="false" text_width="-1" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal">
+            <text>_Vca</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal orientation="n" name="" uuid="{eaa27f65-b9fd-4b9b-850f-f28268487b0f}" x="10" y="-40"/>
+        <terminal orientation="s" name="" uuid="{37018270-adff-42e5-a2ee-a7b465381084}" x="10" y="36"/>
+        <terminal orientation="n" name="" uuid="{c499df32-13ad-4455-8def-e5a984f8992b}" x="-10" y="-40"/>
+        <terminal orientation="s" name="" uuid="{553e5f42-275c-47eb-89bb-86101e35931a}" x="-10" y="36"/>
+    </description>
+</definition>

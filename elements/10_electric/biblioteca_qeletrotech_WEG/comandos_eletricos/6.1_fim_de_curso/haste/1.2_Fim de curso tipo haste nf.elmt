@@ -1,0 +1,31 @@
+<definition link_type="simple" hotspot_x="17" version="0.80" hotspot_y="34" type="element" height="70" width="30">
+    <uuid uuid="{bd4e627d-79a1-482a-92e0-0c3a145f06bb}"/>
+    <names>
+        <name lang="pt">CHAVE FIM DE CURSO NF</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <dynamic_text frame="false" text_width="-1" x="-36" rotation="0" y="-11" text_from="ElementInfo" z="1" font="Sans Serif,8,-1,5,50,0,0,0,0,0" Valignment="AlignTop" Halignment="AlignLeft" uuid="{431c7484-99d8-4e20-8b35-75a555c899ec}">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon antialias="false" y1="-2" y2="2" y3="0" x1="-7" y4="-2" x2="-7" x3="-11" style="line-style:normal;line-weight:thin;filling:black;color:black" x4="-7"/>
+        <line antialias="false" y1="0" y2="0" end1="none" x1="-7" end2="none" x2="-6" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="-6" y2="-6" end1="none" x1="0" end2="none" x2="6" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="0" y2="0" end1="none" x1="-4" end2="none" x2="-3" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="-6" y2="-30" end1="none" x1="0" end2="none" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="0" y2="0" end1="none" x1="-1" end2="none" x2="0" style="line-style:normal;line-weight:thin;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="-3" y2="30" end1="none" x1="0" end2="none" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="-3" y2="-3" end1="none" x1="0" end2="none" x2="3" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <dynamic_text frame="false" text_width="-1" x="-2" rotation="0" y="6" text_from="UserText" z="10" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" Halignment="AlignLeft" uuid="{c52376da-9196-4b57-a421-42895ffa8d6e}">
+            <text>2</text>
+        </dynamic_text>
+        <dynamic_text frame="false" text_width="-1" x="-1" rotation="0" y="-24" text_from="UserText" z="10" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" Halignment="AlignLeft" uuid="{c52376da-9196-4b57-a421-42895ffa8d6e}">
+            <text>1</text>
+        </dynamic_text>
+        <polygon antialias="false" y1="-8" y2="9" y3="16" x1="5" x2="0" x3="0" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false"/>
+        <terminal x="0" y="-30" orientation="n" name="" uuid="{06704883-920f-4d3c-a68e-4ea23c4037df}"/>
+        <terminal x="0" y="30" orientation="s" name="" uuid="{b4da08e1-00c5-43f9-8b88-a1bcaf9bee5a}"/>
+    </description>
+</definition>

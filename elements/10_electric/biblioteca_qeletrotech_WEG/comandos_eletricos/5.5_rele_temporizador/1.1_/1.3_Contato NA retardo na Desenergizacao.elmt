@@ -1,0 +1,31 @@
+<definition link_type="slave" hotspot_x="23" hotspot_y="24" type="element" width="30" version="0.80" height="50">
+    <uuid uuid="{6de918fc-72db-4153-aad4-108e0f2b3321}"/>
+    <names>
+        <name lang="pt">CONTATO TEMPORIZADOR  NA</name>
+    </names>
+    <kindInformations>
+        <kindInformation show="1" name="state">NO</kindInformation>
+        <kindInformation show="1" name="type">simple</kindInformation>
+        <kindInformation show="1" name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text text_width="-1" rotation="0" font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" text_from="UserText" x="-1" frame="false" y="8" z="1" uuid="{60388ffc-05ab-4efa-aca8-2ca70addade7}" Valignment="AlignTop" Halignment="AlignLeft">
+            <text>68</text>
+        </dynamic_text>
+        <line y1="-20" y2="-7" antialias="false" x1="0" length1="1.5" x2="0" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none"/>
+        <dynamic_text text_width="-1" rotation="0" font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" text_from="UserText" x="-1" frame="false" y="-25" z="3" uuid="{54f717e9-11b5-40c5-8088-e7e779f6067e}" Valignment="AlignTop" Halignment="AlignLeft">
+            <text>67</text>
+        </dynamic_text>
+        <line y1="-1" y2="-1" antialias="true" x1="-12" length1="1.5" x2="-4" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none"/>
+        <dynamic_text text_width="-1" rotation="0" font="Sans Serif,8,-1,5,50,0,0,0,0,0" text_from="ElementInfo" x="-43" frame="false" y="-11" z="6" uuid="{72f6e8c0-1992-4a46-afbe-fb78358c8f55}" Valignment="AlignTop" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y1="1" y2="1" antialias="true" x1="-12" length1="1.5" x2="-3" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end1="none" end2="none"/>
+        <arc antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:black" start="268.938" width="11" angle="182.125" x="-23" y="-5" height="10"/>
+        <polygon y1="-7" y2="8" antialias="false" y3="20" closed="false" x1="-7" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="0"/>
+        <terminal x="0" name="" y="-20" uuid="{a5d4983b-b99c-483d-b9c9-1e91c4824fb8}" orientation="n"/>
+        <terminal x="0" name="" y="20" uuid="{3b314acf-62e6-4f36-b2da-ed74ce552dc0}" orientation="s"/>
+    </description>
+</definition>

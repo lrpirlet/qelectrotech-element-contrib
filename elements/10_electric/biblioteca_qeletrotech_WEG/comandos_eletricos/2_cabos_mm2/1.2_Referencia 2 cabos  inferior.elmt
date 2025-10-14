@@ -1,0 +1,31 @@
+<definition width="70" height="50" link_type="simple" hotspot_x="14" hotspot_y="25" version="0.80" type="element">
+    <uuid uuid="{ca93b65e-6ed0-459e-a997-3aa35a4bb402}"/>
+    <names>
+        <name lang="pt">REFERENCIA 1 CABO</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y2="-20" x1="50" x2="50" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="0" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line y2="-1" x1="48" x2="52" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="1" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line y2="-21" x1="48" x2="52" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-19" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <dynamic_text y="4" Valignment="AlignTop" z="2" Halignment="AlignLeft" uuid="{456975f3-c92d-4f5d-8e0f-fe55a7962782}" frame="false" text_width="-1" text_from="UserText" rotation="0" x="-8" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal">
+            <text>_mm²</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y2="20" x1="-10" x2="30" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="20" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line y2="0" x1="30" x2="50" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="20" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+    </description>
+</definition>

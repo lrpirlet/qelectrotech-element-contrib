@@ -1,0 +1,57 @@
+<definition width="140" link_type="simple" type="element" hotspot_x="114" hotspot_y="47" version="0.80" height="110">
+    <uuid uuid="{8ea62d8e-6950-4c6b-8e67-168127b57820}"/>
+    <names>
+        <name lang="pr">Transformador com Tres enrolamentos</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <text rotation="0" color="#000000" x="-107" y="-15" text="Tensão de Entrada" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" color="#000000" x="-108" y="15" text="Tensão de Saida" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="-180" x="0" width="5" y="-0.5" angle="-180" antialias="true" height="5"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:black" x="-109" width="45" y="19" rx="0" ry="0" antialias="false" height="12"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="-180" x="-30" width="5" y="-0.5" angle="-180" antialias="true" height="5"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:black" x="-109" width="45" y="-11" rx="0" ry="0" antialias="false" height="12"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:black" x="-109" width="45" y="46" rx="0" ry="0" antialias="false" height="12"/>
+        <text rotation="0" color="#000000" x="-109" y="43" text="Potência" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <line y1="2" y2="30" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="20" x2="20" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none"/>
+        <line y1="2" y2="30" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" x2="-10" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none"/>
+        <line y1="2" y2="30" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" x2="0" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none"/>
+        <line y1="2" y2="30" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-30" x2="-30" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none"/>
+        <line y1="-40" y2="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="5" x2="5" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="-180" x="15" width="5" y="-0.5" angle="-180" antialias="true" height="5"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="-180" x="10" width="5" y="-0.5" angle="-180" antialias="true" height="5"/>
+        <line y1="-40" y2="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-15" x2="-15" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="-180" x="5" width="5" y="-0.5" angle="-180" antialias="true" height="5"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" x="0" width="5" y="-13.5" angle="-180" antialias="true" height="5"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" x="-5" width="5" y="-13.5" angle="-180" antialias="true" height="5"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" x="-10" width="5" y="-13.5" angle="-180" antialias="true" height="5"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" x="-15" width="5" y="-13.5" angle="-180" antialias="true" height="5"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="-180" x="-15" width="5" y="-0.5" angle="-180" antialias="true" height="5"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="-180" x="-20" width="5" y="-0.5" angle="-180" antialias="true" height="5"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="-180" x="-25" width="5" y="-0.5" angle="-180" antialias="true" height="5"/>
+        <dynamic_text rotation="0" text_from="ElementInfo" uuid="{26a3d40a-7c5a-4c2e-aef8-5b6358b6603e}" Valignment="AlignTop" x="-79" y="-46" Halignment="AlignLeft" z="39" frame="false" text_width="-1" font="Sans Serif,8,-1,5,50,0,0,0,0,0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text rotation="0" text_from="UserText" uuid="{bb043b72-92b5-480e-b4ac-0ae26d78f9f2}" Valignment="AlignTop" x="-110" y="-16" Halignment="AlignLeft" z="41" frame="false" text_width="-1" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal">
+            <text>_Vca</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <dynamic_text rotation="0" text_from="UserText" uuid="{bb043b72-92b5-480e-b4ac-0ae26d78f9f2}" Valignment="AlignTop" x="-107" y="41" Halignment="AlignLeft" z="41" frame="false" text_width="-1" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal">
+            <text>_VA</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <dynamic_text rotation="0" text_from="UserText" uuid="{bb043b72-92b5-480e-b4ac-0ae26d78f9f2}" Valignment="AlignTop" x="-109" y="14" Halignment="AlignLeft" z="41" frame="false" text_width="-1" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal">
+            <text>_Vca</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal orientation="s" name="" uuid="{bcdf6007-7238-44a7-9c32-0ebacd6b21a8}" x="-30" y="30"/>
+        <terminal orientation="n" name="" uuid="{eec1fbff-a7b0-40e4-afcf-03b095f37b06}" x="-15" y="-40"/>
+        <terminal orientation="n" name="" uuid="{e8da0409-f98a-4576-a854-32a2961d4aec}" x="5" y="-40"/>
+        <terminal orientation="s" name="" uuid="{3cfcde7e-e62a-4033-96ee-16943e486d7c}" x="-10" y="30"/>
+        <terminal orientation="s" name="" uuid="{d84de7d1-4e35-4bd5-9ed3-50ebf35b321a}" x="20" y="30"/>
+        <terminal orientation="s" name="" uuid="{13fa8c04-e4d8-4713-aded-d5e4193e07e2}" x="0" y="30"/>
+    </description>
+</definition>

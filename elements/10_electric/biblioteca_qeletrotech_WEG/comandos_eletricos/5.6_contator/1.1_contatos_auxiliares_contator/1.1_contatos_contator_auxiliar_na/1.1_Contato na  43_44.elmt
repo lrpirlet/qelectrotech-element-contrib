@@ -1,0 +1,31 @@
+<definition hotspot_x="13" hotspot_y="34" width="30" version="0.80" type="element" height="70" link_type="slave">
+    <uuid uuid="{abe7e286-5f17-4af2-b2cd-a0e453d4a17d}"/>
+    <names>
+        <name lang="pt">CONTATO ABERTO NA</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="number" show="1">1</kindInformation>
+        <kindInformation name="state" show="1">NO</kindInformation>
+        <kindInformation name="type" show="1">power</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" uuid="{4157aa40-d286-425f-bcb6-e1a98229549d}" frame="false" text_from="UserText" text_width="-1" x="-1" y="7" z="1" rotation="0" Valignment="AlignTop">
+            <text>44</text>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" uuid="{e4058ffc-5988-48d7-802a-0bb96834d1e0}" frame="false" text_from="UserText" text_width="-1" x="-1" y="-33" z="3" rotation="0" Valignment="AlignTop">
+            <text>43</text>
+        </dynamic_text>
+        <text font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" x="3.25" y="-20.7" text="&#xa;NO" rotation="0"/>
+        <text font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" x="3.25" y="19.3" text="&#xa;NO" rotation="0"/>
+        <arc antialias="true" start="98.125" width="4" angle="177.5" x="-2.25" y="-11.25" height="4.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" uuid="{9f7c906e-0056-4fa9-a189-12afcd4b9852}" frame="false" text_from="ElementInfo" text_width="-1" x="-40" y="-15" z="6" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon antialias="false" closed="false" y1="-7" y2="8" y3="30" x1="-7" x2="0" x3="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" y1="-30" y2="-7" length1="1.5" x1="0" length2="1.5" x2="0" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal name="" orientation="n" uuid="{306dc692-2725-46bb-8a8b-025d91d62252}" x="0" y="-30"/>
+        <terminal name="" orientation="s" uuid="{da1f24ee-8fd6-4cee-8a4f-87c7311056d0}" x="0" y="30"/>
+    </description>
+</definition>

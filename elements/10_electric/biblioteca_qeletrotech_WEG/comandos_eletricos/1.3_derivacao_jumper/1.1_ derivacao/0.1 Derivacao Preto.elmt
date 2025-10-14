@@ -1,0 +1,30 @@
+<definition version="0.90" link_type="terminal" hotspot_x="7" hotspot_y="7" width="20" type="element" height="20">
+    <uuid uuid="{6cd8ba24-daf0-49ae-8335-3bbd372f5902}"/>
+    <names>
+        <name lang="pt">Derivação</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">generic</kindInformation>
+        <kindInformation name="function">generic</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line end2="none" y1="0" y2="0" x1="0" x2="5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end1="none" length2="1.5"/>
+        <line end2="none" y1="0" y2="5" x1="0" x2="0" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end1="none" length2="1.5"/>
+        <terminal name="" orientation="e" x="5" uuid="{ed4a39c9-503e-45b7-a5ed-331db71c5311}" y="0" type="Generic"/>
+        <terminal name="" orientation="s" x="0" uuid="{94520087-6739-4077-8c91-83fc65af62db}" y="5" type="Generic"/>
+    </description>
+</definition>

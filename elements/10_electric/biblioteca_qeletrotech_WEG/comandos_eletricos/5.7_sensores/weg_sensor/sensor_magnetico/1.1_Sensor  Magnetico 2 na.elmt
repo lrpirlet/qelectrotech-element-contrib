@@ -1,0 +1,40 @@
+<definition hotspot_x="22" height="80" hotspot_y="35" type="element" version="0.80" width="90" link_type="slave">
+    <uuid uuid="{b715c414-72c8-4b50-b258-ef28e841b531}"/>
+    <names>
+        <name lang="pt">Sensor Magnético SSH5-30R1PD2A</name>
+    </names>
+    <kindInformations>
+        <kindInformation show="1" name="type">simple</kindInformation>
+        <kindInformation show="1" name="state">NO</kindInformation>
+        <kindInformation show="1" name="number">2</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <line length1="1.5" length2="1.5" end1="none" end2="none" y1="-5" y2="-5" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="-15" x2="-9" antialias="true"/>
+        <polygon x5="-6.88779" x6="-6.88779" closed="false" y1="-4.62271" y2="4.01694" style="line-style:normal;line-weight:thin;filling:none;color:black" y3="12.6566" x1="-6.88779" y4="4.01694" x2="-14.3564" y5="-4.62271" x3="-6.88779" y6="-4.62271" x4="0.58092" antialias="true"/>
+        <line length1="1.5" length2="1.5" end1="none" end2="none" y1="-2.4628" y2="10.4967" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="-8.7549" x2="-8.7549" antialias="true"/>
+        <line length1="1.5" length2="1.5" end1="none" end2="none" y1="-5" y2="13" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="-15" x2="-15" antialias="true"/>
+        <text text="BR" rotation="270" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" x="57.25" y="30.6125"/>
+        <line length1="1.5" length2="1.5" end1="none" end2="none" y1="-2.4628" y2="10.4967" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="-5.02059" x2="-5.02059" antialias="true"/>
+        <line length1="1.5" length2="1.5" end1="none" end2="none" y1="13" y2="13" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="-15" x2="-9" antialias="true"/>
+        <text text="BR" rotation="270" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" x="57.25" y="-15.9171"/>
+        <text text="PT" rotation="270" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" x="7.25" y="30.6125"/>
+        <line length1="1.5" length2="1.5" end1="none" end2="none" y1="-4.28469" y2="13.1639" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="53.5" x2="59.75" antialias="false"/>
+        <line length1="1.5" length2="1.5" end1="none" end2="none" y1="-4.28469" y2="13.1639" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="3.5" x2="9.75" antialias="false"/>
+        <text text="PT" rotation="270" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" x="7.25" y="-15.9171"/>
+        <rect rx="0" height="30" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" x="-20" y="-10" width="85" antialias="true"/>
+        <line length1="1.5" length2="1.5" end1="none" end2="none" y1="4" y2="4" style="line-style:dashed;line-weight:thin;filling:none;color:black" x1="1" x2="56" antialias="true"/>
+        <line length1="1.5" length2="1.5" end1="none" end2="none" y1="-6" y2="-30" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" x2="10" antialias="false"/>
+        <line length1="1.5" length2="1.5" end1="none" end2="none" y1="14" y2="38" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" x2="10" antialias="false"/>
+        <line length1="1.5" length2="1.5" end1="none" end2="none" y1="14" y2="38" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="60" x2="60" antialias="false"/>
+        <line length1="1.5" length2="1.5" end1="none" end2="none" y1="-30" y2="-6" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="60" x2="60" antialias="false"/>
+        <dynamic_text frame="false" rotation="0" text_width="-1" text_from="ElementInfo" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" x="73" uuid="{de2a5738-d787-4199-bb62-67e60f86f47f}" y="-9" Valignment="AlignTop" z="20" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal name="" x="60" uuid="{e82c4fdc-9690-494b-90b3-29bce01cc2a9}" y="-30" orientation="n"/>
+        <terminal name="" x="10" uuid="{7e9eb2d9-f6a8-4989-993b-dc9c3aa14639}" y="-30" orientation="n"/>
+        <terminal name="" x="10" uuid="{7dd14dbe-751c-4b77-9001-86f571f80916}" y="38" orientation="s"/>
+        <terminal name="" x="60" uuid="{d8cef80c-ede3-4df5-8c16-ce81d9ab87a9}" y="38" orientation="s"/>
+    </description>
+</definition>

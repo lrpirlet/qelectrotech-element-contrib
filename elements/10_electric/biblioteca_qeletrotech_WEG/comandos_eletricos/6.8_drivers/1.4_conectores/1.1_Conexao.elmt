@@ -1,0 +1,25 @@
+<definition type="element" version="0.70" width="20" link_type="simple" height="110" orientation="dyyy" hotspot_x="9" hotspot_y="54">
+    <uuid uuid="{4b1e7543-5e0c-4b5c-8241-7f391aeb626e}"/>
+    <names>
+        <name lang="pt">CONECTOR ENCODER</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line y1="-49" y2="50" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="0" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="-50" y2="-50" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-4" x2="0" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="-30" y2="-30" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-4" x2="0" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="-10" y2="-10" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-4" x2="0" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="10" y2="10" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-4" x2="0" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="30" y2="30" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-4" x2="0" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="50" y2="50" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-4" x2="0" antialias="false" length1="1.5" length2="1.5"/>
+        <line y1="0" y2="0" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="5" antialias="false" length1="1.5" length2="1.5"/>
+        <terminal orientation="w" x="-4" y="30"/>
+        <terminal orientation="e" x="5" y="0"/>
+        <terminal orientation="w" x="-4" y="10"/>
+        <terminal orientation="w" x="-4" y="50"/>
+        <terminal orientation="w" x="-4" y="-50"/>
+        <terminal orientation="w" x="-4" y="-10"/>
+        <terminal orientation="w" x="-4" y="-30"/>
+    </description>
+</definition>

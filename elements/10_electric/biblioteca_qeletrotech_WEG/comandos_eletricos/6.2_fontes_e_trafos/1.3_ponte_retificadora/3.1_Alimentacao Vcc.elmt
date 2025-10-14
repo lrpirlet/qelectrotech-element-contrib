@@ -1,0 +1,41 @@
+<definition link_type="terminal" hotspot_x="30" version="0.80" hotspot_y="6" type="element" height="70" width="60">
+    <uuid uuid="{8bc1a796-6c01-410a-b456-8a75dc2057b7}"/>
+    <names>
+        <name lang="pt">Alimentação vcc</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line antialias="false" y1="48" y2="48" end1="none" x1="-3" end2="none" x2="3" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="3" y2="-1" end1="none" x1="0" end2="none" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="52" y2="57" end1="none" x1="0" end2="none" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="10" y2="10" end1="none" x1="-3" end2="none" x2="3" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="7" y2="13" end1="none" x1="0" end2="none" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="42" y2="42" end1="none" x1="-10" end2="none" x2="11" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="39" y2="39" end1="none" x1="-10" end2="none" x2="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="39" y2="39" end1="none" x1="-2" end2="none" x2="3" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="39" y2="39" end1="none" x1="6" end2="none" x2="11" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <rect antialias="false" x="-25" y="4" height="48" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="7" width="50" ry="7"/>
+        <dynamic_text frame="false" text_width="-1" x="-15" rotation="0" y="14" text_from="UserText" z="12" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" Halignment="AlignLeft" uuid="{d466f2f4-a3dc-4b9c-be4c-e9f10f6c22a1}">
+            <text>_Vcc</text>
+        </dynamic_text>
+        <dynamic_text frame="false" text_width="-1" x="-55" rotation="0" y="0" text_from="ElementInfo" z="13" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" Halignment="AlignLeft" uuid="{97c2b0be-46f8-43ed-8443-ba19864478c5}">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal x="0" y="57" orientation="s" name="" uuid="{83550679-ef10-46df-acf3-56bfa181003d}"/>
+        <terminal x="0" y="-1" orientation="n" name="" uuid="{3a7031d6-aa5d-41a3-a5cc-ec6fd26b3758}"/>
+    </description>
+</definition>

@@ -1,0 +1,59 @@
+<definition width="80" hotspot_y="8" version="0.80" height="60" link_type="master" type="element" hotspot_x="44">
+    <uuid uuid="{092d3767-a02e-49fa-b22e-49df601eb0b1}"/>
+    <names>
+        <name lang="pt">Chave Seccionadora Bifásica </name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type" show="1">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">WEG</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Chave Seccionadora Bifásica  _A</elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <polygon y3="10" x1="30" x2="10" x3="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0" antialias="false" y2="0" closed="false"/>
+        <line end1="none" x1="0" end2="none" x2="0" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="7" antialias="false" y2="9"/>
+        <line end1="none" x1="0" end2="none" x2="0" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="11" antialias="false" y2="13"/>
+        <line end1="none" x1="0" end2="none" x2="0" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="15" antialias="false" y2="17"/>
+        <line end1="none" x1="0" end2="none" x2="0" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="19" antialias="false" y2="21"/>
+        <line end1="none" x1="0" end2="none" x2="0" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="23" antialias="false" y2="25"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" x="10" y="30" text="2" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" x="10" y="10" text="4" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" x="-20" y="10" text="3" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" x="-20" y="30" text="1" color="#000000"/>
+        <line end1="none" x1="0" end2="none" x2="0" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="40" antialias="false" y2="42"/>
+        <line end1="none" x1="7" end2="none" x2="7" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="42" antialias="false" y2="45"/>
+        <line end1="none" x1="-6" end2="none" x2="6" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="42" antialias="false" y2="42"/>
+        <line end1="none" x1="-6" end2="none" x2="-6" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="39" antialias="false" y2="42"/>
+        <line end1="none" x1="5" end2="none" x2="0" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="37" antialias="false" y2="40"/>
+        <line end1="none" x1="-40" end2="none" x2="-10" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0" antialias="false" y2="0"/>
+        <line end1="none" x1="-40" end2="none" x2="-10" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="20" antialias="false" y2="20"/>
+        <line end1="none" x1="-10" end2="none" x2="-10" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-2" antialias="false" y2="2"/>
+        <line end1="none" x1="-10" end2="none" x2="-10" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="18" antialias="false" y2="22"/>
+        <polygon y3="30" x1="30" x2="10" x3="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="20" antialias="false" y2="20" closed="false"/>
+        <line end1="none" x1="0" end2="none" x2="0" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="25" antialias="false" y2="34"/>
+        <line end1="none" x1="0" end2="none" x2="5" length1="1.5" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="34" antialias="false" y2="37"/>
+        <dynamic_text font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" frame="false" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" uuid="{cd4c2803-0626-4673-a92c-4ab0752bcc6e}" x="-13" y="63" text_width="-1" z="37">
+            <text></text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" frame="false" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" uuid="{789e6c6f-9e57-4d4c-9b1c-155aca2381ed}" x="-14" y="46" text_width="-1" z="38">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal name="" uuid="{dbb69aa2-d968-48ff-a02c-15f99ff9ddd2}" x="-40" y="0" orientation="w"/>
+        <terminal name="" uuid="{9b3e8ab7-c2b5-497e-a107-a7b175c37066}" x="30" y="0" orientation="e"/>
+        <terminal name="" uuid="{1f2926b1-b15f-42e9-bf86-5f478c79754a}" x="30" y="20" orientation="e"/>
+        <terminal name="" uuid="{9df1bbce-8fe3-4c95-a5c9-e556299f8e65}" x="-40" y="20" orientation="w"/>
+    </description>
+</definition>

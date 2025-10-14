@@ -1,0 +1,28 @@
+<definition hotspot_x="6" hotspot_y="24" version="0.90" width="30" height="50" type="element" link_type="simple">
+    <uuid uuid="{6a347e26-0d47-418d-a91a-262f9761b9c0}"/>
+    <names>
+        <name lang="pt">Campainha</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text z="1" uuid="{16c2e1fc-a060-48b0-afbe-7802c01b5010}" text_from="ElementInfo" Valignment="AlignTop" frame="false" Halignment="AlignLeft" rotation="0" font="Sans Serif,8,-1,5,50,0,0,0,0,0" text_width="-1" x="-26" y="-24">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text z="2" uuid="{a2f7aff4-0993-4078-9e6f-60e58e62d915}" text_from="UserText" Valignment="AlignTop" frame="false" Halignment="AlignLeft" rotation="0" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="-2" y="4">
+            <text>X2</text>
+        </dynamic_text>
+        <dynamic_text z="3" uuid="{3dccb39e-5d95-4ee4-aac5-dd71f8fc7068}" text_from="UserText" Valignment="AlignTop" frame="false" Halignment="AlignLeft" rotation="0" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="-2" y="-23">
+            <text>X1</text>
+        </dynamic_text>
+        <polygon antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-20" y2="-5" y3="-5" x1="0" closed="false" x2="0" x3="11"/>
+        <polygon antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="20" y2="5" y3="5" x1="0" closed="false" x2="0" x3="11"/>
+        <polygon x10="10" x1="20" x11="10" x2="19" x12="10" x3="18" x13="11" x4="15" x14="12" x5="14" x15="13" x6="12" x16="14" x7="11" x17="15" x8="10" x18="17" x9="10" x19="18" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:black" y10="0" antialias="false" y11="2" y12="3" y13="5" y14="6" y15="7" y16="8" y17="9" y1="-10" y18="10" x20="20" y2="-10" y19="10" x21="20" y3="-10" y4="-9" y5="-8" y6="-6" y7="-5" y8="-2" y9="-1" y20="10" y21="9"/>
+        <arc antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="-90" width="20" angle="-180" height="20" x="10" y="-10"/>
+        <line antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-10" y2="10" end1="none" end2="none" x1="20" x2="20"/>
+        <terminal uuid="{5f04ee79-4a5c-4b77-9785-2f19f3654fed}" orientation="n" type="Generic" x="0" name="" y="-20"/>
+        <terminal uuid="{a27b20d4-2eab-4fdc-aea1-eca626a64ff3}" orientation="s" type="Generic" x="0" name="" y="20"/>
+    </description>
+</definition>

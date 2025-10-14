@@ -1,0 +1,26 @@
+<definition height="50" hotspot_y="24" link_type="simple" hotspot_x="25" orientation="dyyy" type="element" width="60" version="0.70">
+    <uuid uuid="{601e8f6c-7a97-42a8-9bbf-8fcad0de59df}"/>
+    <names>
+        <name lang="pt">Sensor Fotoelétrico</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text y="15" text="N" x="-5" size="4"/>
+        <text y="15" text="CARGA" x="16" size="4"/>
+        <input y="-8" text="_" x="24" size="9" tagg="label"/>
+        <arc angle="90" height="40" antialias="true" start="90" y="-20" x="-21" style="line-style:normal;line-weight:normal;filling:none;color:black" width="42"/>
+        <arc angle="90" height="40" antialias="true" start="0" y="-20" x="-21" style="line-style:normal;line-weight:normal;filling:none;color:black" width="42"/>
+        <line antialias="false" x1="-20" end1="none" length1="1.5" y1="0" x2="20" y2="0" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" x1="-20" end1="none" length1="1.5" y1="0" x2="-20" y2="5" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" x1="-20" end1="none" length1="1.5" y1="5" x2="20" y2="5" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" x1="20" end1="none" length1="1.5" y1="5" x2="20" y2="0" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" x1="0" end1="none" length1="1.5" y1="5" x2="0" y2="20" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" x1="-15" end1="none" length1="1.5" y1="5" x2="-15" y2="20" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" x1="15" end1="none" length1="1.5" y1="5" x2="15" y2="20" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text y="15" text="F" x="-20" size="4"/>
+        <terminal y="20" x="20" orientation="e"/>
+        <terminal y="20" x="0" orientation="s"/>
+        <terminal y="20" x="-20" orientation="w"/>
+    </description>
+</definition>

@@ -1,0 +1,45 @@
+<definition width="120" link_type="simple" type="element" hotspot_x="101" hotspot_y="44" version="0.80" height="100">
+    <uuid uuid="{084c0ca8-b8cc-4e4a-a845-513d445ae0eb}"/>
+    <names>
+        <name lang="pr">Autotranformador Monofasico</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <text rotation="0" color="#000000" x="-91" y="-20" text="Tensão de Entrada" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" x="5" width="5" y="-7.5" angle="-180" antialias="true" height="5"/>
+        <text rotation="0" color="#000000" x="-92" y="10" text="Tensão de Saida" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:black" x="-93" width="45" y="14" rx="0" ry="0" antialias="false" height="12"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" x="0" width="5" y="-7.5" angle="-180" antialias="true" height="5"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:black" x="-93" width="45" y="-16" rx="0" ry="0" antialias="false" height="12"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:black" x="-93" width="45" y="41" rx="0" ry="0" antialias="false" height="12"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" x="-5" width="5" y="-7.5" angle="-180" antialias="true" height="5"/>
+        <text rotation="0" color="#000000" x="-93" y="38" text="Potência" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" x="-10" width="5" y="-7.5" angle="-180" antialias="true" height="5"/>
+        <line y1="-40" y2="-6" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" x2="-10" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none"/>
+        <line y1="-40" y2="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" x2="10" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none"/>
+        <line y1="40" y2="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" x2="10" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none"/>
+        <line y1="40" y2="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" x2="0" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none"/>
+        <dynamic_text rotation="0" text_from="ElementInfo" uuid="{26a3d40a-7c5a-4c2e-aef8-5b6358b6603e}" Valignment="AlignTop" x="-63" y="-51" Halignment="AlignLeft" z="39" frame="false" text_width="-1" font="Sans Serif,8,-1,5,50,0,0,0,0,0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text rotation="0" text_from="UserText" uuid="{bb043b72-92b5-480e-b4ac-0ae26d78f9f2}" Valignment="AlignTop" x="-91" y="36" Halignment="AlignLeft" z="41" frame="false" text_width="-1" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal">
+            <text>_VA</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <dynamic_text rotation="0" text_from="UserText" uuid="{bb043b72-92b5-480e-b4ac-0ae26d78f9f2}" Valignment="AlignTop" x="-94" y="-21" Halignment="AlignLeft" z="41" frame="false" text_width="-1" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal">
+            <text>_Vca</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <dynamic_text rotation="0" text_from="UserText" uuid="{bb043b72-92b5-480e-b4ac-0ae26d78f9f2}" Valignment="AlignTop" x="-93" y="9" Halignment="AlignLeft" z="41" frame="false" text_width="-1" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal">
+            <text>_Vca</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal orientation="s" name="" uuid="{b848477d-946d-4293-90f7-5a4a223761e8}" x="10" y="40"/>
+        <terminal orientation="n" name="" uuid="{fb3a6b8e-5e95-49a6-a737-39d3a9825122}" x="-10" y="-40"/>
+        <terminal orientation="n" name="" uuid="{3b1debab-4d1d-4526-9c35-7615d98f9a76}" x="10" y="-40"/>
+        <terminal orientation="s" name="" uuid="{87e761ca-dd19-4b86-973e-68b2b0613629}" x="0" y="40"/>
+    </description>
+</definition>

@@ -1,0 +1,50 @@
+<definition hotspot_y="37" version="0.80" type="element" height="70" width="40" link_type="master" hotspot_x="19">
+    <uuid uuid="{ad756d76-80a6-4f4c-be8c-e650085544c0}"/>
+    <names>
+        <name lang="pt">DISJUNTOR BIFÁSICO</name>
+    </names>
+    <kindInformations>
+        <kindInformation show="1" name="type">protection</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="comment">_A</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line x1="-15" x2="5" style="line-style:dashed;line-weight:thin;filling:none;color:black" end1="none" end2="none" y1="-10" length1="1.5" y2="-10" length2="1.5" antialias="false"/>
+        <line x1="12" x2="8" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" y1="-19.5" length1="1.5" y2="-15.5" length2="1.5" antialias="false"/>
+        <line x1="-8" x2="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" y1="-19.5" length1="1.5" y2="-15.5" length2="1.5" antialias="false"/>
+        <line x1="8" x2="12" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" y1="-19.5" length1="1.5" y2="-15.5" length2="1.5" antialias="false"/>
+        <line x1="-12" x2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" y1="-19.5" length1="1.5" y2="-15.5" length2="1.5" antialias="false"/>
+        <text text="4" x="13" color="#000000" y="19" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text text="2" x="-7" color="#000000" y="19" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text text="3" x="13" color="#000000" y="-21" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text text="1" x="-7" color="#000000" y="-21" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <line x1="10" x2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" y1="-18" length1="1.5" y2="-30" length2="1.5" antialias="false"/>
+        <line x1="-10" x2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" y1="-18" length1="1.5" y2="-30" length2="1.5" antialias="false"/>
+        <polygon x1="-17" x2="-10" x3="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y1="-15" y2="4" antialias="false" y3="25"/>
+        <polygon x1="3" x2="10" x3="10" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y1="-15" y2="4" antialias="false" y3="25"/>
+        <dynamic_text text_from="CompositeText" Valignment="AlignTop" x="-59" Halignment="AlignLeft" y="0" z="14" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" frame="false" text_width="-1" rotation="0" uuid="{08fc1ab8-6af6-461f-9285-84d06042a535}">
+            <text>_A</text>
+            <composite_text>%{comment}</composite_text>
+        </dynamic_text>
+        <dynamic_text text_from="ElementInfo" Valignment="AlignTop" x="-58" Halignment="AlignLeft" y="-17.5" z="30" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" rotation="0" uuid="{147d7f25-7ecd-4a9f-87da-762579be5eae}">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal orientation="n" x="-10" y="-30" name="" uuid="{f9a573e7-1c50-4c6a-b20b-5f1d678c40c3}"/>
+        <terminal orientation="s" x="10" y="25" name="" uuid="{c9ed14fb-c45e-46c8-b67b-62aad435aff6}"/>
+        <terminal orientation="n" x="10" y="-30" name="" uuid="{d884b030-ef01-4dd7-bba0-0989b008a19a}"/>
+        <terminal orientation="s" x="-10" y="25" name="" uuid="{0c38ed87-e82b-43cb-a48f-ffa2bd6a5de1}"/>
+    </description>
+</definition>

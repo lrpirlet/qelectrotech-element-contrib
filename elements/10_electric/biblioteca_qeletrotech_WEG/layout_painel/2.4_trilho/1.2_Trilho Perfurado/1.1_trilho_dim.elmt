@@ -1,0 +1,15 @@
+<definition height="40" width="10" link_type="simple" type="element" hotspot_x="2" hotspot_y="20" version="0.90">
+    <uuid uuid="{c1f57eb2-2e0f-4e6a-b343-f3c91e3da57a}"/>
+    <names>
+        <name lang="pt">Trilho</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect height="16" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="6" x="0" y="1" antialias="false"/>
+        <rect height="16" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="6" x="0" y="-18" antialias="false"/>
+        <rect height="3" rx="1" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayLightGray" width="0" x="1" y="-2" antialias="false"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="1" x="0" y="-2" antialias="false"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" start="87.9375" width="6" angle="182" x="1" y="-3" antialias="true"/>
+    </description>
+</definition>

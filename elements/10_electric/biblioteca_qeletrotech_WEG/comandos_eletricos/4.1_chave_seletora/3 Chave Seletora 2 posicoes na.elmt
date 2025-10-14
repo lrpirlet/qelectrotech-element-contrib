@@ -1,0 +1,49 @@
+<definition type="element" height="80" link_type="master" hotspot_x="21" version="0.90" hotspot_y="37" width="50">
+    <uuid uuid="{56afafd2-04c7-478f-a0e8-484096261c5c}"/>
+    <names>
+        <name lang="pt">Chave Seletota 2 posições NA</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="description">Chave Seletota 2 posições NA</elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y1="-7" y2="-5" x1="-3" x2="-3" end1="none" length1="1.5" end2="none" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line y1="-7" y2="-5" x1="-10" x2="-10" end1="none" length1="1.5" end2="none" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line y1="-7" y2="-5" x1="-2" x2="-2" end1="none" length1="1.5" end2="none" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon y1="-10" y2="15" y3="35" x1="0" x2="10" x3="10" antialias="false" closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text x="13" y="30" text="14" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="0"/>
+        <text x="13" y="-16" text="13" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="0"/>
+        <line y1="-30" y2="-10" x1="10" x2="10" end1="none" length1="1.5" end2="none" length2="1.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="-10" y2="-10" x1="8" x2="12" end1="none" length1="1.5" end2="none" length2="1.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="0" y2="0" x1="-8" x2="-13.15" end1="none" length1="1.5" end2="none" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line y1="6" y2="6" x1="-13.15" x2="-10.3" end1="none" length1="1.5" end2="none" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="-5" y2="6" x1="-13.15" x2="-13.15" end1="none" length1="1.5" end2="none" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="-5" y2="-5" x1="-16" x2="-13.15" end1="none" length1="1.5" end2="none" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon y1="0" y2="0" y3="3" x1="4" y4="0" x2="3" y5="0" x3="1" x4="-1" x5="-4" antialias="false" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon y1="-2" y2="-4" y3="4" x1="-9" y4="-2" x2="-10" y5="-4" x3="-6" x4="-3" x5="-2" antialias="false" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <dynamic_text frame="false" x="-49.75" y="8" Valignment="AlignTop" z="37" Halignment="AlignLeft" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" text_width="-1" rotation="0" uuid="{cd4c2803-0626-4673-a92c-4ab0752bcc6e}" text_from="ElementInfo" keep_visual_rotation="true">
+            <text></text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <dynamic_text frame="false" x="-50.75" y="-9" Valignment="AlignTop" z="38" Halignment="AlignLeft" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" text_width="-1" rotation="0" uuid="{789e6c6f-9e57-4d4c-9b1c-155aca2381ed}" text_from="ElementInfo" keep_visual_rotation="true">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal x="10" y="35" orientation="s" type="Generic" name="" uuid="{feafafc8-2591-47eb-9710-3af7bd797a86}"/>
+        <terminal x="10" y="-30" orientation="n" type="Generic" name="" uuid="{28496149-d747-4f72-aaf6-1619d86ddb16}"/>
+    </description>
+</definition>

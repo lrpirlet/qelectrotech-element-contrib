@@ -1,0 +1,18 @@
+<definition height="70" hotspot_y="34" link_type="simple" hotspot_x="18" orientation="dyyy" type="element" width="40" version="0.70">
+    <uuid uuid="{5485dfd1-1175-4e99-a5e4-ec617f878151}"/>
+    <names>
+        <name lang="pt">Cigarra</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle diameter="30" antialias="true" y="-15" x="-15" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" x1="0" end1="none" length1="1.5" y1="-25" x2="0" y2="-15" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" x1="0" end1="none" length1="1.5" y1="15" x2="0" y2="25" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <input y="5" text="_" x="15" size="9" tagg="label"/>
+        <arc angle="90" height="8" antialias="true" start="270" y="-3" x="11" style="line-style:normal;line-weight:normal;filling:none;color:black" width="8"/>
+        <arc angle="90" height="8" antialias="true" start="0" y="-3" x="11" style="line-style:normal;line-weight:normal;filling:none;color:black" width="8"/>
+        <terminal y="-30" x="0" orientation="n"/>
+        <terminal y="30" x="0" orientation="s"/>
+    </description>
+</definition>

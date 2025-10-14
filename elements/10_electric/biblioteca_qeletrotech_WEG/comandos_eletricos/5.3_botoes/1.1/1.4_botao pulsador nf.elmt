@@ -1,0 +1,38 @@
+<definition type="element" version="0.80" link_type="master" width="30" hotspot_x="18" hotspot_y="24" height="50">
+    <uuid uuid="{54e4cd66-faf4-443d-863c-cbfbb7ab6ff3}"/>
+    <names>
+        <name lang="pt">Botão Pulsador  Vermelho 22mm  1nf</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type" show="1">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">WEG</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Botão Pulsador  Vermelho 22mm  1nf</elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" x="3" y="16.05" text="2"/>
+        <line length2="1.5" end1="none" end2="none" y1="-2.70442" y2="2.79208" x1="-14.9331" style="line-style:normal;line-weight:normal;filling:none;color:red" x2="-14.9331" antialias="true" length1="1.5"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" x="3" y="-12" text="1"/>
+        <line length2="1.5" end1="none" end2="none" y1="-0.00900434" y2="0" x1="-10" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="3" antialias="true" length1="1.5"/>
+        <polygon y1="2" y2="0" y3="-2" x1="-9" y4="2" style="line-style:normal;line-weight:thin;filling:black;color:black" x2="-15" x3="-9" antialias="false" x4="-9"/>
+        <polygon closed="false" y1="-9" y2="8" y3="20" x1="7" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" x3="0" antialias="false"/>
+        <polygon closed="false" y1="-20" y2="-7" y3="-7" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" x3="8" antialias="false"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" uuid="{f201d046-916e-4e96-9a17-1fe38f4b1de6}" Halignment="AlignLeft" rotation="0" x="-35" frame="false" y="-12" z="16" text_width="-1" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal name="" orientation="n" uuid="{47f53eef-2a29-4a87-9bf9-a69e86521ff0}" x="0" y="-20"/>
+        <terminal name="" orientation="s" uuid="{9ead4904-3269-43f0-bcee-1f612e8f705a}" x="0" y="20"/>
+    </description>
+</definition>

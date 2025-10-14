@@ -1,0 +1,45 @@
+<definition version="0.80" link_type="simple" hotspot_x="3" hotspot_y="4" height="130" type="element" width="60">
+    <uuid uuid="{90fdd2ca-44c2-49d3-863d-1e465343b082}"/>
+    <names>
+        <name lang="pt">Borne Cinza BTWP 240B 240mm</name>
+    </names>
+    <elementInformations/>
+    <informations>&#xd;
+     Author: DXF converter&#xd;
+     License:see http://qelectrotech.org/wiki/doc/elements_license&#xd;
+     Converter version:V3.0 DB&#xd;
+&#xd;
+</informations>
+    <description>
+        <rect x="0" antialias="false" y="0" height="122" style="line-style:normal;line-weight:thin;filling:gray;color:black" width="53" rx="4" ry="0"/>
+        <rect x="0" antialias="false" y="43" height="36" style="line-style:normal;line-weight:thin;filling:HTMLGraySilver;color:black" width="53" rx="0" ry="1"/>
+        <circle diameter="4" x="24.9175" antialias="false" y="76.9175" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <arc x="25" antialias="true" y="77" height="4" style="line-style:normal;line-weight:normal;filling:none;color:gray" start="194" width="4" angle="151"/>
+        <line antialias="false" y1="58" y2="58" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="7" end1="none" x2="19" end2="none" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="60" y2="60" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="0" end1="none" x2="19" end2="none" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="62" y2="62" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="0" end1="none" x2="19" end2="none" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="64" y2="64" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="0" end1="none" x2="19" end2="none" length1="1.5" length2="1.5"/>
+        <polygon antialias="false" y1="4.65464" y2="4.65464" style="line-style:normal;line-weight:thin;filling:HTMLGraySilver;color:black" y3="21.3273" x1="36.9146" y4="38" x2="16.7438" y5="38" x3="6.65844" y6="21.3273" x4="16.7438" x5="36.9146" x6="47"/>
+        <polygon antialias="false" y1="83.6546" y2="83.6546" style="line-style:normal;line-weight:thin;filling:HTMLGraySilver;color:black" y3="100.327" x1="36.9146" y4="117" x2="16.7438" y5="117" x3="6.65844" y6="100.327" x4="16.7438" x5="36.9146" x6="47"/>
+        <ellipse x="9.53998" antialias="false" y="4.65464" height="33.3454" style="line-style:normal;line-weight:thin;filling:none;color:black" width="34.5785"/>
+        <ellipse x="9.53998" antialias="false" y="83.6546" height="33.3454" style="line-style:normal;line-weight:thin;filling:none;color:black" width="34.5785"/>
+        <line antialias="false" y1="58" y2="58" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="35" end1="none" x2="47" end2="none" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="60" y2="60" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="35" end1="none" x2="53" end2="none" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="62" y2="62" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="35" end1="none" x2="53" end2="none" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="64" y2="64" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="35" end1="none" x2="53" end2="none" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="58" y2="66" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="19" end1="none" x2="19" end2="none" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="58" y2="66" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="35" end1="none" x2="35" end2="none" length1="1.5" length2="1.5"/>
+        <circle diameter="4" x="24.9175" antialias="false" y="40.9175" style="line-style:normal;line-weight:thin;filling:gray;color:black"/>
+        <arc x="25" antialias="true" y="41" height="4" style="line-style:normal;line-weight:normal;filling:none;color:gray" start="14.25" width="4" angle="151.313"/>
+        <line antialias="false" y1="66" y2="66" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="35" end1="none" x2="47" end2="none" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="66" y2="66" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="19" end1="none" x2="7" end2="none" length1="1.5" length2="1.5"/>
+        <ellipse x="25" antialias="false" y="57" height="2" style="line-style:normal;line-weight:thin;filling:gray;color:gray" width="4"/>
+        <line antialias="false" y1="58" y2="58" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="21" end1="none" x2="26" end2="none" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="58" y2="58" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="28" end1="none" x2="33" end2="none" length1="1.5" length2="1.5"/>
+        <arc x="25" antialias="true" y="57" height="2" style="line-style:normal;line-weight:thin;filling:gray;color:gray" start="179.188" width="4" angle="181.063"/>
+        <polygon x1="0" y7="67" x2="0" y8="66" x3="19" y9="66" x4="19" x5="34" x6="34" x7="53" x8="53" style="line-style:normal;line-weight:thin;filling:gray;color:black" x9="35" y10="58" x10="35" y11="58" x11="53" y12="57" x12="53" y13="57" antialias="false" x13="0" y14="58" x14="0" y15="58" x15="18" y16="66" x16="18" y17="66" x17="0" y1="66" y2="67" y3="67" y4="58" y5="58" y6="67"/>
+        <line antialias="false" y1="57" y2="57" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="2" end1="none" x2="53" end2="none" length1="1.5" length2="1.5"/>
+        <arc x="25" antialias="true" y="57" height="2" style="line-style:normal;line-weight:thin;filling:none;color:black" start="180.625" width="4" angle="179.125"/>
+        <line antialias="false" y1="58" y2="58" style="line-style:normal;line-weight:thin;filling:gray;color:gray" x1="25" end1="none" x2="29" end2="none" length1="1.5" length2="1.5"/>
+    </description>
+</definition>

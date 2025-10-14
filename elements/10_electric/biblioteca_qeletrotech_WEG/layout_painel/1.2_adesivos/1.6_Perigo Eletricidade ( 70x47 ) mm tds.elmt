@@ -1,0 +1,23 @@
+<definition link_type="simple" version="0.80" hotspot_x="5" hotspot_y="6" type="element" width="80" height="60">
+    <uuid uuid="{bf969c15-1547-40e7-acb3-ab49dfbadaed}"/>
+    <names>
+        <name lang="pt">Perigo Eletricidade</name>
+    </names>
+    <elementInformations/>
+    <informations>&#xd;
+     Author: DXF converter&#xd;
+     License:see http://qelectrotech.org/wiki/doc/elements_license&#xd;
+     Converter version:V3.0 DB&#xd;
+&#xd;
+</informations>
+    <description>
+        <rect rx="1" ry="0" antialias="false" x="0" y="0" style="line-style:normal;line-weight:thin;filling:HTMLWhiteWhiteSmoke;color:black" width="70" height="47"/>
+        <rect rx="1" ry="1" antialias="false" x="2" y="2" style="line-style:normal;line-weight:thin;filling:black;color:black" width="66" height="18"/>
+        <ellipse antialias="false" x="4" y="3" style="line-style:normal;line-weight:thin;filling:red;color:white" width="62" height="15"/>
+        <text rotation="0" x="19" y="15.646" text="PERIGO" color="#ffffff" font="Agency FB,10,-1,5,75,0,0,0,0,0,Negrito"/>
+        <polygon x4="57.5102" antialias="false" style="line-style:normal;line-weight:thin;filling:HTMLYellowGold;color:black" y1="24.9772" y2="40" y3="40" x1="57.5102" y4="24.9772" x2="50.0203" x3="65"/>
+        <rect rx="1" ry="1" antialias="false" x="1" y="1" style="line-style:normal;line-weight:thin;filling:none;color:black" width="68" height="45"/>
+        <text rotation="0" x="5" y="37" text="Eletricidade" color="#000000" font="Agency FB,8,-1,5,75,0,0,0,0,0,Negrito"/>
+        <polygon y1="30.4401" y2="30.4401" y3="32.4151" y4="32.4151" y5="35.6407" y6="35.6407" y7="38.8665" x1="57.5102" y8="36.2859" x2="59.5528" x3="57.8147" y9="36.2859" x4="59.3244" x5="56.8082" x6="58.3179" x7="54.292" x8="56.3049" style="line-style:normal;line-weight:thin;filling:black;color:black" x9="54.7952" y10="33.7053" antialias="false" x10="56.8082" y11="33.7053" x11="55.0468"/>
+    </description>
+</definition>

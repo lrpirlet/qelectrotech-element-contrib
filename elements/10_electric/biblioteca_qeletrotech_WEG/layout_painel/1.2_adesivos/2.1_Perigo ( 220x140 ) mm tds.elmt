@@ -1,0 +1,28 @@
+<definition link_type="simple" hotspot_x="5" hotspot_y="5" version="0.80" type="element" width="230" height="150">
+    <uuid uuid="{b52cc9d7-5a81-4c23-b7c2-b7ec338e7164}"/>
+    <names>
+        <name lang="pt">Perigo</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect rx="1" antialias="false" x="0" ry="0" y="0" style="line-style:normal;line-weight:thin;filling:HTMLWhiteWhiteSmoke;color:black" width="220" height="140"/>
+        <rect rx="1" antialias="false" x="6.43237" ry="1" y="6.21403" style="line-style:normal;line-weight:thin;filling:black;color:black" width="207.016" height="53.3951"/>
+        <ellipse antialias="false" x="15.8422" y="9.18043" style="line-style:normal;line-weight:normal;filling:red;color:white" width="188.197" height="44.4959"/>
+        <text rotation="0" x="62.657" y="47.066" text="PERIGO" color="#ffffff" font="Agency FB,30,-1,5,75,0,0,0,0,0,Negrito"/>
+        <polygon y3="110.4" x1="26.6589" y4="73.6342" x2="10.336" x3="42.9819" x4="26.6589" antialias="false" style="line-style:normal;line-weight:normal;filling:HTMLYellowGold;color:black" y1="73.6342" y2="110.4"/>
+        <rect rx="1" antialias="false" x="3.29576" ry="1" y="3.24764" style="line-style:normal;line-weight:thin;filling:none;color:black" width="213.29" height="133.488"/>
+        <polygon x9="20.7417" style="line-style:normal;line-weight:thin;filling:black;color:black" y1="87.0034" y2="87.0034" y3="91.8371" y4="91.8371" y5="99.7314" y6="99.7314" x1="26.6589" y7="107.626" antialias="false" x2="31.1114" y8="101.31" x3="27.3223" y9="101.31" x4="30.6126" x5="25.1283" x6="28.4186" y10="94.9947" x7="19.6455" x10="25.1283" y11="94.9947" x8="24.032" x11="21.2906"/>
+        <text rotation="0" x="52" y="105" text="APENAS PESSOAL" color="#000000" font="Calibri,12,-1,5,75,0,0,0,0,0,Bold"/>
+        <text rotation="0" x="64" y="125" text="AUTORIZADO" color="#000000" font="Calibri,12,-1,5,75,0,0,0,0,0,Bold"/>
+        <text rotation="0" x="39" y="84" text="EQUIPAMENTO ELÉTRICO" color="#000000" font="Calibri,12,-1,5,75,0,0,0,0,0,Bold"/>
+        <rect rx="1" antialias="false" x="192.643" ry="1" y="102.721" style="line-style:normal;line-weight:thin;filling:black;color:black" width="2.54771" height="14.0703"/>
+        <ellipse antialias="false" x="181.178" y="111.954" style="line-style:normal;line-weight:thin;filling:black;color:black" width="17.834" height="16.6285"/>
+        <rect rx="1" antialias="false" x="181.178" ry="1" y="108.116" style="line-style:normal;line-weight:thin;filling:black;color:black" width="2.54771" height="12.884"/>
+        <rect rx="1" antialias="false" x="185" ry="1" y="103" style="line-style:normal;line-weight:thin;filling:black;color:black" width="2.54771" height="11.512"/>
+        <rect rx="1" antialias="false" x="188.822" ry="1" y="101.442" style="line-style:normal;line-weight:thin;filling:black;color:black" width="2.54771" height="14.0703"/>
+        <rect rx="1" antialias="false" x="196.465" ry="1" y="109.395" style="line-style:normal;line-weight:thin;filling:black;color:black" width="2.54771" height="11.512"/>
+        <ellipse antialias="false" x="174.809" y="99.1626" style="line-style:normal;line-weight:hight;filling:none;color:red" width="31.8465" height="31.9779"/>
+        <line x1="181.178" x2="199.013" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:red" end1="none" end2="none" y1="103" y2="128.582"/>
+    </description>
+</definition>

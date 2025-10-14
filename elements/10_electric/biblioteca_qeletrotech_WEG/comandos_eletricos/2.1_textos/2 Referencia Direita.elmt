@@ -1,0 +1,28 @@
+<definition link_type="terminal" hotspot_x="6" version="0.80" hotspot_y="5" type="element" height="10" width="20">
+    <uuid uuid="{91227644-a487-41f3-9971-39418e78d937}"/>
+    <names>
+        <name lang="pt">direita</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <circle antialias="false" x="-3" y="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="6"/>
+        <line antialias="false" y1="0" y2="0" end1="none" x1="3" end2="none" x2="8" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <dynamic_text frame="false" text_width="-1" x="-19" rotation="0" y="-12" text_from="UserText" z="4" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" Halignment="AlignLeft" uuid="{6de21602-c2df-4efb-b424-54e839984ecb}">
+            <text>_</text>
+        </dynamic_text>
+        <terminal x="8" y="0" orientation="e" name="" uuid="{25107c98-c8c5-4cd4-9cd9-8f217925fc8f}"/>
+    </description>
+</definition>

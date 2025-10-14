@@ -1,0 +1,36 @@
+<definition link_type="simple" hotspot_x="25" hotspot_y="26" version="0.90" width="50" type="element" height="30">
+    <uuid uuid="{6a051c18-1c01-4caf-bb47-b5a6b7685e28}"/>
+    <names>
+        <name lang="pt">Plaqueta</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect antialias="false" x="-21" y="-22" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayGainsboro;color:black" width="41" height="22"/>
+        <line end1="none" length1="1.5" y1="-1" end2="none" length2="1.5" y2="0" antialias="false" x1="0" x2="0" style="line-style:normal;line-weight:thin;filling:none;color:cyan"/>
+        <line end1="none" length1="1.5" y1="-10" end2="none" length2="1.5" y2="-10" antialias="false" x1="19" x2="20" style="line-style:normal;line-weight:thin;filling:none;color:cyan"/>
+        <line end1="none" length1="1.5" y1="-10" end2="none" length2="1.5" y2="-10" antialias="false" x1="-21" x2="-20" style="line-style:normal;line-weight:thin;filling:none;color:cyan"/>
+        <line end1="none" length1="1.5" y1="-21" end2="none" length2="1.5" y2="-22" antialias="false" x1="0" x2="0" style="line-style:normal;line-weight:thin;filling:none;color:cyan"/>
+        <rect antialias="false" x="-20" y="-21" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:white" width="39" height="20"/>
+        <line end1="none" length1="1.5" y1="-1" end2="none" length2="1.5" y2="0" antialias="false" x1="19" x2="20" style="line-style:normal;line-weight:thin;filling:none;color:cyan"/>
+        <dynamic_text frame="false" font="Calibri,7,-1,5,50,0,0,0,0,0,Regular" Valignment="AlignVCenter" Halignment="AlignLeft" x="-21" y="-24.5" uuid="{1e2a6fe8-802f-421a-86ec-f1fb150316db}" z="9" keep_visual_rotation="true" text_from="UserText" text_width="0" rotation="0">
+            <text>_</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line end1="none" length1="1.5" y1="-21" end2="none" length2="1.5" y2="-22" antialias="false" x1="19" x2="20" style="line-style:normal;line-weight:thin;filling:none;color:cyan"/>
+        <line end1="none" length1="1.5" y1="-22" end2="none" length2="1.5" y2="-21" antialias="false" x1="-21" x2="-20" style="line-style:normal;line-weight:thin;filling:none;color:cyan"/>
+        <line end1="none" length1="1.5" y1="-1" end2="none" length2="1.5" y2="0" antialias="false" x1="-20" x2="-21" style="line-style:normal;line-weight:thin;filling:none;color:cyan"/>
+    </description>
+</definition>

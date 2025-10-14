@@ -1,0 +1,13 @@
+<definition type="element" width="30" height="110" link_type="simple" hotspot_x="25" hotspot_y="5" version="0.80">
+    <uuid uuid="{a3fe6ba0-d2dc-4e37-ac34-a0923f168455}"/>
+    <names>
+        <name lang="pt">Canaleta Azul</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <polygon y1="100" y2="60" y3="0" x1="-20" y4="0" x2="-20" y5="100" x3="-20" y6="100" x4="0" x5="0" x6="-20" antialias="false" style="line-style:normal;line-weight:thin;filling:HTMLBlueDodgerBlue;color:HTMLBlueDodgerBlue"/>
+        <line end1="none" y1="0" end2="none" y2="100" x1="-20" x2="-20" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line end1="none" y1="100" end2="none" y2="0" x1="0" x2="0" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+    </description>
+</definition>

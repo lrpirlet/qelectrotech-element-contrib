@@ -1,0 +1,49 @@
+<definition width="120" link_type="simple" type="element" hotspot_x="101" hotspot_y="52" version="0.80" height="100">
+    <uuid uuid="{e417a64a-f790-4d7a-9a27-5e0f116df852}"/>
+    <names>
+        <name lang="pr">Transformador de Potencial</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <text rotation="0" color="#000000" x="-92" y="-30" text="Tensão de Entrada" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" color="#000000" x="-93" y="0" text="Tensão de Saida" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="-180" x="-10" width="5" y="-1.5" angle="-180" antialias="true" height="5"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:black" x="-94" width="45" y="4" rx="0" ry="0" antialias="false" height="12"/>
+        <line y1="1" y2="30" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" x2="10" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:black" x="-94" width="45" y="-26" rx="0" ry="0" antialias="false" height="12"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:black" x="-94" width="45" y="31" rx="0" ry="0" antialias="false" height="12"/>
+        <line y1="1" y2="30" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" x2="-10" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none"/>
+        <text rotation="0" color="#000000" x="-94" y="28" text="Potência" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <line y1="-46" y2="-14" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" x2="10" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none"/>
+        <line y1="-46" y2="-14" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" x2="-10" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" x="5" width="5" y="-15.5" angle="-180" antialias="true" height="5"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" x="0" width="5" y="-15.5" angle="-180" antialias="true" height="5"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" x="-5" width="5" y="-15.5" angle="-180" antialias="true" height="5"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" x="-10" width="5" y="-15.5" angle="-180" antialias="true" height="5"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="-180" x="5" width="5" y="-1.5" angle="-180" antialias="true" height="5"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="-180" x="0" width="5" y="-1.5" angle="-180" antialias="true" height="5"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="-180" x="-5" width="5" y="-1.5" angle="-180" antialias="true" height="5"/>
+        <dynamic_text rotation="0" text_from="ElementInfo" uuid="{26a3d40a-7c5a-4c2e-aef8-5b6358b6603e}" Valignment="AlignTop" x="-64" y="-61" Halignment="AlignLeft" z="39" frame="false" text_width="-1" font="Sans Serif,8,-1,5,50,0,0,0,0,0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text rotation="0" text_from="UserText" uuid="{bb043b72-92b5-480e-b4ac-0ae26d78f9f2}" Valignment="AlignTop" x="-95" y="-31" Halignment="AlignLeft" z="41" frame="false" text_width="-1" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal">
+            <text>_Vca</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <dynamic_text rotation="0" text_from="UserText" uuid="{bb043b72-92b5-480e-b4ac-0ae26d78f9f2}" Valignment="AlignTop" x="-92" y="26" Halignment="AlignLeft" z="41" frame="false" text_width="-1" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal">
+            <text>_VA</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <dynamic_text rotation="0" text_from="UserText" uuid="{bb043b72-92b5-480e-b4ac-0ae26d78f9f2}" Valignment="AlignTop" x="-94" y="-1" Halignment="AlignLeft" z="41" frame="false" text_width="-1" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal">
+            <text>_Vca</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal orientation="s" name="" uuid="{b41aa963-9d2c-4168-9131-5dcf5d2ec8e3}" x="-10" y="30"/>
+        <terminal orientation="n" name="" uuid="{14551c23-fbbe-48d9-aa4f-21fab5de4a1e}" x="-10" y="-46"/>
+        <terminal orientation="s" name="" uuid="{520faa8e-47c1-46db-86de-21a676cad9c1}" x="10" y="30"/>
+        <terminal orientation="n" name="" uuid="{5f5094f6-8349-4dce-91ca-609b5cd6a711}" x="10" y="-46"/>
+    </description>
+</definition>

@@ -1,0 +1,22 @@
+<definition link_type="simple" hotspot_x="10" hotspot_y="14" orientation="dyyy" version="0.70" width="20" height="30" type="element">
+    <uuid uuid="{7da509ed-cb59-4b41-9beb-b159a4e1005b}"/>
+    <names>
+        <name lang="pt">CONECTOR ENCODER</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line length1="1.5" antialias="true" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-6" y2="0" end1="none" x1="7" end2="none" x2="6"/>
+        <line length1="1.5" antialias="true" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="0" y2="4" end1="none" x1="6" end2="none" x2="6"/>
+        <line length1="1.5" antialias="true" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="4" y2="10" end1="none" x1="6" end2="none" x2="8"/>
+        <rect rx="0" ry="0" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" width="16" height="20" x="-8" y="-10"/>
+        <line length1="1.5" antialias="true" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-6" y2="-6" end1="none" x1="-8" end2="none" x2="-7"/>
+        <line length1="1.5" antialias="true" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-6" y2="-1" end1="none" x1="-7" end2="none" x2="-6"/>
+        <line length1="1.5" antialias="true" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-1" y2="3" end1="none" x1="-6" end2="none" x2="-6"/>
+        <line length1="1.5" antialias="true" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="3" y2="10" end1="none" x1="-6" end2="none" x2="-8"/>
+        <line length1="1.5" antialias="true" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-6" y2="-6" end1="none" x1="7" end2="none" x2="8"/>
+        <rect rx="0" ry="0" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" width="10" height="17" x="-5" y="-10"/>
+        <terminal orientation="n" x="0" y="-10"/>
+        <terminal orientation="s" x="0" y="10"/>
+    </description>
+</definition>

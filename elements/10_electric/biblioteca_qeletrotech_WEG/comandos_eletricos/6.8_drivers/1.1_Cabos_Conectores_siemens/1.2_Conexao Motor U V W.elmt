@@ -1,0 +1,22 @@
+<definition height="70" hotspot_y="34" type="element" version="0.90" width="30" link_type="simple" hotspot_x="5">
+    <uuid uuid="{a71f3bf7-cee3-47cc-a07f-488c64c617e4}"/>
+    <names>
+        <name lang="pt">CONEXÃO MOTOR</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <arc height="20" x="-6" y="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" start="270.688" width="20" angle="179.25" antialias="true"/>
+        <line end1="none" length1="1.5" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-30" y2="-30" x1="0" x2="4" antialias="false"/>
+        <line end1="none" length1="1.5" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-10" y2="-10" x1="0" x2="4" antialias="false"/>
+        <line end1="none" length1="1.5" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="10" x1="0" x2="4" antialias="false"/>
+        <line end1="none" length1="1.5" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="30" y2="30" x1="0" x2="4" antialias="false"/>
+        <line end1="none" length1="1.5" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0" y2="0" x1="14" x2="18" antialias="false"/>
+        <arc height="60" x="-6" y="-30" style="line-style:normal;line-weight:normal;filling:none;color:black" start="270.688" width="20" angle="179.25" antialias="true"/>
+        <terminal type="Generic" x="0" orientation="w" y="10" name="" uuid="{4a617db8-6b90-47a2-ad8d-f37adfd4ce0e}"/>
+        <terminal type="Generic" x="0" orientation="w" y="30" name="" uuid="{75d5b60c-77d2-4fad-9dce-af22a236360f}"/>
+        <terminal type="Generic" x="18" orientation="e" y="0" name="" uuid="{2d718022-0238-4eb6-8f3e-5f49f26c02a7}"/>
+        <terminal type="Generic" x="0" orientation="w" y="-30" name="" uuid="{262c5aa2-820c-4444-b249-e11cd8fb44cc}"/>
+        <terminal type="Generic" x="0" orientation="w" y="-10" name="" uuid="{690aa2a0-7c71-492a-acdb-7c07b83aff36}"/>
+    </description>
+</definition>

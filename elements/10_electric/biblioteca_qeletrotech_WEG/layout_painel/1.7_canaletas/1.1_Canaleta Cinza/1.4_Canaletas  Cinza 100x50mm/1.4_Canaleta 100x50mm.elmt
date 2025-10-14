@@ -1,0 +1,13 @@
+<definition link_type="simple" hotspot_x="5" width="110" height="210" hotspot_y="5" type="element" version="0.90">
+    <uuid uuid="{0dad7c4b-7a75-401d-869f-057cd1f69eaf}"/>
+    <names>
+        <name lang="pt">Canaleta Cinza</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <polygon x6="0" style="line-style:normal;line-weight:thin;filling:gray;color:gray" y1="140" antialias="false" y2="60" y3="0" x1="0" y4="0" x2="0" y5="200" x3="0" y6="200" x4="100" x5="100"/>
+        <line end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="0" antialias="false" y2="200" length1="1.5" x1="0" length2="1.5" x2="0" end1="none"/>
+        <line end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="200" antialias="false" y2="0" length1="1.5" x1="100" length2="1.5" x2="100" end1="none"/>
+    </description>
+</definition>

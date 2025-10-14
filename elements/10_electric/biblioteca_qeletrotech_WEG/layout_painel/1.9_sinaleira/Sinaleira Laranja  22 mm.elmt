@@ -1,0 +1,38 @@
+<definition version="0.80" height="40" link_type="simple" type="element" hotspot_x="20" hotspot_y="20" width="40">
+    <uuid uuid="{aadd03fa-0a1d-4f56-a755-531451210604}"/>
+    <names>
+        <name lang="pt">Sinaleira Laranja</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+    </elementInformations>
+    <informations>&#xd;
+     Author: DXF converter&#xd;
+     License:see http://qelectrotech.org/wiki/doc/elements_license&#xd;
+     Converter version:V3.0 DB&#xd;
+&#xd;
+</informations>
+    <description>
+        <rect rx="14" ry="14" height="28" antialias="false" x="-14" y="-14" style="line-style:normal;line-weight:thin;filling:black;color:HTMLGrayBlack" width="28"/>
+        <rect rx="14" ry="14" height="26" antialias="false" x="-13" y="-13" style="line-style:normal;line-weight:thin;filling:HTMLOrangeOrange;color:HTMLGrayBlack" width="26"/>
+        <line antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:cyan" y1="-14" y2="-13" length1="1.5" x1="0" length2="1.5" x2="0"/>
+        <line antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:cyan" y1="0" y2="0" length1="1.5" x1="-14" length2="1.5" x2="-13"/>
+        <line antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:cyan" y1="14" y2="13" length1="1.5" x1="0" length2="1.5" x2="0"/>
+        <line antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:cyan" y1="0" y2="0" length1="1.5" x1="14" length2="1.5" x2="13"/>
+        <dynamic_text text_width="0" rotation="0" x="-10" y="-34" z="7" font="Calibri,9,-1,5,50,0,0,0,0,0,Regular" text_from="ElementInfo" Valignment="AlignTop" uuid="{19da2c05-9277-41f1-8dcd-44d52cd2962f}" frame="false" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle antialias="false" x="-11" y="-11" style="line-style:normal;line-weight:normal;filling:HTMLBrownSandyBrown;color:orange" diameter="22"/>
+    </description>
+</definition>

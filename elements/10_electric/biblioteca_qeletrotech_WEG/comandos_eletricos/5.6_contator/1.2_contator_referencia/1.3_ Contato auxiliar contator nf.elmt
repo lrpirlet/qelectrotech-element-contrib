@@ -1,0 +1,28 @@
+<definition version="0.90" link_type="slave" hotspot_x="7" hotspot_y="24" width="20" type="element" height="50">
+    <uuid uuid="{73853d45-8948-4e06-90f2-cdccb0d59897}"/>
+    <names>
+        <name lang="pt">CONTATO FECHADO NF</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">NC</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <polygon closed="false" y1="-8" y2="9" y3="15" x1="7" y4="20" x2="0" antialias="false" x3="0" x4="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon closed="false" y1="-20" y2="-5" y3="-5" x1="0" x2="0" antialias="false" x3="8" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" rotation="0" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" x="-29" uuid="{9f7c906e-0056-4fa9-a189-12afcd4b9852}" text_width="-1" y="-12" z="6" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text frame="false" Halignment="AlignLeft" rotation="0" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normal" x="-1" uuid="{cb194e5c-dd91-4a91-baa3-5cbbff75531b}" text_width="0" y="5" z="7" text_from="UserText" Valignment="AlignTop">
+            <text>22</text>
+        </dynamic_text>
+        <dynamic_text frame="false" Halignment="AlignLeft" rotation="0" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normal" x="-1" uuid="{cb194e5c-dd91-4a91-baa3-5cbbff75531b}" text_width="0" y="-23" z="7" text_from="UserText" Valignment="AlignTop">
+            <text>21</text>
+        </dynamic_text>
+        <terminal name="" orientation="n" x="0" uuid="{dab85feb-7168-4fcf-b166-fea0a85df4ab}" y="-20" type="Generic"/>
+        <terminal name="" orientation="s" x="0" uuid="{4300c016-3333-4930-b111-8369c3074c94}" y="20" type="Generic"/>
+    </description>
+</definition>

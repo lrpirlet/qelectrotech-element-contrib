@@ -1,0 +1,19 @@
+<definition height="40" width="20" link_type="simple" type="element" hotspot_x="13" hotspot_y="20" version="0.90">
+    <uuid uuid="{d1d766c5-f260-48c5-8ad6-c662ef3286a7}"/>
+    <names>
+        <name lang="pt">Trilho</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect height="16" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="10" x="-10" y="1" antialias="false"/>
+        <rect height="3" rx="1" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayLightGray" width="8" x="-9" y="-2" antialias="false"/>
+        <rect height="16" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="4" x="0" y="1" antialias="false"/>
+        <rect height="16" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="14" x="-10" y="-18" antialias="false"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="1" x="-10" y="-2" antialias="false"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="130.125" width="6" angle="103.188" x="1" y="-3" antialias="true"/>
+        <rect height="3" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLGrayLightGray;color:HTMLGrayLightGray" width="2" x="-1" y="-2" antialias="false"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="273.313" width="5" angle="176.625" x="-6" y="-3" antialias="true"/>
+        <arc height="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayLightGray" start="87.9375" width="6" angle="182" x="-9" y="-3" antialias="true"/>
+    </description>
+</definition>

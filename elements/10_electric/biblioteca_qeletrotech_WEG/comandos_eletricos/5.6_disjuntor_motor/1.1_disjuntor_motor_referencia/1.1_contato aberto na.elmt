@@ -1,0 +1,24 @@
+<definition version="0.90" type="element" link_type="slave" height="50" hotspot_x="11" hotspot_y="24" width="30">
+    <uuid uuid="{005573a4-64ec-4756-a14f-61de1db29735}"/>
+    <names>
+        <name lang="pt">CONTATO ABERTO NA</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">NO</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <text text="NA" rotation="0" x="4" y="14" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <line length2="1.5" end1="none" antialias="true" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-20" y2="-6" x1="0" x2="0" length1="1.5"/>
+        <text text="C" rotation="0" x="4" y="-10" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <polygon antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y1="-6" y2="9" y3="20" x1="-7" x2="0" x3="0"/>
+        <dynamic_text rotation="0" x="-29" y="-12" Valignment="AlignTop" z="6" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" keep_visual_rotation="true" text_from="ElementInfo" uuid="{9f7c906e-0056-4fa9-a189-12afcd4b9852}" frame="false" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal x="0" y="20" type="Generic" name="" uuid="{82f9a720-0faf-4cf4-b1b6-dd80dd9744ea}" orientation="s"/>
+        <terminal x="0" y="-20" type="Generic" name="" uuid="{1a9d05a3-b366-42b8-873a-5c1fe554b67a}" orientation="n"/>
+    </description>
+</definition>

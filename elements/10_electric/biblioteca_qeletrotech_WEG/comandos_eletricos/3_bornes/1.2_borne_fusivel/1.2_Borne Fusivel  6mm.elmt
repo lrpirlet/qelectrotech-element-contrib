@@ -1,0 +1,38 @@
+<definition hotspot_x="5" hotspot_y="15" type="element" height="70" width="10" version="0.90" link_type="simple">
+    <uuid uuid="{b4a29ee8-9201-4086-bc86-a8e9e2a483bf}"/>
+    <names>
+        <name lang="pt">Borne Fusível  6mm²</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="machine_manufacturer_reference">XF10261754</elementInformation>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="description">Borne Fusível BTWS 2S  6mm²</elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">10261754</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line x2="0" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="46" y2="42" x1="0"/>
+        <rect antialias="false" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-3" y="-3" height="6" width="6"/>
+        <dynamic_text rotation="0" Halignment="AlignLeft" font="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0,Normal" text_width="-1" text_from="ElementInfo" keep_visual_rotation="true" x="1" uuid="{da80e0e4-cd1c-4718-a03c-2c40d2ae9720}" y="-9" z="4" frame="false" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <rect antialias="false" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-3" y="36" height="6" width="6"/>
+        <dynamic_text rotation="0" Halignment="AlignLeft" font="Arial,7,-1,5,50,0,0,0,0,0,Normal" text_width="-1" text_from="UserText" keep_visual_rotation="true" x="-25" uuid="{bbba32f2-874d-4f27-bdae-804621bfe54f}" y="-10" z="6" frame="false" Valignment="AlignTop">
+            <text>XF:</text>
+            <info_name>label</info_name>
+            <composite_text>%{comment}</composite_text>
+        </dynamic_text>
+        <line x2="0" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="-3" y2="-7" x1="0"/>
+        <terminal type="Generic" orientation="s" name="" x="0" uuid="{6c8a20e5-4b30-4358-97cb-85e297432f41}" y="46"/>
+        <terminal type="Generic" orientation="n" name="" x="0" uuid="{e8aace96-5b12-4f33-8a9a-1ae8a4e7b5dc}" y="-7"/>
+    </description>
+</definition>

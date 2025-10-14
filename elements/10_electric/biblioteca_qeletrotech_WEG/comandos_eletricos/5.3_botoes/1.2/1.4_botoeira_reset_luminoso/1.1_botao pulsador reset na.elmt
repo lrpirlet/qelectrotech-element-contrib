@@ -1,0 +1,38 @@
+<definition height="50" type="element" link_type="master" hotspot_x="18" hotspot_y="24" version="0.90" width="30">
+    <uuid uuid="{53ff8b50-221a-460d-ab69-4c5a502e841c}"/>
+    <names>
+        <name lang="pt">Botão Pulsador Iluminado Azul  24Vcc  22mm  1na</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="label">BH</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">12931093</elementInformation>
+        <elementInformation show="1" name="description">BOTÃO PULSADOR AZUL ILUMINADO 24 VCC - 1 NA</elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference">B12931093</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text x="3" y="16" text="4" rotation="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <line length1="1.5" end1="none" length2="1.5" end2="none" antialias="true" y1="-2.70442" y2="2.79208" x1="-14.9331" style="line-style:normal;line-weight:normal;filling:none;color:HTMLBlueDodgerBlue" x2="-14.9331"/>
+        <line length1="1.5" end1="none" length2="1.5" end2="none" antialias="true" y1="-20" y2="-6" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0"/>
+        <line length1="1.5" end1="none" length2="1.5" end2="none" antialias="true" y1="0" y2="0" x1="-12" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="-4"/>
+        <polygon antialias="false" y1="2" y2="0" y3="-2" x1="-9" y4="2" style="line-style:normal;line-weight:thin;filling:black;color:black" x2="-15" x3="-9" x4="-9"/>
+        <text x="3" y="-12" text="3" rotation="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <polygon antialias="false" y1="-6" closed="false" y2="9" y3="20" x1="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" x3="0"/>
+        <dynamic_text Valignment="AlignTop" x="-44" frame="false" y="-12" z="16" Halignment="AlignLeft" rotation="0" text_width="-1" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="true" uuid="{f201d046-916e-4e96-9a17-1fe38f4b1de6}" text_from="ElementInfo">
+            <text>BH</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal x="0" y="-20" type="Generic" orientation="n" name="" uuid="{f8c4e6b8-8362-45be-a6c0-ada629bdb2bc}"/>
+        <terminal x="0" y="20" type="Generic" orientation="s" name="" uuid="{bbc8359f-0011-4710-acf2-938e7d3b90da}"/>
+    </description>
+</definition>

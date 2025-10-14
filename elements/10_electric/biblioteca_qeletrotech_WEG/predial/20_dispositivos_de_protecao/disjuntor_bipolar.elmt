@@ -1,0 +1,26 @@
+<definition hotspot_y="12" type="element" width="70" link_type="simple" orientation="dyyy" height="30" version="0.70" hotspot_x="34">
+    <uuid uuid="{912fbbde-2e61-426c-90fb-4c83b6d83d35}"/>
+    <names>
+        <name lang="pt">Disjuntor Bipolar</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line x1="10" y1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="0" end2="none" end1="none" length1="1.5" length2="1.5" x2="23" antialias="false"/>
+        <line x1="10" y1="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="10" end2="none" end1="none" length1="1.5" length2="1.5" x2="23" antialias="false"/>
+        <line x1="-22" y1="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="10" end2="none" end1="none" length1="1.5" length2="1.5" x2="-10" antialias="false"/>
+        <arc y="3" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" x="-10" start="90" height="10" angle="90" antialias="true"/>
+        <arc y="3" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" x="-10" start="0" height="10" angle="90" antialias="true"/>
+        <line x1="-22" y1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="0" end2="none" end1="none" length1="1.5" length2="1.5" x2="-10" antialias="false"/>
+        <arc y="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" x="-10" start="90" height="10" angle="90" antialias="true"/>
+        <arc y="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" x="-10" start="0" height="10" angle="90" antialias="true"/>
+        <line x1="0" y1="-7" style="line-style:dashed;line-weight:thin;filling:none;color:black" y2="3" end2="none" end1="none" length1="1.5" length2="1.5" x2="0" antialias="false"/>
+        <dynamic_text y="-20" text_from="UserText" font_size="6" frame="false" uuid="{d4b11f76-6c2e-461e-ac54-e6c326b0b586}" x="-37" rotation="0" z="43">
+            <text>Q1</text>
+        </dynamic_text>
+        <terminal y="0" x="-27" orientation="w"/>
+        <terminal y="10" x="-27" orientation="w"/>
+        <terminal y="10" x="28" orientation="e"/>
+        <terminal y="0" x="28" orientation="e"/>
+    </description>
+</definition>
